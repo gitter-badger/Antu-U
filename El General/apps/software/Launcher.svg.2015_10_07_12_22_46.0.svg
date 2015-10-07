@@ -276,6 +276,383 @@
        y1="649.7406"
        x2="-297.87238"
        y2="298.09988" />
+    <filter
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       filterUnits="objectBoundingBox"
+       id="filter-5">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset31" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur33" />
+      <feColorMatrix
+         values="0 0 0 0 0.184313725   0 0 0 0 0.188235294   0 0 0 0 0.188235294  0 0 0 0.608002151 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix35" />
+      <feMerge
+         id="feMerge37">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode39" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode41" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="101.12279"
+       y1="284.91931"
+       x2="101.12279"
+       y2="345.8898"
+       id="linearGradient-3"
+       gradientTransform="scale(1.0043645,0.9956545)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#222222"
+         offset="0%"
+         id="stop21" />
+      <stop
+         stop-color="#252525"
+         offset="100%"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       x1="78.677391"
+       y1="293.79248"
+       x2="129.80164"
+       y2="350.37903"
+       id="linearGradient-4"
+       gradientTransform="scale(1.0043304,0.99568831)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#5F6F81"
+         offset="0%"
+         id="stop26" />
+      <stop
+         stop-color="#4B4448"
+         offset="100%"
+         id="stop28" />
+    </linearGradient>
+    <filter
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       filterUnits="objectBoundingBox"
+       id="filter-10">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset60" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur62" />
+      <feColorMatrix
+         values="0 0 0 0 0.388235294   0 0 0 0 0.407843137   0 0 0 0 0.411764706  0 0 0 0.7 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix64" />
+      <feMerge
+         id="feMerge66">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode68" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode70" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="171.64203"
+       y1="109.09292"
+       x2="328.13147"
+       y2="271.14246"
+       id="linearGradient-7"
+       gradientTransform="scale(1.0102797,0.98982488)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#4C5052"
+         offset="0%"
+         id="stop45" />
+      <stop
+         stop-color="#343739"
+         offset="100%"
+         id="stop47" />
+    </linearGradient>
+    <linearGradient
+       x1="250.38104"
+       y1="77.280289"
+       x2="250.38104"
+       y2="303.97885"
+       id="linearGradient-8"
+       gradientTransform="scale(1.0102797,0.98982488)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#3E3E3E"
+         offset="0%"
+         id="stop50" />
+      <stop
+         stop-color="#000000"
+         offset="100%"
+         id="stop52" />
+    </linearGradient>
+    <linearGradient
+       x1="250.37828"
+       y1="77.533844"
+       x2="250.37828"
+       y2="303.73483"
+       id="linearGradient-9"
+       gradientTransform="scale(1.0102902,0.98981457)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#677A8E"
+         offset="0%"
+         id="stop55" />
+      <stop
+         stop-color="#4B4448"
+         offset="100%"
+         id="stop57" />
+    </linearGradient>
+    <filter
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       filterUnits="objectBoundingBox"
+       id="filter-15">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset89" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur91" />
+      <feColorMatrix
+         values="0 0 0 0 0.388235294   0 0 0 0 0.407843137   0 0 0 0 0.411764706  0 0 0 0.7 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix93" />
+      <feMerge
+         id="feMerge95">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode97" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode99" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="102.48752"
+       y1="192.46367"
+       x2="237.97963"
+       y2="335.7435"
+       id="linearGradient-12"
+       gradientTransform="scale(0.99543694,1.004584)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#46494B"
+         offset="0%"
+         id="stop74" />
+      <stop
+         stop-color="#393C3E"
+         offset="100%"
+         id="stop76" />
+    </linearGradient>
+    <linearGradient
+       x1="171.50122"
+       y1="192.46367"
+       x2="171.50122"
+       y2="343.60641"
+       id="linearGradient-13"
+       gradientTransform="scale(0.99543694,1.004584)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#222222"
+         offset="0%"
+         id="stop79" />
+      <stop
+         stop-color="#0E0F0F"
+         offset="100%"
+         id="stop81" />
+    </linearGradient>
+    <linearGradient
+       x1="171.51253"
+       y1="192.9512"
+       x2="171.51253"
+       y2="343.08795"
+       id="linearGradient-14"
+       gradientTransform="scale(0.99537682,1.0046447)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#677A8E"
+         offset="0%"
+         id="stop84" />
+      <stop
+         stop-color="#2A2C2E"
+         offset="100%"
+         id="stop86" />
+    </linearGradient>
+    <filter
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       filterUnits="objectBoundingBox"
+       id="filter-18">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetInner1"
+         id="feOffset108" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="shadowOffsetInner1"
+         result="shadowBlurInner1"
+         id="feGaussianBlur110" />
+      <feComposite
+         k4="0"
+         k1="0"
+         in="shadowBlurInner1"
+         in2="SourceAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         result="shadowInnerInner1"
+         id="feComposite112" />
+      <feColorMatrix
+         values="0 0 0 0 0.211764706   0 0 0 0 0.231372549   0 0 0 0 0.239215686  0 0 0 0.7 0"
+         in="shadowInnerInner1"
+         type="matrix"
+         result="shadowMatrixInner1"
+         id="feColorMatrix114" />
+      <feMerge
+         id="feMerge116">
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode118" />
+        <feMergeNode
+           in="shadowMatrixInner1"
+           id="feMergeNode120" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="209.5351"
+       y1="156.90233"
+       x2="209.5351"
+       y2="203.46988"
+       id="linearGradient-17"
+       gradientTransform="scale(1.4041649,0.71216706)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#31373B"
+         offset="0%"
+         id="stop103" />
+      <stop
+         stop-color="#263950"
+         offset="100%"
+         id="stop105" />
+    </linearGradient>
+    <filter
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       filterUnits="objectBoundingBox"
+       id="filter-22">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetInner1"
+         id="feOffset134" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         in="shadowOffsetInner1"
+         result="shadowBlurInner1"
+         id="feGaussianBlur136" />
+      <feComposite
+         k4="0"
+         k1="0"
+         in="shadowBlurInner1"
+         in2="SourceAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         result="shadowInnerInner1"
+         id="feComposite138" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.561022418 0"
+         in="shadowInnerInner1"
+         type="matrix"
+         result="shadowMatrixInner1"
+         id="feColorMatrix140" />
+      <feMerge
+         id="feMerge142">
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode144" />
+        <feMergeNode
+           in="shadowMatrixInner1"
+           id="feMergeNode146" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="228.43039"
+       y1="195.45351"
+       x2="228.43039"
+       y2="296.09155"
+       id="linearGradient-20"
+       gradientTransform="scale(1.2020339,0.83192329)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#A3B0B8"
+         offset="0%"
+         id="stop124" />
+      <stop
+         stop-color="#969FA1"
+         offset="100%"
+         id="stop126" />
+    </linearGradient>
+    <linearGradient
+       x1="228.43039"
+       y1="195.45351"
+       x2="228.43039"
+       y2="298.46692"
+       id="linearGradient-21"
+       gradientTransform="scale(1.2020339,0.83192329)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#30373D"
+         offset="0%"
+         id="stop129" />
+      <stop
+         stop-color="#1C1C1D"
+         offset="100%"
+         id="stop131" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -534,6 +911,116 @@
                      id="path11-6"
                      inkscape:connector-curvature="0"
                      style="fill:#e8eef3;fill-opacity:1" />
+                </g>
+                <g
+                   id="g4795"
+                   transform="matrix(0.6289302,0,0,0.6289302,-9.5800564,188.15425)">
+                  <g
+                     id="Triangle-1"
+                     style="filter:url(#filter-5)">
+                    <use
+                       id="use153"
+                       xlink:href="#path-6"
+                       sketch:type="MSShapeGroup"
+                       style="fill:#3f4244;fill-rule:evenodd;stroke:url(#linearGradient-3);stroke-width:2"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       id="use155"
+                       xlink:href="#path-6"
+                       style="fill:none;stroke:url(#linearGradient-4);stroke-width:1"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     id="Oval-1"
+                     style="filter:url(#filter-10)">
+                    <use
+                       id="use158"
+                       xlink:href="#path-11"
+                       sketch:type="MSShapeGroup"
+                       style="fill:url(#linearGradient-7);fill-rule:evenodd;stroke:url(#linearGradient-8);stroke-width:2"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       id="use160"
+                       xlink:href="#path-11"
+                       style="fill:none;stroke:url(#linearGradient-9);stroke-width:1.5"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     id="Path-1"
+                     style="filter:url(#filter-15)">
+                    <use
+                       id="use163"
+                       xlink:href="#path-16"
+                       sketch:type="MSShapeGroup"
+                       style="fill:url(#linearGradient-12);fill-rule:evenodd;stroke:url(#linearGradient-13);stroke-width:2"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       id="use165"
+                       xlink:href="#path-16"
+                       style="fill:none;stroke:url(#linearGradient-14);stroke-width:1"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     id="Path-2"
+                     style="filter:url(#filter-18)">
+                    <use
+                       id="use168"
+                       xlink:href="#path-19"
+                       sketch:type="MSShapeGroup"
+                       style="fill:#a3b0b8;fill-rule:evenodd;stroke:url(#linearGradient-17);stroke-width:1"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       id="use170"
+                       xlink:href="#path-19"
+                       style="fill:none;stroke:none"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     id="Path-4"
+                     style="filter:url(#filter-22)">
+                    <use
+                       id="use173"
+                       xlink:href="#path-23"
+                       transform="matrix(0.99862953,-0.05233596,0.05233596,0.99862953,-10.376028,14.652036)"
+                       sketch:type="MSShapeGroup"
+                       style="fill:url(#linearGradient-20);fill-rule:evenodd;stroke:url(#linearGradient-21);stroke-width:1"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       id="use175"
+                       xlink:href="#path-23"
+                       style="fill:none;stroke:none"
+                       x="0"
+                       y="0"
+                       width="100%"
+                       height="100%" />
+                  </g>
                 </g>
               </g>
             </g>
