@@ -998,11 +998,11 @@
        inkscape:collect="always"
        id="linearGradient4531-0">
       <stop
-         style="stop-color:#606d7a;stop-opacity:1"
+         style="stop-color:#889bad;stop-opacity:1"
          offset="0"
          id="stop4533-4" />
       <stop
-         style="stop-color:#aeb6be;stop-opacity:1"
+         style="stop-color:#c3ccd5;stop-opacity:1"
          offset="1"
          id="stop4535-4" />
     </linearGradient>
@@ -1015,10 +1015,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.1657643"
-     inkscape:cx="9.2703624"
-     inkscape:cy="26.285752"
+     inkscape:cx="28.7099"
+     inkscape:cy="21.387252"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="g5139"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1136,7 +1136,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1206,7 +1206,7 @@
                      id="g4336"
                      transform="matrix(1.1212191,0.10169771,-0.10169771,1.1212191,-10.345886,-104.79511)">
                     <rect
-                       style="opacity:1;fill:#444d54;fill-opacity:1;stroke:none;stroke-width:0.38600406;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       style="opacity:1;fill:#687681;fill-opacity:1;stroke:none;stroke-width:0.38600406;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                        id="rect4973-0"
                        width="58.437252"
                        height="55.506123"
@@ -1255,7 +1255,7 @@
                         <path
                            id="icecap-7"
                            class="full-specularity"
-                           style="display:inline;opacity:1;fill:#9ea7b0;fill-opacity:1;enable-background:new"
+                           style="display:inline;opacity:1;fill:#b8c3ce;fill-opacity:1;enable-background:new"
                            d="m 432.96793,490.62884 16.24422,16.53802 c 1.49487,1.4944 1.49487,4.58283 0.59795,5.47947 l -8.07228,-6.57536 -1.59453,9.66379 -6.67707,-3.58656 -10.86271,6.87424 -3.58768,-14.44587 -5.78016,12.55296 -14.45038,-0.0996 c -2.79042,0 -2.39179,-2.88917 0.49828,-5.77834 5.6805,-6.27648 16.74252,-16.93654 20.23055,-20.62272 3.58768,-3.68619 9.86612,-3.58656 13.45381,0 z"
                            inkscape:connector-curvature="0" />
                       </g>

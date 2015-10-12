@@ -30,18 +30,6 @@
          style="stop-color:#555d67;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4525"
-       inkscape:collect="always">
-      <stop
-         id="stop4527"
-         offset="0"
-         style="stop-color:#168469;stop-opacity:1" />
-      <stop
-         id="stop4529"
-         offset="1"
-         style="stop-color:#4ee0cc;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4418">
       <stop
          style="stop-color:#2c2e31;stop-opacity:1"
@@ -79,11 +67,11 @@
     <linearGradient
        id="linearGradient4501">
       <stop
-         style="stop-color:#f67400;stop-opacity:1;"
+         style="stop-color:#e91a14;stop-opacity:1"
          offset="0"
          id="stop4503" />
       <stop
-         style="stop-color:#ed1515;stop-opacity:1;"
+         style="stop-color:#ff7084;stop-opacity:1"
          offset="1"
          id="stop4505" />
     </linearGradient>
@@ -489,32 +477,13 @@
        inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4525"
+       xlink:href="#linearGradient4501"
        id="linearGradient4523"
        x1="405.57144"
        y1="543.79797"
-       x2="406.57144"
-       y2="501.798"
+       x2="404.97409"
+       y2="502.12073"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4539"
-       id="linearGradient4537"
-       x1="409.57144"
-       y1="542.79797"
-       x2="410.57144"
-       y2="501.798"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4539"
-       id="linearGradient4551"
-       x1="406.57144"
-       y1="533.79797"
-       x2="406.57144"
-       y2="512.79797"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.19958,-0.44504993)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -524,8 +493,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.5118413"
-     inkscape:cx="12.939241"
-     inkscape:cy="25.868836"
+     inkscape:cx="15.497753"
+     inkscape:cy="25.986319"
      inkscape:document-units="px"
      inkscape:current-layer="g4553"
      showgrid="true"
@@ -534,9 +503,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="646"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -636,10 +605,6 @@
        position="44.000012,4.0000264"
        orientation="-20,0"
        id="guide4670" />
-    <sodipodi:guide
-       position="44.000012,24.000026"
-       orientation="0,-39.999969"
-       id="guide4672" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -674,12 +639,12 @@
          cy="522.59583"
          cx="406.01132"
          id="path4515"
-         style="opacity:1;fill:url(#linearGradient4523);fill-opacity:1;stroke:url(#linearGradient4537);stroke-width:1.9153465;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient4523);fill-opacity:1;stroke:none;stroke-width:1.43625526;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path3455"
          d="m 394.83343,511.82956 6.08919,6.08919 9.96414,0 0,9.96414 6.08919,6.08919 0,-22.14252 -22.14252,0 z m 6.08919,7.19632 -6.08919,6.08919 0,8.85701 8.85701,0 6.08919,-6.08919 -8.85701,0 0,-8.85701 z"
-         style="fill:url(#linearGradient4551);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:0.97000003;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.884" />
     </g>
   </g>
 </svg>

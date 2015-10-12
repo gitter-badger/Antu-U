@@ -447,15 +447,6 @@
        inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4490"
-       id="linearGradient4423"
-       x1="21.97337"
-       y1="1047.4552"
-       x2="21.97337"
-       y2="1004.7892"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3819"
        id="linearGradient4480"
        x1="35.249878"
@@ -717,7 +708,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999999"
-     inkscape:cx="-6.7888933"
+     inkscape:cx="10.545898"
      inkscape:cy="23.433297"
      inkscape:document-units="px"
      inkscape:current-layer="g4413"
@@ -727,9 +718,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -852,7 +843,7 @@
          id="g4413"
          style="stroke-width:1.31742239;stroke-miterlimit:4;stroke-dasharray:none">
         <circle
-           style="opacity:1;fill:url(#linearGradient4489);fill-opacity:1;stroke:url(#linearGradient4423);stroke-width:1.31742239;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:url(#linearGradient4489);fill-opacity:1;stroke:none;stroke-width:1.31742239;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path4173"
            cx="17.386787"
            cy="1026.8689"

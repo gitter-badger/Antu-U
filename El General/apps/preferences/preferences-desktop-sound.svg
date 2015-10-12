@@ -20,6 +20,18 @@
      id="defs5455">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4334">
+      <stop
+         style="stop-color:#197cf1;stop-opacity:1"
+         offset="0"
+         id="stop4336" />
+      <stop
+         style="stop-color:#21e0fb;stop-opacity:1"
+         offset="1"
+         id="stop4338" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4191">
       <stop
          style="stop-color:#18222a;stop-opacity:1"
@@ -53,12 +65,12 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4303"
+       xlink:href="#linearGradient4334"
        id="linearGradient4374"
-       x1="0"
-       y1="212.589"
-       x2="425.17801"
-       y2="212.589"
+       x1="228.74174"
+       y1="432.16043"
+       x2="228.74174"
+       y2="34.48703"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -411,6 +423,15 @@
        y1="212.589"
        x2="425.17801"
        y2="212.589" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4334"
+       id="linearGradient4346"
+       x1="403.57144"
+       y1="546.79797"
+       x2="403.57144"
+       y2="518.79797"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -420,7 +441,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="10.599255"
-     inkscape:cx="25.114869"
+     inkscape:cx="29.469271"
      inkscape:cy="9.8554029"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -430,9 +451,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="646"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -492,7 +513,7 @@
      id="layer1"
      transform="translate(-384.57143,-515.798)">
     <rect
-       style="fill:url(#linearGradient4197);fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:url(#linearGradient4197);fill-opacity:1;stroke:url(#linearGradient4346);stroke-opacity:1"
        id="rect4160"
        width="27.999958"
        height="28"
@@ -814,6 +835,14 @@
          id="g4300" />
       <g
          id="g4302" />
+    </g>
+    <g
+       transform="translate(-48.986511,11.032126)"
+       id="layer1-2"
+       inkscape:label="Capa 1">
+      <g
+         transform="matrix(1.1222273,0,0,1.1222273,-48.868971,-63.651074)"
+         id="g4187" />
     </g>
   </g>
 </svg>
