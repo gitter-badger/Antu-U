@@ -9,7 +9,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -22,18 +21,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5233">
-      <stop
-         style="stop-color:#1b95f5;stop-opacity:1"
-         offset="0"
-         id="stop5235" />
-      <stop
-         style="stop-color:#1bb5f5;stop-opacity:1"
-         offset="1"
-         id="stop5237" />
-    </linearGradient>
-    <linearGradient
        osb:paint="gradient"
        id="linearGradient4207">
       <stop
@@ -45,15 +32,6 @@
          offset="1"
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5233"
-       id="linearGradient5239"
-       x1="10"
-       y1="1050.3622"
-       x2="10"
-       y2="1038.3622"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -63,17 +41,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="-45.63636"
-     inkscape:cy="15.850247"
+     inkscape:cx="43.223163"
+     inkscape:cy="15.913382"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true">
@@ -119,6 +97,6 @@
        id="Music"
        sketch:type="MSShapeGroup"
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient5239);fill-opacity:1" />
+       style="fill:#4d4d4d;fill-opacity:1" />
   </g>
 </svg>

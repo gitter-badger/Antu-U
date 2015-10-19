@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -16,31 +15,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-x-flash-video.svg">
+   sodipodi:docname="application-x-shockwave-flash.svg">
   <defs
-     id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4139">
-      <stop
-         style="stop-color:#e61c1b;stop-opacity:1;"
-         offset="0"
-         id="stop4141" />
-      <stop
-         style="stop-color:#ff2f1e;stop-opacity:0.98672569"
-         offset="1"
-         id="stop4143" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4139"
-       id="linearGradient4145"
-       x1="8.3585939"
-       y1="1050.3428"
-       x2="10.225014"
-       y2="1038.7644"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -49,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="20.901005"
-     inkscape:cx="-3.0526268"
-     inkscape:cy="6.5738653"
+     inkscape:cx="-12.836845"
+     inkscape:cy="6.5977876"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -105,7 +82,7 @@
        d="m 13,1038.3662 0,2.4141 c -2.510638,0.042 -3.1276594,2.3928 -3.1276594,2.3928 l 2.1276594,0 0,2.414 -3.1702122,0 C 7.0638306,1050.8173 3,1050.3516 3,1050.3516 l 0,-2.4141 c 0,0 2.5787512,0.4593 3.8936172,-4.1504 C 8.5383945,1038.021 13,1038.3662 13,1038.3662 Z"
        inkscape:connector-curvature="0"
        id="path3727-6"
-       style="fill:url(#linearGradient4145);fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
        sodipodi:nodetypes="ccccccccsc" />
   </g>
 </svg>

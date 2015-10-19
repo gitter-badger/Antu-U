@@ -24,12 +24,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#828282"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,17 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      id="namedview82"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="7.4606183"
-     inkscape:cx="12.394233"
-     inkscape:cy="28.178555"
+     inkscape:cx="0.86576521"
+     inkscape:cy="33.540041"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="svg2"
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -117,11 +117,11 @@
       <stop
          id="stop4533"
          offset="0"
-         style="stop-color:#bb0d1b;stop-opacity:1" />
+         style="stop-color:#ff1225;stop-opacity:1" />
       <stop
          id="stop4535"
          offset="1"
-         style="stop-color:#f01c1a;stop-opacity:1" />
+         style="stop-color:#ff611c;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -146,13 +146,6 @@
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
   </defs>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none"
-     id="rect4236-8"
-     width="44"
-     height="1"
-     x="10"
-     y="3" />
   <g
      transform="translate(-392.98822,-511.27795)"
      id="layer1"
@@ -189,33 +182,33 @@
          transform="matrix(1.3083202,0,0,1.3083202,410.50306,-820.97071)"
          id="layer1-9"
          inkscape:label="Capa 1"
-         style="fill:#54060c;fill-opacity:1">
+         style="fill:#6f0a10;fill-opacity:1">
         <g
            transform="translate(0,0.10040269)"
            inkscape:label="Capa 1"
            id="layer1-2"
-           style="fill:#54060c;fill-opacity:1">
+           style="fill:#6f0a10;fill-opacity:1">
           <g
              transform="translate(-0.20354964,1006.9505)"
              inkscape:label="Layer 1"
              id="layer1-0"
-             style="fill:#54060c;fill-opacity:1">
+             style="fill:#6f0a10;fill-opacity:1">
             <g
                transform="matrix(1.1159221,0,0,1.1159221,26.213927,-0.94910325)"
-               style="fill:#54060c;fill-opacity:1"
+               style="fill:#6f0a10;fill-opacity:1"
                id="g4159">
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g3"
                  transform="matrix(1.059844e-4,0.02931409,-0.02931409,1.059844e-4,-6.857956,26.193303)">
                 <path
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
                    id="path5"
                    inkscape:connector-curvature="0" />
               </g>
               <path
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  d="m -18.812407,38.473359 c -0.158027,0.1928 -0.202001,0.442718 -0.117535,0.668484 l 0.0069,0.0183 c 0.115993,0.309981 0.443787,0.516795 0.815238,0.515017 l 9.4012645,-0.02735 c 0.2711596,-0.0013 0.5276441,-0.117044 0.6860443,-0.310015 0.1580923,-0.19282 0.202001,-0.442719 0.1175024,-0.668544 l -0.00695,-0.01824 c -0.1159959,-0.3101 -0.4438343,-0.517222 -0.8152855,-0.515444 l -9.4020077,0.02731 c -0.271298,0.0019 -0.527278,0.117838 -0.685215,0.310484 z"
                  id="path13"
                  inkscape:connector-curvature="0" />
@@ -225,120 +218,120 @@
              transform="translate(-340.38173,489.30704)"
              id="layer1-1"
              inkscape:label="Capa 1"
-             style="fill:#54060c;fill-opacity:1">
+             style="fill:#6f0a10;fill-opacity:1">
             <g
-               style="fill:#54060c;fill-opacity:1"
+               style="fill:#6f0a10;fill-opacity:1"
                transform="matrix(0.03170006,0,0,0.03170006,329.09403,537.51145)"
                id="g4334">
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4258">
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4260">
                   <circle
-                     style="fill:#54060c;fill-opacity:1"
+                     style="fill:#6f0a10;fill-opacity:1"
                      cx="702.98602"
                      cy="367.52957"
                      r="55.204945"
                      id="circle4262" />
                   <circle
-                     style="fill:#54060c;fill-opacity:1"
+                     style="fill:#6f0a10;fill-opacity:1"
                      cx="701.422"
                      cy="198.9814"
                      r="55.204945"
                      id="circle4262-2" />
                 </g>
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4268" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4270" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4272" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4274" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4276" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4278" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4280" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4282" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4284" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4286" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4288" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4290" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4292" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4294" />
                 <g
-                   style="fill:#54060c;fill-opacity:1"
+                   style="fill:#6f0a10;fill-opacity:1"
                    id="g4296" />
               </g>
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4298" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4300" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4302" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4304" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4306" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4308" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4310" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4312" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4314" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4316" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4318" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4320" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4322" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4324" />
               <g
-                 style="fill:#54060c;fill-opacity:1"
+                 style="fill:#6f0a10;fill-opacity:1"
                  id="g4326" />
             </g>
           </g>

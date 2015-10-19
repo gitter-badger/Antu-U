@@ -55,12 +55,12 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4422"
+       xlink:href="#linearGradient4237"
        id="linearGradient4409"
-       x1="407.19885"
-       y1="551.92169"
-       x2="408.49103"
-       y2="515.42462"
+       x1="429.1412"
+       y1="545.8587"
+       x2="386.8374"
+       y2="501.85501"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0375234,0,0,1.0375237,-15.374581,-20.019143)" />
     <linearGradient
@@ -752,9 +752,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5334552"
-     inkscape:cx="90.717711"
-     inkscape:cy="32.948184"
+     inkscape:zoom="6.67671"
+     inkscape:cx="9.9979098"
+     inkscape:cy="26.957209"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -763,9 +763,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -1817,7 +1817,7 @@
          y="-956.03595"
          id="tspan4089-7-2-9-9-28" /></text>
     <ellipse
-       style="opacity:1;fill:url(#linearGradient4409);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient4409);fill-opacity:1.0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4384"
        cx="408.52881"
        cy="524.01672"

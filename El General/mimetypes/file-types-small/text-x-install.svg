@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -19,31 +18,7 @@
    viewBox="0 0 16 16"
    sodipodi:docname="text-x-install.svg">
   <defs
-     id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4307">
-      <stop
-         style="stop-color:#2fb87e;stop-opacity:1"
-         offset="0"
-         id="stop4309" />
-      <stop
-         style="stop-color:#3ec380;stop-opacity:1"
-         offset="1"
-         id="stop4311" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4307"
-       id="radialGradient4207"
-       cx="357.38535"
-       cy="530.59637"
-       fx="357.38535"
-       fy="530.59637"
-       r="23.15132"
-       gradientTransform="matrix(1,0,0,0.75457595,0,130.22111)"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -52,17 +27,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="4.0880977"
-     inkscape:cy="7.2842846"
+     inkscape:cx="17.065938"
+     inkscape:cy="7.2999096"
      inkscape:document-units="px"
      inkscape:current-layer="g4403-3"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -121,7 +96,7 @@
          id="g4403-3"
          transform="translate(50.472933,-5.4014337)">
         <rect
-           style="opacity:1;fill:url(#radialGradient4207);fill-opacity:1.0;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4195"
            width="46.302639"
            height="34.938858"

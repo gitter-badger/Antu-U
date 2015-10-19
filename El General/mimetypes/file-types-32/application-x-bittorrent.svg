@@ -84,14 +84,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#7d7d7d"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6544057"
-     inkscape:cx="-45.784651"
-     inkscape:cy="5.3449309"
+     inkscape:cx="-13.063262"
+     inkscape:cy="13.631303"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-0"
      showgrid="true"
@@ -100,9 +100,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -174,7 +174,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -256,23 +256,6 @@
                          transform="matrix(0.42549858,0,0,0.42549858,-116.82388,804.06163)"
                          id="layer1-0"
                          inkscape:label="Capa 1">
-                        <g
-                           id="g29545"
-                           transform="matrix(2.5451719,0,0,2.5451719,232.40111,451.24615)">
-                          <rect
-                             y="3"
-                             x="10"
-                             height="1"
-                             width="44"
-                             id="rect4236-8"
-                             style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
-                          <g
-                             inkscape:transform-center-y="-9.4924686"
-                             inkscape:transform-center-x="5.4653607"
-                             inkscape:label="Capa 1"
-                             id="layer1-79"
-                             transform="translate(-392.98822,-511.27795)" />
-                        </g>
                         <g
                            transform="matrix(1.4036324,0,0,1.4036324,-236.14737,-209.9679)"
                            id="layer1-7-5"

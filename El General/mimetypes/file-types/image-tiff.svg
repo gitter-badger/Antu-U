@@ -24,12 +24,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#868686"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,17 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      id="namedview82"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="7.4606183"
-     inkscape:cx="-0.5414352"
-     inkscape:cy="28.178555"
+     inkscape:cx="16.749854"
+     inkscape:cy="38.968546"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="svg2"
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -117,11 +117,11 @@
       <stop
          id="stop4533"
          offset="0"
-         style="stop-color:#bb0d1b;stop-opacity:1" />
+         style="stop-color:#e51021;stop-opacity:1" />
       <stop
          id="stop4535"
          offset="1"
-         style="stop-color:#f01c1a;stop-opacity:1" />
+         style="stop-color:#ff1e1c;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -238,13 +238,6 @@
        x2="415.57144"
        y2="527.79797" />
   </defs>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none"
-     id="rect4236-8"
-     width="44"
-     height="1"
-     x="10"
-     y="3" />
   <g
      transform="translate(-392.98822,-511.27795)"
      id="layer1"
@@ -363,7 +356,7 @@
                          height="58.986568"
                          width="76.809471"
                          id="rect4473-3"
-                         style="opacity:1;fill:#dc161a;fill-opacity:1;stroke:#53060c;stroke-width:3.88220692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                         style="opacity:1;fill:#f71a1d;fill-opacity:1;stroke:#65080e;stroke-width:3.88220692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                     </g>
                   </g>
                 </g>
@@ -435,19 +428,19 @@
                          height="58.986568"
                          width="76.809471"
                          id="rect4473"
-                         style="opacity:1;fill:#d7151a;fill-opacity:1;stroke:#53060c;stroke-width:3.88220692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                         style="opacity:1;fill:#f2171e;fill-opacity:1;stroke:#65070e;stroke-width:3.88220692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                       <path
                          sodipodi:nodetypes="cccccccccccc"
                          inkscape:connector-curvature="0"
                          id="path4486"
                          d="m 505.51505,477.52362 14.53933,-4.58949 4.59782,3.07373 10.67925,-3.65613 10.51966,3.48078 7.58105,1.6096 5.82502,-1.99437 7.17519,-1.79251 11.5722,4.34202 -0.0355,5.65943 -72.4947,0.46704 z"
-                         style="fill:#53060c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.87193727px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+                         style="fill:#65070e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.87193727px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
                       <circle
                          r="6.9759574"
                          cy="442.28842"
                          cx="522.66162"
                          id="path4488"
-                         style="opacity:0.81099997;fill:#53060c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                         style="opacity:1;fill:#65080e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                     </g>
                   </g>
                 </g>
@@ -458,32 +451,32 @@
                cy="479.66388"
                cx="610.99548"
                id="path4740"
-               style="opacity:1;fill:#d0131b;fill-opacity:1;stroke:#53060c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="opacity:1;fill:#f2171f;fill-opacity:1;stroke:#53060c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <ellipse
                ry="17.529226"
                rx="17.689661"
                cy="479.45447"
                cx="610.80139"
                id="path4740-7"
-               style="opacity:0.735;fill:none;fill-opacity:1;stroke:#54070c;stroke-width:2.34100008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#65070e;stroke-width:2.34100008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                sodipodi:nodetypes="ccccc"
                inkscape:connector-curvature="0"
                id="path4756"
                d="m 598.67943,493.65621 11.44601,-23.18859 c 5.60266,5.88152 11.82479,10.15628 18.98364,10.6085 l 1.39585,2.23337 c -7.31195,19.73788 -19.37,17.06139 -31.8255,10.34672 z"
-               style="fill:#52060c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+               style="fill:#65080e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                sodipodi:nodetypes="cccccc"
                inkscape:connector-curvature="0"
                id="path4793"
                d="m 600.64547,495.6202 3.71848,-4.56822 3.76154,1.7885 3.2785,-4.84896 12.61021,4.76417 c -4.44546,7.04228 -11.85513,8.97599 -23.36873,2.86451 z"
-               style="fill:#cd121b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+               style="fill:#f0161f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <circle
                r="19.134081"
                cy="479.44278"
                cx="610.91852"
                id="path4740-5"
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#53060c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#65080e;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           </g>
         </g>
       </g>

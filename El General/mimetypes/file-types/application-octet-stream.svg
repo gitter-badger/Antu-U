@@ -25,12 +25,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#9e9e9e"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -39,17 +39,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      id="namedview82"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:zoom="7.4642639"
-     inkscape:cx="-39.041635"
+     inkscape:zoom="4.9170839"
+     inkscape:cx="-12.28334"
      inkscape:cy="29.109546"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="svg2"
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -118,7 +118,7 @@
       <stop
          id="stop4533"
          offset="0"
-         style="stop-color:#687683;stop-opacity:1" />
+         style="stop-color:#8798a9;stop-opacity:1" />
       <stop
          id="stop4535"
          offset="1"
@@ -147,13 +147,6 @@
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
   </defs>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none"
-     id="rect4236-8"
-     width="44"
-     height="1"
-     x="10"
-     y="3" />
   <g
      transform="translate(-392.98822,-511.27795)"
      id="layer1"
@@ -220,25 +213,25 @@
                  height="34.938858"
                  width="46.302639"
                  id="rect4195"
-                 style="opacity:1;fill:#25292d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                 style="opacity:1;fill:#373e44;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <g
                  transform="matrix(0.83317883,0,0,0.83317883,65.74755,84.6955)"
                  style="fill:#949da5;fill-opacity:1"
                  id="g4247">
                 <circle
-                   style="opacity:1;fill:#949da5;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   style="opacity:1;fill:#a3aeb8;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    id="path4224"
                    cx="373.36642"
                    cy="518.737"
                    r="2.25" />
                 <circle
-                   style="opacity:1;fill:#949da5;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   style="opacity:1;fill:#a3aeb8;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    id="path4224-4"
                    cx="367.8389"
                    cy="518.78473"
                    r="2.25" />
                 <circle
-                   style="opacity:1;fill:#949da5;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   style="opacity:1;fill:#a3aeb8;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    id="path4224-8"
                    cx="362.40543"
                    cy="518.83801"
@@ -256,7 +249,7 @@
                id="path1551"
                sketch:type="MSShapeGroup"
                inkscape:connector-curvature="0"
-               style="fill:#818a93;fill-opacity:1" />
+               style="fill:#9ba8b4;fill-opacity:1" />
           </g>
         </g>
       </g>

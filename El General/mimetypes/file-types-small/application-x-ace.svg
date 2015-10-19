@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -21,18 +20,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6420">
-      <stop
-         style="stop-color:#4d5b84;stop-opacity:1"
-         offset="0"
-         id="stop6422" />
-      <stop
-         style="stop-color:#687bb3;stop-opacity:1"
-         offset="1"
-         id="stop6424" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4207"
        osb:paint="gradient">
       <stop
@@ -44,15 +31,6 @@
          offset="1"
          id="stop3373" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6420"
-       id="linearGradient6426"
-       x1="408.63815"
-       y1="543.74487"
-       x2="408.63815"
-       y2="503.85519"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,17 +40,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-3.2566599"
-     inkscape:cy="6.9871189"
+     inkscape:cx="8.5139535"
+     inkscape:cy="7.0029025"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-5-9"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -139,7 +117,7 @@
                  id="layer1-0"
                  transform="matrix(0.42549858,0,0,0.42549858,-116.82388,804.06163)">
                 <rect
-                   style="opacity:1;fill:url(#linearGradient6426);fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
                    id="rect4319"
                    width="36"
                    height="39.999969"

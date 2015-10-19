@@ -24,12 +24,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#919191"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,17 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      id="namedview82"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:zoom="7.4642639"
-     inkscape:cx="-13.782905"
+     inkscape:zoom="3.73"
+     inkscape:cx="0.92785875"
      inkscape:cy="34.602385"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="svg2"
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -126,7 +126,7 @@
       <stop
          id="stop4424"
          offset="0"
-         style="stop-color:#b90f1c;stop-opacity:1" />
+         style="stop-color:#e41c1b;stop-opacity:1" />
       <stop
          id="stop4426"
          offset="1"
@@ -145,13 +145,6 @@
          id="stop3373" />
     </linearGradient>
   </defs>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none"
-     id="rect4236-8"
-     width="44"
-     height="1"
-     x="10"
-     y="3" />
   <g
      transform="translate(-392.98822,-511.27795)"
      id="layer1"
@@ -217,7 +210,7 @@
            d="m 90.167608,21.409151 0,4.425889 c -4.519149,0.07737 -5.629787,4.38673 -5.629787,4.38673 l 3.40851,0 0,4.425816 -5.285105,0 c -3.178723,9.588707 -10.493618,8.734813 -10.493618,8.734813 l 0,-4.425817 c 0,0 4.641752,0.842088 7.008511,-7.608998 2.960599,-10.571301 10.991489,-9.938433 10.991489,-9.938433 z"
            inkscape:connector-curvature="0"
            id="path3727"
-           style="fill:#52070c;fill-opacity:1;stroke:none" />
+           style="fill:#640d0c;fill-opacity:1;stroke:none" />
       </g>
     </g>
   </g>

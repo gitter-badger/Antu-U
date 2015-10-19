@@ -148,25 +148,25 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#545454"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.050478"
-     inkscape:cx="-11.721604"
-     inkscape:cy="10.91655"
+     inkscape:cx="48.325392"
+     inkscape:cy="29.015315"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-3-9"
+     inkscape:current-layer="g81243"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -238,7 +238,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -276,13 +276,6 @@
           <g
              id="g81243"
              transform="translate(459.98361,512.41791)">
-            <rect
-               y="3"
-               x="10"
-               height="1"
-               width="44"
-               id="rect4236-8"
-               style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
             <g
                inkscape:transform-center-y="-9.4924686"
                inkscape:transform-center-x="5.4653607"

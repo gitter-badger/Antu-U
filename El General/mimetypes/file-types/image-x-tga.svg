@@ -24,12 +24,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#636363"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,15 +38,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      id="namedview82"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:zoom="7.4606183"
-     inkscape:cx="-0.5414352"
+     inkscape:zoom="5.6536228"
+     inkscape:cx="0.86576521"
      inkscape:cy="28.178555"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      showguides="false"
@@ -458,7 +458,7 @@
                cy="479.45447"
                cx="610.80139"
                id="path4740-7"
-               style="opacity:0.735;fill:none;fill-opacity:1;stroke:#ff7037;stroke-width:2.34100008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#6f2b18;stroke-width:2.34100008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                sodipodi:nodetypes="ccccc"
                inkscape:connector-curvature="0"

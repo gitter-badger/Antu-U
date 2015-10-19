@@ -40,16 +40,16 @@
       <stop
          id="stop4505"
          offset="1"
-         style="stop-color:#ed1515;stop-opacity:1;" />
+         style="stop-color:#ff4848;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4491">
       <stop
-         style="stop-color:#212329;stop-opacity:1;"
+         style="stop-color:#383c46;stop-opacity:1"
          offset="0"
          id="stop4493" />
       <stop
-         style="stop-color:#31363b;stop-opacity:1;"
+         style="stop-color:#636d77;stop-opacity:1"
          offset="1"
          id="stop4495" />
     </linearGradient>
@@ -204,15 +204,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4260"
-       id="linearGradient4266"
-       gradientUnits="userSpaceOnUse"
-       x1="390.9964"
-       y1="546.81189"
-       x2="390.20126"
-       y2="510.45325" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4260"
        id="linearGradient4268"
        gradientUnits="userSpaceOnUse"
        x1="390.9964"
@@ -228,6 +219,15 @@
        y1="546.81189"
        x2="390.20126"
        y2="510.45325" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4491"
+       id="linearGradient4183"
+       x1="341.06265"
+       y1="553.66864"
+       x2="340.27582"
+       y2="510.17819"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -237,17 +237,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="30.7443"
-     inkscape:cy="19.916977"
+     inkscape:cx="5.1818"
+     inkscape:cy="24.916977"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:snap-global="true"
      inkscape:window-width="1366"
-     inkscape:window-height="698"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      showguides="false">
     <inkscape:grid
@@ -292,7 +292,7 @@
                id="path3"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="csssccccccccscscc"
-               style="fill:url(#linearGradient4266);fill-opacity:1" />
+               style="fill:url(#linearGradient4183);fill-opacity:1" />
           </g>
           <g
              id="g4337"

@@ -20,18 +20,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4475">
-      <stop
-         style="stop-color:#ec9700;stop-opacity:1"
-         offset="0"
-         id="stop4477" />
-      <stop
-         style="stop-color:#ffb500;stop-opacity:1"
-         offset="1"
-         id="stop4479" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4290"
        inkscape:collect="always">
       <stop
@@ -1567,15 +1555,6 @@
          id="rect4586-2-4"
          style="opacity:1;fill:url(#linearGradient4548);fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
     </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4475"
-       id="linearGradient4481"
-       x1="149.11293"
-       y1="305.43411"
-       x2="149.11293"
-       y2="-1.3861743"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1585,8 +1564,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="14.71393"
-     inkscape:cx="-5.7575411"
-     inkscape:cy="14.021839"
+     inkscape:cx="-19.655935"
+     inkscape:cy="14.05582"
      inkscape:document-units="px"
      inkscape:current-layer="g5046"
      showgrid="true"
@@ -1594,9 +1573,9 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -1705,20 +1684,20 @@
                 <g
                    id="g3"
                    transform="matrix(0.03911084,0,0,0.03911084,94.475138,25.954565)"
-                   style="fill:url(#linearGradient4481);fill-opacity:1">
+                   style="fill:#4d4d4d;fill-opacity:1">
                   <g
                      id="g5"
-                     style="fill:url(#linearGradient4481);fill-opacity:1">
+                     style="fill:#4d4d4d;fill-opacity:1">
                     <path
                        d="m 112.326,119.283 24.049,38.219 c 5.069,8.049 9.04,6.874 8.86,-2.644 l -0.792,-42.292 c -4.159,-1.452 -7.188,-5.331 -7.271,-9.995 -0.125,-5.986 4.652,-10.93 10.632,-11.043 5.986,-0.112 10.93,4.652 11.043,10.638 0.088,4.658 -2.801,8.656 -6.896,10.251 l 0.786,42.368 c 0.174,9.523 4.214,10.571 9.015,2.351 l 22.828,-39.053 c 2.119,-3.565 2.923,-9.693 1.809,-13.685 l -13.024,-38.791 5.23,-0.097 c 3.465,-0.07 6.217,-2.92 6.144,-6.366 -0.073,-3.462 -2.91,-6.211 -6.375,-6.141 l -7.532,0.143 3.051,-36.285 C 174.681,7.371 167.605,-0.174 158.094,0.003 L 135.086,0.426 C 125.57,0.6 118.647,8.418 119.627,17.89 l 3.736,36.133 -7.539,0.149 c -3.449,0.058 -6.198,2.902 -6.131,6.37 0.07,3.446 2.914,6.201 6.366,6.135 l 4.299,-0.083 -10.714,39.196 c -0.892,4.046 0.311,10.089 2.682,13.493 z"
                        id="path7"
                        inkscape:connector-curvature="0"
-                       style="fill:url(#linearGradient4481);fill-opacity:1" />
+                       style="fill:#4d4d4d;fill-opacity:1" />
                     <path
                        d="m 279.449,191.157 0,-28.314 -28.314,0 0,9.846 -193.367,0 0,-9.846 -28.315,0 0,28.314 28.314,0 0,-9.846 68.457,0 0,14.163 c -14.86,5.395 -79.512,32.687 -86.073,99.131 l -3.678,0 0,14.298 14.285,0 0,-14.298 -1.838,0 c 6.266,-57.427 59.902,-83.093 77.311,-89.925 l 0,15.747 43.796,0 0,-15.284 c 18.571,7.478 70.001,33.211 76.12,89.462 l -2.095,0 0,14.298 14.285,0 0,-14.298 -3.428,0 c -6.406,-64.752 -67.992,-92.348 -84.883,-98.692 l 0,-14.608 81.119,0 0,9.847 28.303,0 0,0.005 z m -118.044,20.66 -26.564,0 0,-26.561 26.564,0 0,26.561 z"
                        id="path9"
                        inkscape:connector-curvature="0"
-                       style="fill:url(#linearGradient4481);fill-opacity:1" />
+                       style="fill:#4d4d4d;fill-opacity:1" />
                   </g>
                 </g>
               </g>

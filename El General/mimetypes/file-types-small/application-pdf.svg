@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -21,18 +20,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5569">
-      <stop
-         style="stop-color:#dc2b2c;stop-opacity:1"
-         offset="0"
-         id="stop5571" />
-      <stop
-         style="stop-color:#ff6233;stop-opacity:1"
-         offset="1"
-         id="stop5573" />
-    </linearGradient>
-    <linearGradient
        osb:paint="gradient"
        id="linearGradient4207">
       <stop
@@ -44,15 +31,6 @@
          offset="1"
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5569"
-       id="linearGradient5575"
-       x1="82.950714"
-       y1="1039.5363"
-       x2="82.704575"
-       y2="1017.9837"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,17 +40,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="-2.9459334"
-     inkscape:cy="9.4326673"
+     inkscape:cx="-1.2142857"
+     inkscape:cy="9.4549887"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-0"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -236,22 +214,22 @@
          transform="matrix(0.76229424,0,0,0.76229424,402.83637,-237.57801)"
          id="layer1-9"
          inkscape:label="Layer 1"
-         style="fill:url(#linearGradient5575);fill-opacity:1">
+         style="fill:#4d4d4d;fill-opacity:1">
         <g
            inkscape:label="Capa 1"
            id="layer1-8"
            transform="translate(-384.28833,504.67735)"
-           style="fill:url(#linearGradient5575);fill-opacity:1">
+           style="fill:#4d4d4d;fill-opacity:1">
           <g
              id="g4231"
              transform="matrix(1.5263052,0,0,1.5263052,376.31698,-1040.1258)"
-             style="fill:url(#linearGradient5575);fill-opacity:1">
+             style="fill:#4d4d4d;fill-opacity:1">
             <g
                id="g4178"
                transform="translate(-0.98298832,0)"
-               style="fill:url(#linearGradient5575);fill-opacity:1">
+               style="fill:#4d4d4d;fill-opacity:1">
               <path
-                 style="fill:url(#linearGradient5575);fill-opacity:1"
+                 style="fill:#4d4d4d;fill-opacity:1"
                  sodipodi:nodetypes="cccccccccccccccccccccccsccsccccccccscccscccccccscssc"
                  inkscape:connector-curvature="0"
                  id="path5"

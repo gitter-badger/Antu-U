@@ -430,9 +430,9 @@
       <stop
          id="stop4414"
          offset="0.49668527"
-         style="stop-color:#666668;stop-opacity:1" />
+         style="stop-color:#3f3f40;stop-opacity:1" />
       <stop
-         style="stop-color:#424243;stop-opacity:1"
+         style="stop-color:#5a5a5c;stop-opacity:1"
          offset="1"
          id="stop4412" />
     </linearGradient>
@@ -451,11 +451,11 @@
       <stop
          id="stop4404"
          offset="0"
-         style="stop-color:#4d4d4d;stop-opacity:1" />
+         style="stop-color:#363636;stop-opacity:1" />
       <stop
          id="stop4406"
          offset="1"
-         style="stop-color:#868688;stop-opacity:1" />
+         style="stop-color:#656567;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -506,20 +506,20 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#9c9c9c"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.492043"
-     inkscape:cx="-20.725699"
+     inkscape:zoom="6.5163827"
+     inkscape:cx="21.400368"
      inkscape:cy="18.784111"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4285-8"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="646"
+     inkscape:window-height="642"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1" />
@@ -568,9 +568,9 @@
            id="text4416"
            y="673.31372"
            x="162.2289"
-           style="font-style:normal;font-weight:normal;font-size:12.09775448px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e1e1e1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:12.09775448px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:241.95509338px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#e1e1e1;fill-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:241.95509338px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#eeeeee;fill-opacity:1;"
              y="673.31372"
              x="162.2289"
              id="tspan4418"

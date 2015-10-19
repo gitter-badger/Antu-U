@@ -20,18 +20,6 @@
   <defs
      id="defs5455">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4307">
-      <stop
-         style="stop-color:#7d5192;stop-opacity:1"
-         offset="0"
-         id="stop4309" />
-      <stop
-         style="stop-color:#b691c5;stop-opacity:1"
-         offset="1"
-         id="stop4311" />
-    </linearGradient>
-    <linearGradient
        gradientTransform="matrix(1.0646823,0,0,1.0824016,51.990004,-31.819073)"
        gradientUnits="userSpaceOnUse"
        y2="517.79797"
@@ -39,7 +27,7 @@
        y1="543.79797"
        x1="375.57144"
        id="linearGradient4190-9"
-       xlink:href="#linearGradient4307"
+       xlink:href="#linearGradient4531"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient4207"
@@ -53,17 +41,29 @@
          offset="1"
          id="stop3373" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4531">
+      <stop
+         style="stop-color:#9f5cbf;stop-opacity:1"
+         offset="0"
+         id="stop4533" />
+      <stop
+         style="stop-color:#b893c7;stop-opacity:1"
+         offset="1"
+         id="stop4535" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#616161"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.050478"
-     inkscape:cx="-0.52209529"
-     inkscape:cy="6.4888657"
+     inkscape:cx="15.178582"
+     inkscape:cy="21.013125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3"
      showgrid="true"
@@ -72,9 +72,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -146,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -180,7 +180,7 @@
              height="28.142445"
              width="22.35833"
              id="rect4182-2"
-             style="opacity:0.997;fill:url(#linearGradient4190-9);fill-opacity:1;stroke:none;stroke-width:0.104;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="opacity:0.997;fill:url(#linearGradient4190-9);fill-opacity:1.0;stroke:none;stroke-width:0.104;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              style="opacity:1;fill:#3e1f4d;fill-opacity:1;stroke:none;stroke-opacity:1"

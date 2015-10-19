@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -16,19 +15,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="image-ico.svg">
+   sodipodi:docname="image-x-ico.svg">
   <defs
      id="defs4">
-    <linearGradient
-       gradientTransform="matrix(0.75786391,0,0,0.75786391,-333.76356,632.70838)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4422-3"
-       id="linearGradient6457"
-       x1="450.3428"
-       y1="549.78864"
-       x2="450.3428"
-       y2="535.78864"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient4422-3">
       <stop
@@ -49,17 +38,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="27.860365"
-     inkscape:cx="4.0335667"
-     inkscape:cy="5.9740198"
+     inkscape:cx="-3.3066099"
+     inkscape:cy="5.9919664"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -102,7 +91,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:url(#linearGradient6457);fill-opacity:1"
+       style="fill:#4d4d4d;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path5"
        d="m 2.62554,1044.0029 -0.00454,-3.8711 4.3414158,-0.6468 0,4.5179 -4.3374597,0 z m 5.0610379,-4.6333 5.7871091,-0.9239 0,5.5572 -5.7871091,0 0,-4.6333 z m 5.7885101,5.4272 -0.0016,5.5572 -5.7871152,-0.8933 0,-4.6639 5.7885182,0 z m -6.5120807,4.5628 -4.3378992,-0.6523 -2.198e-4,-3.9105 4.338119,0 0,4.5628 z" />

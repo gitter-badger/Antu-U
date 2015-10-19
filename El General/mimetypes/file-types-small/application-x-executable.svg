@@ -9,7 +9,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -22,18 +21,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4947">
-      <stop
-         style="stop-color:#35bd7f;stop-opacity:1;"
-         offset="0"
-         id="stop4949" />
-      <stop
-         style="stop-color:#3edd95;stop-opacity:0.94509804"
-         offset="1"
-         id="stop4951" />
-    </linearGradient>
-    <linearGradient
        osb:paint="gradient"
        id="linearGradient4207">
       <stop
@@ -45,15 +32,6 @@
          offset="1"
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4947"
-       id="linearGradient4953"
-       x1="363.84256"
-       y1="541.7912"
-       x2="363.84256"
-       y2="507.16058"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -63,17 +41,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.919596"
-     inkscape:cx="-35.617878"
-     inkscape:cy="26.257624"
+     inkscape:cx="-2.5542769"
+     inkscape:cy="6.8547012"
      inkscape:document-units="px"
      inkscape:current-layer="g4403"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true">
@@ -172,7 +150,7 @@
                          height="34.938858"
                          width="46.302639"
                          id="rect4195"
-                         style="opacity:1;fill:url(#linearGradient4953);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                       <g
                          transform="matrix(0.83317883,0,0,0.83317883,65.74755,84.6955)"
                          style="fill:#ffffff;fill-opacity:1"

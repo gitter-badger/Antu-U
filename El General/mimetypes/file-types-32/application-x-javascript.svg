@@ -56,14 +56,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#5c5c5c"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6544057"
-     inkscape:cx="-27.823363"
-     inkscape:cy="16.928271"
+     inkscape:cx="-9.0147935"
+     inkscape:cy="50.07376"
      inkscape:document-units="px"
      inkscape:current-layer="g4240"
      showgrid="true"
@@ -72,9 +72,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -146,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -223,34 +223,6 @@
                 </g>
               </g>
             </g>
-          </g>
-        </g>
-      </g>
-      <g
-         id="g23452"
-         transform="translate(-34.576143,0.80397925)">
-        <g
-           inkscape:transform-center-y="-9.4924686"
-           inkscape:transform-center-x="5.4653607"
-           inkscape:label="Capa 1"
-           id="layer1-313"
-           transform="translate(-392.98822,-511.27795)">
-          <g
-             id="layer1-3-6"
-             inkscape:label="Capa 1"
-             transform="translate(0.41988239,0.03484499)">
-            <text
-               sodipodi:linespacing="125%"
-               id="text4304"
-               y="570.14728"
-               x="417.92352"
-               style="font-style:normal;font-weight:normal;font-size:7.8266716px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
-                 y="570.14728"
-                 x="417.92352"
-                 id="tspan4306"
-                 sodipodi:role="line">java</tspan></text>
           </g>
         </g>
       </g>

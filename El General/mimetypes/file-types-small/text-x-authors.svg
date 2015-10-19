@@ -42,24 +42,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4422-0"
-       id="linearGradient20308"
-       x1="482.11908"
-       y1="1142.3153"
-       x2="482.11908"
-       y2="242.38155"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4422-0"
-       id="linearGradient4172"
-       gradientUnits="userSpaceOnUse"
-       x1="482.11908"
-       y1="1060.5032"
-       x2="482.11908"
-       y2="-3.0563285" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4422-0"
        id="linearGradient4174"
        gradientUnits="userSpaceOnUse"
        x1="0"
@@ -84,17 +66,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.399266"
-     inkscape:cx="0.16859981"
-     inkscape:cy="7.8830285"
+     inkscape:cx="-8.9611636"
+     inkscape:cy="7.9053507"
      inkscape:document-units="px"
      inkscape:current-layer="g4176"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -149,12 +131,12 @@
            cy="490"
            r="440"
            id="circle7515"
-           style="fill:none;stroke:url(#linearGradient4172);stroke-width:100;stroke-opacity:1" />
+           style="fill:none;stroke:#4d4d4d;stroke-width:100;stroke-opacity:1" />
         <path
            id="path7517"
            d="m 486,215 c -130,0 -239,91 -267,213 l 131,0 c 24,-52 76,-88 136,-88 83,0 150,67 150,150 0,83 -67,150 -150,150 -60,0 -112,-36 -136,-87 l -131,0 C 247,674 356,765 486,765 638,765 761,642 761,490 761,338 638,215 486,215 Z"
            inkscape:connector-curvature="0"
-           style="fill:url(#linearGradient20308);fill-opacity:1;stroke:url(#linearGradient4174);stroke-opacity:1" />
+           style="fill:#4d4d4d;fill-opacity:1;stroke:url(#linearGradient4174);stroke-opacity:1" />
       </g>
     </g>
   </g>

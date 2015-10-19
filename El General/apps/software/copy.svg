@@ -1067,13 +1067,31 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4303-3"
+       xlink:href="#linearGradient4290"
        id="linearGradient4715"
-       x1="385.57144"
-       y1="523.79797"
-       x2="430.57144"
-       y2="523.79797"
+       x1="412.84619"
+       y1="545.52081"
+       x2="412.84619"
+       y2="500.8082"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4303-3"
+       id="linearGradient4388"
+       gradientUnits="userSpaceOnUse"
+       x1="392.15164"
+       y1="555.29919"
+       x2="392.15164"
+       y2="507.29926" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4303-3"
+       id="linearGradient4390"
+       gradientUnits="userSpaceOnUse"
+       x1="387.1813"
+       y1="555.63666"
+       x2="387.1813"
+       y2="507.63669" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1083,19 +1101,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.9261836"
-     inkscape:cx="-24.313518"
+     inkscape:cx="-2.2252137"
      inkscape:cy="28.885648"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4540"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -1226,13 +1244,13 @@
                cy="531.73108"
                cx="391.21191"
                id="path4515"
-               style="opacity:1;fill:url(#linearGradient4699);fill-opacity:1;stroke:url(#linearGradient4707);stroke-width:2.00035453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="opacity:1;fill:url(#linearGradient4388);fill-opacity:1.0;stroke:url(#linearGradient4390);stroke-width:2.00035453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           </g>
         </g>
       </g>
       <g
          transform="matrix(0.6709518,0,0,0.6709518,60.893212,177.24832)"
-         style="fill:url(#linearGradient4715);fill-opacity:1.0"
+         style="fill:url(#linearGradient4715);fill-opacity:1"
          id="g4511">
         <path
            style="fill:url(#linearGradient4715);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

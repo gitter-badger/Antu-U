@@ -56,14 +56,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#828282"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.050478"
-     inkscape:cx="-0.52209579"
-     inkscape:cy="13.773618"
+     inkscape:cx="33.684569"
+     inkscape:cy="31.872383"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3"
      showgrid="true"
@@ -72,9 +72,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -146,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,37 +181,6 @@
              width="22.35833"
              id="rect4182-2"
              style="opacity:0.997;fill:url(#linearGradient4190-9);fill-opacity:1;stroke:none;stroke-width:0.104;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <g
-             id="g23830"
-             transform="translate(380.47117,515.59702)">
-            <rect
-               y="3"
-               x="10"
-               height="1"
-               width="44"
-               id="rect4236-8"
-               style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
-            <g
-               inkscape:transform-center-y="-9.4924686"
-               inkscape:transform-center-x="5.4653607"
-               inkscape:label="Capa 1"
-               id="layer1-5"
-               transform="translate(-392.98822,-511.27795)">
-              <g
-                 id="layer1-3-1"
-                 inkscape:label="Capa 1"
-                 transform="translate(0.41988239,0.03484499)">
-                <g
-                   inkscape:label="Capa 1"
-                   id="layer1-7-8"
-                   transform="translate(-37.074403,0.97032551)">
-                  <g
-                     id="g4231-5"
-                     transform="matrix(1.5263052,0,0,1.5263052,376.31698,-1040.1258)" />
-                </g>
-              </g>
-            </g>
-          </g>
           <g
              style="fill:#144e36;fill-opacity:1"
              transform="matrix(0.03977068,0,0,0.03977068,443.16879,534.9078)"

@@ -43,13 +43,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#676767"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6544057"
-     inkscape:cx="-9.8522932"
+     inkscape:cx="-10.51923"
      inkscape:cy="16.824691"
      inkscape:document-units="px"
      inkscape:current-layer="g5046"
@@ -59,9 +59,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,13 +150,6 @@
     <g
        id="g4240"
        transform="translate(341.79698,500.25245)">
-      <rect
-         y="3"
-         x="10"
-         height="1"
-         width="44"
-         id="rect4236-8"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
       <g
          inkscape:transform-center-y="-9.4924686"
          inkscape:transform-center-x="5.4653607"
@@ -178,57 +171,9 @@
           <g
              id="g4611"
              transform="translate(382.34279,511.78866)">
-            <rect
-               y="3"
-               x="10"
-               height="1"
-               width="44"
-               id="rect4236-8-2"
-               style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
             <g
                id="g5046"
                transform="translate(1.7514779,-0.67379255)">
-              <rect
-                 y="3"
-                 x="10"
-                 height="1"
-                 width="44"
-                 id="rect4236-8-3"
-                 style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
-              <g
-                 id="g5686"
-                 transform="translate(-3.9698942,4.8847507)">
-                <rect
-                   y="3"
-                   x="10"
-                   height="1"
-                   width="44"
-                   id="rect4236-8-9"
-                   style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
-                <g
-                   inkscape:transform-center-y="-9.4924686"
-                   inkscape:transform-center-x="5.4653607"
-                   inkscape:label="Capa 1"
-                   id="layer1-31"
-                   transform="translate(-392.98822,-511.27795)" />
-              </g>
-              <g
-                 id="g6289"
-                 transform="translate(-2.1496533,3.4906341)">
-                <rect
-                   y="3"
-                   x="10"
-                   height="1"
-                   width="44"
-                   id="rect4236-8-8"
-                   style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
-                <g
-                   inkscape:transform-center-y="-9.4924686"
-                   inkscape:transform-center-x="5.4653607"
-                   inkscape:label="Capa 1"
-                   id="layer1-77"
-                   transform="translate(-392.98822,-511.27795)" />
-              </g>
               <g
                  inkscape:label="Capa 1"
                  id="layer1-5"

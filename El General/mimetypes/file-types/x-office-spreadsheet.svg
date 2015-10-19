@@ -24,12 +24,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#707070"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,17 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      id="namedview82"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="7.4642639"
-     inkscape:cx="-20.330495"
+     inkscape:cx="0.92785875"
      inkscape:cy="33.499578"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="svg2"
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -117,11 +117,11 @@
       <stop
          id="stop4533"
          offset="0"
-         style="stop-color:#2ec641;stop-opacity:1" />
+         style="stop-color:#32d746;stop-opacity:1" />
       <stop
          id="stop4535"
          offset="1"
-         style="stop-color:#52ef84;stop-opacity:1" />
+         style="stop-color:#4ee27d;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -146,13 +146,6 @@
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
   </defs>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none"
-     id="rect4236-8"
-     width="44"
-     height="1"
-     x="10"
-     y="3" />
   <g
      transform="translate(-392.98822,-511.27795)"
      id="layer1"
@@ -200,7 +193,7 @@
       <g
          id="g4400-5"
          transform="matrix(-0.00152077,-1.8477974,2.5376157,-0.00110737,-2179.7262,537.29167)"
-         style="fill:#15571e;fill-opacity:1">
+         style="fill:#175e20;fill-opacity:1">
         <rect
            transform="matrix(0.9999997,-7.6878319e-4,-3.3676924e-4,0.99999994,0,0)"
            ry="0.31199998"
@@ -210,7 +203,7 @@
            height="2.2304919"
            width="5.2121005"
            id="rect4315-4-5"
-           style="opacity:1;fill:#15571e;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#175e20;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <rect
            transform="matrix(0.99999996,-2.8909269e-4,-1.9501793e-4,0.99999998,0,0)"
            ry="0.31199998"
@@ -220,7 +213,7 @@
            height="2.2304919"
            width="8.0264168"
            id="rect4315-4-4-2"
-           style="opacity:1;fill:#15571e;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#175e20;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <rect
            transform="matrix(1,-5.8462971e-5,-5.3266634e-5,1,0,0)"
            ry="0.31200001"
@@ -230,7 +223,7 @@
            height="2.2304921"
            width="10.840734"
            id="rect4315-4-4-1-5"
-           style="opacity:1;fill:#15571e;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#175e20;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
   </g>

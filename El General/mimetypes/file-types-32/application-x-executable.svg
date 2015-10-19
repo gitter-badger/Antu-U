@@ -57,25 +57,25 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#5c5c5c"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6544057"
-     inkscape:cx="-9.8522932"
-     inkscape:cy="13.631303"
+     inkscape:cx="13.892147"
+     inkscape:cy="30.204048"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-3-3"
+     inkscape:current-layer="layer1-0"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -134,10 +134,6 @@
        position="27.00001,23"
        orientation="-7,-1e-05"
        id="guide4162" />
-    <sodipodi:guide
-       position="24,27"
-       orientation="0,1"
-       id="guide3378" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -147,7 +143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,13 +181,6 @@
           <g
              id="g40682"
              transform="translate(376.22799,522.59427)">
-            <rect
-               y="3"
-               x="10"
-               height="1"
-               width="44"
-               id="rect4236-8"
-               style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
             <g
                inkscape:transform-center-y="-9.4924686"
                inkscape:transform-center-x="5.4653607"
@@ -227,13 +216,6 @@
                 <g
                    id="g69394"
                    transform="translate(390.52659,502.03631)">
-                  <rect
-                     y="3"
-                     x="10"
-                     height="1"
-                     width="44"
-                     id="rect4236-8-7"
-                     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
                   <g
                      inkscape:transform-center-y="-9.4924686"
                      inkscape:transform-center-x="5.4653607"

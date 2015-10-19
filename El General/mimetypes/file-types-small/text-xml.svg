@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -21,18 +20,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6907">
-      <stop
-         style="stop-color:#0c3e6a;stop-opacity:1;"
-         offset="0"
-         id="stop6909" />
-      <stop
-         style="stop-color:#1360a4;stop-opacity:1"
-         offset="1"
-         id="stop6911" />
-    </linearGradient>
-    <linearGradient
        osb:paint="gradient"
        id="linearGradient4207">
       <stop
@@ -44,15 +31,6 @@
          offset="1"
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6907"
-       id="linearGradient6913"
-       x1="300525.78"
-       y1="196246.41"
-       x2="300525.78"
-       y2="-103208.49"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,8 +40,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.800226"
-     inkscape:cx="-26.850323"
-     inkscape:cy="8.5094777"
+     inkscape:cx="-10.008114"
+     inkscape:cy="8.5485395"
      inkscape:document-units="px"
      inkscape:current-layer="g6501"
      showgrid="true"
@@ -71,9 +49,9 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -120,7 +98,7 @@
          cy="61713.34"
          cx="299742.75"
          id="path6433"
-         style="opacity:1;fill:url(#linearGradient6913);fill-opacity:1;stroke:none;stroke-width:1882.3984375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1882.3984375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="path6213"
          d="m -383.09758,47.638148 c 39.02101,0 107.685,82.677002 180.63,91.074002 1.86101,-5.784 3.28501,-11.76499 4.21901,-17.905 -33.164,-7.224 -74.85501,-45.923002 -89.85,-60.502002 -23.439,-22.790999 -45.31601,-45.666999 -75.333,-45.666999 -10.24,0 -19.639,1.762 -27.772,4.208 -15.06301,14.055 -26.36401,32.086999 -32.22301,52.427999 12.038,-12.033 25.795,-23.636 40.329,-23.636 z"

@@ -24,7 +24,7 @@
        inkscape:collect="always"
        id="linearGradient4307">
       <stop
-         style="stop-color:#65707f;stop-opacity:1"
+         style="stop-color:#8798a9;stop-opacity:1"
          offset="0"
          id="stop4309" />
       <stop
@@ -57,25 +57,25 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#5a5a5a"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6544057"
-     inkscape:cx="-34.179374"
-     inkscape:cy="16.772901"
+     inkscape:cx="-13.887713"
+     inkscape:cy="21.019667"
      inkscape:document-units="px"
-     inkscape:current-layer="g6426"
+     inkscape:current-layer="g5046"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -147,7 +147,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -164,13 +164,6 @@
     <g
        id="g4240"
        transform="translate(341.79698,500.25245)">
-      <rect
-         y="3"
-         x="10"
-         height="1"
-         width="44"
-         id="rect4236-8"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
       <g
          inkscape:transform-center-y="-9.4924686"
          inkscape:transform-center-x="5.4653607"
@@ -192,77 +185,15 @@
           <g
              id="g4611"
              transform="translate(382.34279,511.78866)">
-            <rect
-               y="3"
-               x="10"
-               height="1"
-               width="44"
-               id="rect4236-8-2"
-               style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
             <g
                id="g5046"
                transform="translate(1.7514779,-0.67379255)">
-              <rect
-                 y="3"
-                 x="10"
-                 height="1"
-                 width="44"
-                 id="rect4236-8-3"
-                 style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
-              <g
-                 id="g5686"
-                 transform="translate(-3.9698942,4.8847507)">
-                <rect
-                   y="3"
-                   x="10"
-                   height="1"
-                   width="44"
-                   id="rect4236-8-9"
-                   style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
-                <g
-                   inkscape:transform-center-y="-9.4924686"
-                   inkscape:transform-center-x="5.4653607"
-                   inkscape:label="Capa 1"
-                   id="layer1-31"
-                   transform="translate(-392.98822,-511.27795)" />
-              </g>
-              <g
-                 id="g6289"
-                 transform="translate(-2.1496533,3.4906341)">
-                <rect
-                   y="3"
-                   x="10"
-                   height="1"
-                   width="44"
-                   id="rect4236-8-8"
-                   style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
-                <g
-                   inkscape:transform-center-y="-9.4924686"
-                   inkscape:transform-center-x="5.4653607"
-                   inkscape:label="Capa 1"
-                   id="layer1-77"
-                   transform="translate(-392.98822,-511.27795)" />
-              </g>
               <g
                  id="g8027"
                  transform="translate(-8.2863723,-4.9718234)">
-                <rect
-                   y="3"
-                   x="10"
-                   height="1"
-                   width="44"
-                   id="rect4236-8-22"
-                   style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
                 <g
                    id="g9173"
                    transform="translate(28.292022,-1.980509)">
-                  <rect
-                     y="3"
-                     x="10"
-                     height="1"
-                     width="44"
-                     id="rect4236-8-32"
-                     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
                   <g
                      inkscape:transform-center-y="-9.4924686"
                      inkscape:transform-center-x="5.4653607"
@@ -276,17 +207,6 @@
                        id="Music"
                        d="m 437.93616,544.37396 c -0.49818,0.13975 -0.89927,0.69578 -0.89927,1.23585 l 0,8.56283 c -0.50519,-0.27698 -1.154,-0.38901 -1.82665,-0.20597 -1.21381,0.33022 -1.97444,1.3975 -1.71424,2.38347 0.26018,0.98591 1.45592,1.53665 2.66972,1.20642 0.96837,-0.26345 1.6359,-1.00891 1.74234,-1.79494 l 0.0281,-8.09204 6.29493,-1.76551 0,6.38532 c -0.50517,-0.27698 -1.15401,-0.38898 -1.82664,-0.20598 -1.21382,0.33023 -1.97444,1.3975 -1.71424,2.38346 0.26018,0.98597 1.45591,1.53671 2.66972,1.20644 0.96835,-0.26342 1.63588,-1.00887 1.74234,-1.79495 l 0.0281,-10.53432 c 0,-0.40506 -0.23908,-0.70808 -0.56205,-0.76508 l -6.63216,1.795 z" />
                   </g>
-                </g>
-                <g
-                   id="g6426"
-                   transform="translate(3.1648996,4.932266)">
-                  <rect
-                     y="3"
-                     x="10"
-                     height="1"
-                     width="44"
-                     id="rect4236-8-99"
-                     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none" />
                 </g>
               </g>
             </g>

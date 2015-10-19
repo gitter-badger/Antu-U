@@ -23,12 +23,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#9a9a9a"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -37,17 +37,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      id="namedview82"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:zoom="7.4642639"
-     inkscape:cx="-14.009984"
+     inkscape:zoom="3.2479446"
+     inkscape:cx="-4.3703103"
      inkscape:cy="29.243518"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4414"
+     inkscape:current-layer="svg2"
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -125,20 +125,13 @@
       <stop
          id="stop4424"
          offset="0"
-         style="stop-color:#5f6c7a;stop-opacity:1" />
+         style="stop-color:#798695;stop-opacity:1" />
       <stop
          id="stop4426"
          offset="1"
          style="stop-color:#aeb6be;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none"
-     id="rect4236-8"
-     width="44"
-     height="1"
-     x="10"
-     y="3" />
   <g
      transform="translate(-392.98822,-511.27795)"
      id="layer1"
@@ -193,7 +186,7 @@
                height="39.999969"
                width="36"
                id="rect4319"
-               style="opacity:1;fill:#2c3238;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
+               style="opacity:1;fill:#373c43;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
             <g
                transform="translate(-0.71741557,0.01714041)"
                inkscape:label="Capa 1"
