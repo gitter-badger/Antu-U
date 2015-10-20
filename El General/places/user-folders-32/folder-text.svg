@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-text.svg">
+   sodipodi:docname="folder-documents.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -38,7 +39,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="15"
      inkscape:cx="14.4"
-     inkscape:cy="16.914865"
+     inkscape:cy="16.948198"
      inkscape:document-units="px"
      inkscape:current-layer="g4187"
      showgrid="true"
@@ -155,58 +156,12 @@
              style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bddef8;fill-opacity:1;fill-rule:nonzero;stroke:#60aae5;stroke-width:1.81468021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
         </g>
       </g>
-      <g
-         transform="matrix(0.65287041,0,0,0.65488892,88.113546,192.0676)"
-         id="layer1-5"
-         inkscape:label="Capa 1"
-         style="fill:#60aae5;fill-opacity:1">
-        <g
-           id="g4414"
-           transform="matrix(1.5263052,0,0,1.5263052,376.49864,-1040.1735)"
-           style="fill:#60aae5;fill-opacity:1">
-          <g
-             id="g4400"
-             transform="matrix(1.2057985,0,0,1.2057985,59.704496,-209.20313)"
-             style="fill:#60aae5;fill-opacity:1">
-            <rect
-               ry="0.31200001"
-               rx="0"
-               y="1018.6581"
-               x="-8.0180883"
-               height="2.2304921"
-               width="11.898284"
-               id="rect4315"
-               style="opacity:1;fill:#60aae5;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-            <rect
-               ry="0.31200001"
-               rx="0"
-               y="1021.9661"
-               x="-8.0059242"
-               height="2.2304921"
-               width="11.898284"
-               id="rect4315-4"
-               style="opacity:1;fill:#60aae5;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-            <rect
-               ry="0.31200001"
-               rx="0"
-               y="1025.1088"
-               x="-7.9879999"
-               height="2.2304921"
-               width="11.898284"
-               id="rect4315-4-4"
-               style="opacity:1;fill:#60aae5;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-            <rect
-               ry="0.31200001"
-               rx="0"
-               y="1028.3699"
-               x="-8.0120068"
-               height="2.2304921"
-               width="11.898284"
-               id="rect4315-4-4-1"
-               style="opacity:1;fill:#60aae5;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          </g>
-        </g>
-      </g>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 390.20538,529.9393 -6.2466,8.02 c -1.17124,1.50375 -0.84336,4.18236 0.65575,5.35722 1.49913,1.17486 4.16947,0.84597 5.34072,-0.65778 l 6.2466,-8.02001 0.78081,-1.0025 c 0.78083,-1.0025 0.56225,-2.78824 -0.43716,-3.57148 -0.99941,-0.78323 -2.77965,-0.56398 -3.56047,0.43852 l -0.78083,1.00251 -4.68495,6.015 -0.78082,1.0025 c -0.39042,0.50125 -0.28112,1.39412 0.21858,1.78574 0.49971,0.39161 1.38983,0.28199 1.78024,-0.21926 l 5.46577,-7.01751 0.99941,0.78324 -5.46577,7.0175 c -0.78083,1.00251 -2.56106,1.22177 -3.56047,0.43852 -0.99941,-0.78324 -1.218,-2.56897 -0.43718,-3.57147 l 0.78083,-1.0025 5.46578,-7.0175 c 1.17123,-1.50376 3.84158,-1.83264 5.34071,-0.65779 1.49911,1.17486 1.82699,3.85347 0.65575,5.35722 l -0.78082,1.00251 -6.2466,8.01999 c -1.56166,2.00501 -5.12213,2.44353 -7.12095,0.87705 -1.99882,-1.56648 -2.43599,-5.13795 -0.87434,-7.14296 l 6.2466,-8.02 0.99941,0.78324 0,0 z"
+         id="Documents"
+         sketch:type="MSShapeGroup"
+         style="fill:#60aae5;fill-opacity:1;stroke:#60abe7;stroke-width:0.08468194;stroke-opacity:1" />
     </g>
   </g>
 </svg>
