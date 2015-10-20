@@ -458,16 +458,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.4553269"
-     inkscape:cx="7.200358"
-     inkscape:cy="55.286502"
+     inkscape:cx="-30.285938"
+     inkscape:cy="26.049024"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -993,18 +993,14 @@
                cx="-2.1881955"
                id="path4999"
                style="opacity:1;fill:url(#linearGradient5007);fill-opacity:1;stroke:none;stroke-width:1.46457458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-            <text
-               sodipodi:linespacing="125%"
-               id="text5009"
-               y="1040.8574"
-               x="-7.2605591"
+            <g
                style="font-style:normal;font-weight:normal;font-size:21.65777016px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               xml:space="preserve"><tspan
+               id="text5009">
+              <path
+                 d="m -2.1060098,1041.2039 q -1.7759371,0 -2.9454567,-0.8663 -1.1478618,-0.8663 -1.6893061,-2.1657 l 1.7759372,-0.7364 q 0.844653,1.9925 2.8804834,1.9925 0.9312841,0 1.5160439,-0.4115 0.60641756,-0.4115 0.60641756,-1.0829 0,-1.0396 -1.45107056,-1.4077 l -2.1441193,-0.5198 q -1.0179152,-0.2599 -1.9275415,-0.9746 -0.9096264,-0.7364 -0.9096264,-1.9709 0,-1.4077 1.2344929,-2.274 1.2561507,-0.888 2.9671145,-0.888 1.40775509,0 2.51230137,0.6497 1.10454633,0.6281 1.58101723,1.8193 l -1.73262162,0.7147 q -0.58475979,-1.4078 -2.42567028,-1.4078 -0.8879686,0 -1.4943861,0.3682 -0.6064176,0.3682 -0.6064176,0.9963 0,0.9096 1.4077551,1.2345 l 2.10080368,0.4981 q 1.49438615,0.3465 2.20909252,1.1912 0.7147065,0.8446 0.7147065,1.9058 0,1.4295 -1.16951963,2.3824 -1.16951959,0.9529 -3.01043007,0.9529 z"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
-                 y="1040.8574"
-                 x="-7.2605591"
-                 id="tspan5011"
-                 sodipodi:role="line">s</tspan></text>
+                 id="path4283" />
+            </g>
           </g>
         </g>
       </g>
