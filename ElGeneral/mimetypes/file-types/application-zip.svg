@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,8 +43,8 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="7.4642639"
-     inkscape:cx="-18.163106"
-     inkscape:cy="34.602385"
+     inkscape:cx="3.9714061"
+     inkscape:cy="-2.8427005"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -174,18 +174,22 @@
          id="path4302"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccc" />
-      <text
-         xml:space="preserve"
+      <g
          style="font-style:normal;font-weight:normal;font-size:7.8266716px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="419.5239"
-         y="570.34686"
-         id="text4304"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4306"
-           x="419.5239"
-           y="570.34686"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">zip</tspan></text>
+         id="text4304">
+        <path
+           d="m 419.77435,570.34686 0,-0.62613 2.18364,-2.5515 -2.12103,0 0,-0.65744 3.00544,0 0,0.62614 -2.18364,2.55149 2.21495,0 0,0.65744 -3.09936,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4173" />
+        <path
+           d="m 424.42889,565.54911 q -0.1487,0.14871 -0.36002,0.14871 -0.21132,0 -0.36003,-0.14871 -0.14871,-0.1487 -0.14871,-0.36002 0,-0.21132 0.14871,-0.36003 0.14871,-0.14871 0.36003,-0.14871 0.21132,0 0.36002,0.14871 0.14871,0.14871 0.14871,0.36003 0,0.21132 -0.14871,0.36002 z m 0,4.79775 -0.72005,0 0,-3.83507 0.72005,0 0,3.83507 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4175" />
+        <path
+           d="m 427.3694,570.47209 q -0.43829,0 -0.79049,-0.18784 -0.34438,-0.18784 -0.51656,-0.4696 l -0.0313,0 0.0313,0.53221 0,1.69056 -0.72006,0 0,-5.52563 0.68875,0 0,0.53222 0.0313,0 q 0.17218,-0.28176 0.51656,-0.4696 0.3522,-0.18784 0.79049,-0.18784 0.74353,0 1.28357,0.587 0.54004,0.587 0.54004,1.45576 0,0.86876 -0.54004,1.45576 -0.54004,0.587 -1.28357,0.587 z m -0.1174,-0.65744 q 0.50091,0 0.86093,-0.37568 0.36003,-0.38351 0.36003,-1.00964 0,-0.62614 -0.36003,-1.00182 -0.36002,-0.3835 -0.86093,-0.3835 -0.50873,0 -0.86876,0.37568 -0.3522,0.37568 -0.3522,1.00964 0,0.63396 0.3522,1.00964 0.36003,0.37568 0.86876,0.37568 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4177" />
+      </g>
       <g
          transform="translate(-38.856403,13.075478)"
          id="layer1-5"

@@ -1724,8 +1724,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.0811183"
-     inkscape:cx="5.6540821"
-     inkscape:cy="28.191616"
+     inkscape:cx="5.4896387"
+     inkscape:cy="28.356059"
      inkscape:document-units="px"
      inkscape:current-layer="g5246-7"
      showgrid="false"
@@ -1886,7 +1886,7 @@
              id="layer1-3"
              inkscape:label="Capa 1" />
           <g
-             transform="matrix(7.9277484,0,0,7.9277484,-4241.6833,-3753.9099)"
+             transform="matrix(8.7980566,0,0,8.7980566,-4642.7523,-4198.4449)"
              id="layer1-6"
              inkscape:label="Capa 1">
             <g
@@ -1913,22 +1913,15 @@
                          transform="matrix(0.12613922,0,0,0.12613922,-162.53176,751.54587)"
                          id="g4265-7"
                          style="fill:#60aae5;fill-opacity:1;stroke:#60aae5;stroke-opacity:1">
-                        <text
-                           sodipodi:linespacing="125%"
-                           id="text8822"
-                           y="790.29889"
-                           x="226.95259"
+                        <g
                            style="font-style:normal;font-weight:normal;font-size:218.38827515px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#60aae5;fill-opacity:1;stroke:#60aae5;stroke-width:1.10190606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                           xml:space="preserve"><tspan
-                             style="fill:#60aae5;fill-opacity:1;stroke:#60aae5;stroke-width:1.10190606px;stroke-opacity:1"
-                             id="tspan8824"
-                             y="790.29889"
-                             x="226.95259"
-                             sodipodi:role="line"><tspan
-                               id="tspan8826"
-                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#60aae5;fill-opacity:1;stroke:#60aae5;stroke-width:1.10190606px;stroke-opacity:1"
-                               y="790.29889"
-                               x="226.95259">@</tspan></tspan></text>
+                           id="text8822">
+                          <path
+                             d="m 322.16988,639.61098 q 35.81568,0 60.27516,24.67787 24.45949,24.67788 24.45949,59.62 0,19.65495 -8.51714,32.53986 -8.29876,12.8849 -24.2411,12.8849 -16.37912,0 -24.45949,-15.94234 -10.70102,15.94234 -30.57436,15.94234 -17.90784,0 -30.13758,-12.44813 -12.22974,-12.66652 -12.22974,-32.10307 0,-19.21817 12.22974,-31.88469 12.22974,-12.66652 29.26403,-12.66652 16.8159,0 27.9537,12.88491 l 0.87355,0 0,-9.82748 15.72396,0 0,56.99934 q 0,5.6781 3.05743,10.26425 3.27583,4.58616 9.82748,4.58616 15.50556,0 15.50556,-31.22953 0,-28.82725 -20.09172,-48.70058 -20.09172,-19.87333 -48.91897,-19.87333 -28.82725,0 -48.91897,19.87333 -20.09173,19.87333 -20.09173,48.70058 0,28.82726 20.09173,48.70059 20.09172,19.87333 48.91897,19.87333 15.50557,0 27.73531,-6.11487 l 6.11487,14.8504 q -15.28718,6.98843 -33.85018,6.98843 -36.25245,0 -60.93033,-24.45949 -24.67787,-24.67787 -24.67787,-59.83839 0,-34.94212 24.67787,-59.62 24.89626,-24.67787 60.93033,-24.67787 z m -20.31011,105.48154 q 7.86198,7.64359 18.78139,7.64359 10.91941,0 18.563,-7.64359 7.86198,-7.64359 7.86198,-20.31011 0,-12.66652 -7.86198,-20.31011 -7.64359,-7.64359 -18.563,-7.64359 -10.91941,0 -18.78139,7.64359 -7.64359,7.64359 -7.64359,20.31011 0,12.66652 7.64359,20.31011 z"
+                             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#60aae5;fill-opacity:1;stroke:#60aae5;stroke-width:1.10190606px;stroke-opacity:1"
+                             id="path4553"
+                             inkscape:connector-curvature="0" />
+                        </g>
                       </g>
                     </g>
                   </g>

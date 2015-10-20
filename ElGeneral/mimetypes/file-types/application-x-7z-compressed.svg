@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +42,12 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="3.2479446"
-     inkscape:cx="-4.3703103"
+     inkscape:cx="61.230502"
      inkscape:cy="29.243518"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1-3"
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -156,18 +156,18 @@
          id="path4302"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccc" />
-      <text
-         xml:space="preserve"
+      <g
          style="font-style:normal;font-weight:normal;font-size:7.8266716px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="420.62326"
-         y="570.54688"
-         id="text4304"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4306"
-           x="420.62326"
-           y="570.54688"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">7z</tspan></text>
+         id="text4304">
+        <path
+           d="m 422.0051,570.6721 -0.64179,-0.32872 2.48106,-4.4612 -2.70803,0 0.0156,-0.68875 3.45157,0 0,0.73571 -2.59846,4.74296 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4169" />
+        <path
+           d="m 425.1705,570.54687 0,-0.62613 2.18364,-2.55149 -2.12103,0 0,-0.65744 3.00545,0 0,0.62613 -2.18365,2.55149 2.21495,0 0,0.65744 -3.09936,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4171" />
+      </g>
       <g
          transform="translate(-38.856403,13.075478)"
          id="layer1-5"

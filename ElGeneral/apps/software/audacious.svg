@@ -193,8 +193,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.6672567"
-     inkscape:cx="13.73637"
-     inkscape:cy="26.133918"
+     inkscape:cx="-9.9735543"
+     inkscape:cy="26.191606"
      inkscape:document-units="px"
      inkscape:current-layer="g4466"
      showgrid="false"
@@ -203,7 +203,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="646"
+     inkscape:window-height="642"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -363,18 +363,14 @@
               <g
                  id="g4466"
                  transform="translate(-12.162618,6.4376074)">
-                <text
-                   sodipodi:linespacing="125%"
-                   id="text4270"
-                   y="195.5668"
-                   x="328.13217"
+                <g
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:273.75964355px;line-height:125%;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4278);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                   xml:space="preserve"><tspan
+                   id="text4270">
+                  <path
+                     d="m 385.89546,199.94696 q -21.35326,0 -35.86252,-12.31919 -14.2355,-12.31918 -14.2355,-32.57739 0,-21.90078 16.9731,-34.21996 16.9731,-12.59294 41.88523,-12.59294 22.17453,0 36.41003,8.21279 l 0,-3.83264 q 0,-14.78302 -10.12911,-23.543328 -10.12911,-9.034069 -24.91213,-9.034069 -10.95038,0 -19.98445,5.201434 -8.76031,5.201433 -12.04543,14.235501 l -22.99581,-9.855347 q 4.65392,-12.045424 18.3419,-22.174531 13.68798,-10.402867 36.13627,-10.402867 25.73341,0 42.70651,15.056781 16.9731,15.05678 16.9731,42.432746 l 0,81.03285 -24.09085,0 0,-18.61565 -1.09504,0 q -15.05678,22.99581 -44.0753,22.99581 z m 4.10639,-22.99581 q 15.6043,0 28.19724,-11.49791 12.86671,-11.77166 12.86671,-27.64972 -10.67663,-8.76031 -32.02988,-8.76031 -18.3419,0 -27.64972,7.93903 -9.30783,7.93903 -9.30783,18.61566 0,9.85534 8.48655,15.60429 8.48655,5.74896 19.43693,5.74896 z"
                      style="fill:url(#linearGradient4278);fill-opacity:1"
-                     y="195.5668"
-                     x="328.13217"
-                     id="tspan4272"
-                     sodipodi:role="line">a</tspan></text>
+                     id="path4239" />
+                </g>
               </g>
             </g>
           </g>

@@ -1627,10 +1627,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.4225764"
-     inkscape:cx="-40.620083"
-     inkscape:cy="22.917448"
+     inkscape:cx="-8.1951735"
+     inkscape:cy="23.030504"
      inkscape:document-units="px"
-     inkscape:current-layer="g5168"
+     inkscape:current-layer="g5151"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1789,18 +1789,22 @@
         <g
            transform="matrix(1.0328158,0,0,1.0328158,-11.337503,-17.831884)"
            id="g5151">
-          <text
-             xml:space="preserve"
+          <g
              style="font-style:normal;font-weight:normal;font-size:9.11726189px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.9;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="363.70071"
-             y="536.65271"
-             id="text4346"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan4348"
-               x="363.70071"
-               y="536.65271"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">.io</tspan></text>
+             id="text4346">
+            <path
+               d="m 365.19595,536.52507 q -0.18235,0.18234 -0.43763,0.18234 -0.25529,0 -0.43763,-0.18234 -0.18235,-0.18235 -0.18235,-0.43763 0,-0.25528 0.18235,-0.43763 0.18234,-0.18234 0.43763,-0.18234 0.25528,0 0.43763,0.18234 0.18234,0.18235 0.18234,0.43763 0,0.25528 -0.18234,0.43763 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+               id="path4509" />
+            <path
+               d="m 367.24206,531.06383 q -0.17323,0.17323 -0.4194,0.17323 -0.24616,0 -0.41939,-0.17323 -0.17323,-0.17323 -0.17323,-0.4194 0,-0.24616 0.17323,-0.41939 0.17323,-0.17323 0.41939,-0.17323 0.24617,0 0.4194,0.17323 0.17323,0.17323 0.17323,0.41939 0,0.24617 -0.17323,0.4194 z m 0,5.58888 -0.83879,0 0,-4.46746 0.83879,0 0,4.46746 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+               id="path4511" />
+            <path
+               d="m 368.68116,532.72317 q 0.64733,-0.68379 1.65023,-0.68379 1.00289,0 1.65022,0.68379 0.64733,0.67468 0.64733,1.69581 0,1.02113 -0.64733,1.70493 -0.64733,0.67468 -1.65022,0.67468 -1.0029,0 -1.65023,-0.67468 -0.64732,-0.6838 -0.64732,-1.70493 0,-1.02113 0.64732,-1.69581 z m 0.61997,2.87194 q 0.43763,0.43763 1.03026,0.43763 0.59262,0 1.02113,-0.43763 0.43763,-0.44675 0.43763,-1.17613 0,-0.72938 -0.43763,-1.16701 -0.42851,-0.44674 -1.02113,-0.44674 -0.59263,0 -1.03026,0.44674 -0.42851,0.43763 -0.42851,1.16701 0,0.72938 0.42851,1.17613 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+               id="path4513" />
+          </g>
           <g
              id="g5145"
              transform="matrix(0.62925539,0,0,0.62925539,105.02963,175.94852)"

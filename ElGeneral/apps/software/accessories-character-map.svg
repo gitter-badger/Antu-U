@@ -511,8 +511,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.5163827"
-     inkscape:cx="21.400368"
+     inkscape:zoom="12.163707"
+     inkscape:cx="37.798669"
      inkscape:cy="18.784111"
      inkscape:document-units="px"
      inkscape:current-layer="g4285-8"
@@ -531,7 +531,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -562,19 +562,27 @@
            id="path4166-2"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccc" />
-        <text
+        <g
            transform="scale(1.0332496,0.96782037)"
-           sodipodi:linespacing="125%"
-           id="text4416"
-           y="673.31372"
-           x="162.2289"
-           style="font-style:normal;font-weight:normal;font-size:12.09775448px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:241.95509338px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#eeeeee;fill-opacity:1;"
-             y="673.31372"
-             x="162.2289"
-             id="tspan4418"
-             sodipodi:role="line">Ctrl</tspan></text>
+           style="font-style:normal;font-weight:normal;font-size:12.09775448px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="text4416">
+          <path
+             d="m 261.18853,677.185 q -38.2289,0 -64.1181,-25.88919 -25.88919,-25.8892 -25.88919,-64.60201 0,-38.71282 25.88919,-64.60201 25.8892,-25.8892 64.1181,-25.8892 39.19673,0 63.63419,28.30875 l -15.48513,15.00121 q -17.66272,-22.01791 -48.14906,-22.01791 -28.30875,0 -47.90711,19.11445 -19.35641,19.11446 -19.35641,50.08471 0,30.97025 19.35641,50.0847 19.59836,19.11445 47.90711,19.11445 31.21221,0 53.23012,-25.16333 l 15.48513,15.48513 q -11.8558,14.27535 -29.76048,22.74378 -17.90468,8.22647 -38.95477,8.22647 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:241.95509338px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#eeeeee;fill-opacity:1"
+             id="path4280" />
+          <path
+             d="m 396.2524,675.24936 q -18.63055,0 -28.5507,-9.92016 -9.67821,-9.92016 -9.67821,-28.06679 l 0,-62.18246 -20.80814,0 0,-20.32423 20.80814,0 0,-36.29326 22.25987,0 0,36.29326 29.03461,0 0,20.32423 -29.03461,0 0,60.48878 q 0,19.3564 15.96904,19.3564 6.04887,0 10.16211,-1.93564 l 7.74256,19.11446 q -7.25865,3.14541 -17.90467,3.14541 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:241.95509338px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#eeeeee;fill-opacity:1"
+             id="path4282" />
+          <path
+             d="m 452.7527,673.31372 -22.25987,0 0,-118.558 21.29205,0 0,19.35641 0.96782,0 q 3.38737,-9.6782 13.79144,-15.96903 10.64602,-6.29084 20.56618,-6.29084 9.92016,0 16.6949,2.90346 l -8.46843,20.80814 q -4.35519,-1.69368 -11.8558,-1.69368 -12.09775,0 -21.534,9.6782 -9.19429,9.43625 -9.19429,24.92138 l 0,64.84396 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:241.95509338px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#eeeeee;fill-opacity:1"
+             id="path4284" />
+          <path
+             d="m 542.06816,673.31372 -22.25987,0 0,-173.23985 22.25987,0 0,173.23985 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:241.95509338px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#eeeeee;fill-opacity:1"
+             id="path4286" />
+        </g>
       </g>
       <g
          transform="matrix(0.94770049,-0.31916106,0.31916106,0.94770049,-175.32169,151.09601)"

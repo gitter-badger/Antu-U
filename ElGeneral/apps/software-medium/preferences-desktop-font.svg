@@ -39,17 +39,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.606046"
-     inkscape:cx="12.509749"
-     inkscape:cy="12.750799"
+     inkscape:cx="-3.7919526"
+     inkscape:cy="12.790463"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -105,18 +105,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1030.3622)">
-    <text
-       xml:space="preserve"
+    <g
        style="font-style:normal;font-weight:normal;font-size:11.43947887px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="0.17867064"
-       y="1043.0143"
-       id="text4144"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4146"
-         x="0.17867064"
-         y="1043.0143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1">OTF</tspan></text>
+       id="text4144">
+      <path
+         d="m 7.8088031,1041.9619 q -1.2011453,1.2354 -2.9971435,1.2354 -1.7959982,0 -3.008583,-1.2354 -1.20114524,-1.247 -1.20114524,-3.043 0,-1.7959 1.20114524,-3.0314 1.2125848,-1.2469 3.008583,-1.2469 1.7845587,0 2.9971435,1.2469 1.2125847,1.2469 1.2125847,3.0314 0,1.796 -1.2125847,3.043 z m -5.2278419,-0.6864 q 0.9151583,0.9151 2.2306984,0.9151 1.3155401,0 2.2192589,-0.9151 0.9151583,-0.9266 0.9151583,-2.3566 0,-1.4299 -0.9151583,-2.345 -0.9037188,-0.9266 -2.2192589,-0.9266 -1.3155401,0 -2.2306984,0.9266 -0.9037188,0.9151 -0.9037188,2.345 0,1.43 0.9037188,2.3566 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
+         id="path4151" />
+      <path
+         d="m 12.730639,1043.0143 -1.052432,0 0,-7.184 -2.2878961,0 0,-1.0067 5.6282241,0 0,1.0067 -2.287896,0 0,7.184 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
+         id="path4153" />
+      <path
+         d="m 17.158432,1043.0143 -1.052432,0 0,-8.1907 4.781703,0 0,1.0067 -3.729271,0 0,2.6883 3.363207,0 0,0.9838 -3.363207,0 0,3.5119 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
+         id="path4155" />
+    </g>
     <g
        id="layer1-7"
        inkscape:label="Capa 1"

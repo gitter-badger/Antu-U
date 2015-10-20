@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-x-kexi-connectiondata.svg"
+   sodipodi:docname="application-x-kexiproject-shortcut.svg"
    width="64"
    height="64">
   <metadata
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,8 +43,8 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="6.4943072"
-     inkscape:cx="0.92785875"
-     inkscape:cy="33.432592"
+     inkscape:cx="13.284145"
+     inkscape:cy="33.509583"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -170,18 +170,26 @@
          id="path4302"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccc" />
-      <text
-         xml:space="preserve"
+      <g
          style="font-style:normal;font-weight:normal;font-size:7.8266716px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="418.02304"
-         y="570.54785"
-         id="text4304"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4306"
-           x="418.02304"
-           y="570.54785"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">kexi</tspan></text>
+         id="text4304">
+        <path
+           d="m 419.18139,564.94395 0,3.45157 1.65925,-1.68274 0.92355,0 0,0.0313 -1.49489,1.49489 1.56533,2.27756 0,0.0313 -0.86876,0 -1.20531,-1.80796 -0.57917,0.57917 0,1.22879 -0.72006,0 0,-5.6039 0.72006,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4163" />
+        <path
+           d="m 423.85232,570.67308 q -0.86876,0 -1.41663,-0.57918 -0.54004,-0.57917 -0.54004,-1.46358 0,-0.83746 0.52439,-1.44011 0.53221,-0.60265 1.35401,-0.60265 0.85311,0 1.36185,0.55569 0.51656,0.55569 0.51656,1.48707 l -0.008,0.13305 -3.02892,0 q 0.0313,0.57917 0.3835,0.91572 0.36003,0.33655 0.83746,0.33655 0.77484,0 1.04877,-0.65744 l 0.64179,0.2661 q -0.18784,0.44612 -0.61831,0.75136 -0.43047,0.29742 -1.0566,0.29742 z m 1.03312,-2.50454 q -0.0235,-0.32872 -0.30524,-0.62613 -0.27393,-0.29741 -0.8218,-0.29741 -0.39916,0 -0.69657,0.25045 -0.28959,0.25045 -0.39916,0.67309 l 2.22277,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4165" />
+        <path
+           d="m 429.42014,570.54785 -0.84528,0 -0.94703,-1.41663 -0.93137,1.41663 -0.84528,0 1.35401,-1.94884 -1.3227,-1.88623 0.81397,0 0.94703,1.35402 0.90006,-1.35402 0.84529,0 -1.33837,1.88623 1.36967,1.94884 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4167" />
+        <path
+           d="m 430.70885,565.7501 q -0.1487,0.14871 -0.36002,0.14871 -0.21132,0 -0.36003,-0.14871 -0.14871,-0.1487 -0.14871,-0.36003 0,-0.21132 0.14871,-0.36002 0.14871,-0.14871 0.36003,-0.14871 0.21132,0 0.36002,0.14871 0.14871,0.1487 0.14871,0.36002 0,0.21133 -0.14871,0.36003 z m 0,4.79775 -0.72005,0 0,-3.83507 0.72005,0 0,3.83507 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4169" />
+      </g>
       <g
          transform="matrix(1.1338973,0,0,1.1338973,-120.41752,-61.611813)"
          id="layer1-8"

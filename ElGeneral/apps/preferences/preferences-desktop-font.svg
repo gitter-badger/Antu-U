@@ -42,27 +42,6 @@
        x2="400.57138"
        y2="517.79797"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4227"
-       id="linearGradient4387"
-       x1="9"
-       y1="9"
-       x2="23"
-       y2="23"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4227"
-       inkscape:collect="always">
-      <stop
-         id="stop4229"
-         offset="0"
-         style="stop-color:#292c2f;stop-opacity:1" />
-      <stop
-         id="stop4231"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -72,8 +51,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999996"
-     inkscape:cx="-15.21357"
-     inkscape:cy="31.624273"
+     inkscape:cx="22.124998"
+     inkscape:cy="19.928572"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -82,13 +61,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true">
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -238,22 +217,17 @@
        x="386.57144"
        y="517.79797"
        ry="13.999987" />
-    <path
-       style="fill:url(#linearGradient4387);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
-       d="M 13.28125 9.9707031 L 7.1699219 21.833984 L 15.302734 29.964844 C 15.535266 29.97622 15.764549 30 16 30 C 22.680701 30 28.227665 25.362327 29.640625 19.121094 L 24.289062 13.769531 L 20.960938 13.482422 L 19.058594 14.570312 L 19.138672 14.623047 L 19.074219 14.611328 L 21.697266 17.234375 L 21.160156 17.851562 L 13.28125 9.9707031 z "
-       transform="translate(384.57143,515.798)"
-       id="path4361" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.6120224px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="390.9321"
-       y="537.11224"
-       id="text4181"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4183"
-         x="390.9321"
-         y="537.11224"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1;">Aa</tspan></text>
+    <g
+       style="font-style:normal;font-weight:normal;font-size:16.6120224px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4181">
+      <path
+         d="m 391.13144,537.11224 4.48525,-11.8942 1.72765,0 4.48525,11.8942 -1.69443,0 -1.14623,-3.22273 -5.00022,0 -1.16284,3.22273 -1.69443,0 z m 3.37224,-4.65136 3.95366,0 -1.9436,-5.36569 -0.0664,0 -1.94361,5.36569 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+         id="path4177" />
+      <path
+         d="m 405.53355,537.37804 q -1.29574,0 -2.17618,-0.74754 -0.86382,-0.74755 -0.86382,-1.97684 0,-1.32896 1.02994,-2.0765 1.02995,-0.76415 2.54164,-0.76415 1.34558,0 2.2094,0.49836 l 0,-0.23257 q 0,-0.89705 -0.61464,-1.42863 -0.61465,-0.5482 -1.5117,-0.5482 -0.66448,0 -1.21268,0.31563 -0.53158,0.31563 -0.73093,0.86382 l -1.3954,-0.59803 q 0.2824,-0.73093 1.113,-1.34557 0.8306,-0.63126 2.19279,-0.63126 1.56153,0 2.59147,0.91366 1.02995,0.91366 1.02995,2.57487 l 0,4.91715 -1.46186,0 0,-1.12961 -0.0665,0 q -0.91366,1.39541 -2.67453,1.39541 z m 0.24918,-1.39541 q 0.94688,0 1.71104,-0.69771 0.78076,-0.71432 0.78076,-1.67781 -0.64787,-0.53159 -1.94361,-0.53159 -1.113,0 -1.67781,0.48175 -0.56481,0.48175 -0.56481,1.12962 0,0.59803 0.51497,0.94688 0.51498,0.34886 1.17946,0.34886 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+         id="path4179" />
+    </g>
   </g>
 </svg>

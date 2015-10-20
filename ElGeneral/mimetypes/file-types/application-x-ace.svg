@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,8 +43,8 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="4.2846449"
-     inkscape:cx="0.92785875"
-     inkscape:cy="29.243518"
+     inkscape:cx="-0.52366444"
+     inkscape:cy="29.360214"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -169,18 +169,22 @@
          id="path4302"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccc" />
-      <text
-         xml:space="preserve"
+      <g
          style="font-style:normal;font-weight:normal;font-size:7.8266716px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="418.62326"
-         y="570.04688"
-         id="text4304"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4306"
-           x="418.62326"
-           y="570.04688"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">ace</tspan></text>
+         id="text4304">
+        <path
+           d="m 420.27469,570.1721 q -0.61048,0 -1.0253,-0.3522 -0.40698,-0.3522 -0.40698,-0.93137 0,-0.62614 0.48525,-0.97834 0.48525,-0.36002 1.19748,-0.36002 0.63396,0 1.04095,0.2348 l 0,-0.10958 q 0,-0.42264 -0.28959,-0.67309 -0.28958,-0.25828 -0.71222,-0.25828 -0.31307,0 -0.57135,0.14871 -0.25046,0.1487 -0.34438,0.40698 l -0.65744,-0.28176 q 0.13306,-0.34437 0.52439,-0.63396 0.39133,-0.29741 1.03312,-0.29741 0.73571,0 1.22096,0.43047 0.48526,0.43046 0.48526,1.21313 l 0,2.31669 -0.68875,0 0,-0.53221 -0.0313,0 q -0.43046,0.65744 -1.26009,0.65744 z m 0.1174,-0.65744 q 0.44612,0 0.80615,-0.32872 0.36785,-0.33655 0.36785,-0.79049 -0.30524,-0.25046 -0.91572,-0.25046 -0.52439,0 -0.7905,0.22698 -0.2661,0.22697 -0.2661,0.53221 0,0.28176 0.24262,0.44612 0.24263,0.16436 0.5557,0.16436 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4172" />
+        <path
+           d="m 424.77392,570.1721 q -0.86093,0 -1.41662,-0.57917 -0.5557,-0.587 -0.5557,-1.46359 0,-0.87659 0.5557,-1.45576 0.55569,-0.587 1.41662,-0.587 0.64179,0 1.06443,0.31307 0.42264,0.31306 0.61831,0.79049 l -0.65744,0.27393 q -0.29742,-0.72005 -1.07226,-0.72005 -0.47742,0 -0.84528,0.39133 -0.36002,0.39134 -0.36002,0.99399 0,0.60265 0.36002,0.99399 0.36786,0.39133 0.84528,0.39133 0.80615,0 1.11139,-0.72005 l 0.64179,0.27393 q -0.19567,0.4696 -0.63396,0.79049 -0.43047,0.31307 -1.07226,0.31307 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4174" />
+        <path
+           d="m 428.7939,570.1721 q -0.86876,0 -1.41663,-0.57917 -0.54004,-0.57918 -0.54004,-1.46359 0,-0.83745 0.52439,-1.44011 0.53221,-0.60265 1.35401,-0.60265 0.85311,0 1.36184,0.55569 0.51656,0.5557 0.51656,1.48707 l -0.008,0.13305 -3.02893,0 q 0.0313,0.57918 0.38351,0.91572 0.36003,0.33655 0.83745,0.33655 0.77484,0 1.04878,-0.65744 l 0.64179,0.26611 q -0.18784,0.44612 -0.61831,0.75136 -0.43047,0.29741 -1.0566,0.29741 z m 1.03312,-2.50453 q -0.0235,-0.32872 -0.30524,-0.62614 -0.27394,-0.29741 -0.8218,-0.29741 -0.39916,0 -0.69658,0.25045 -0.28958,0.25046 -0.39916,0.6731 l 2.22278,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4176" />
+      </g>
       <g
          transform="translate(-38.856403,13.075478)"
          id="layer1-5"

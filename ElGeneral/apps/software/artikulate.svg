@@ -684,17 +684,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.4258924"
-     inkscape:cx="33.978735"
+     inkscape:cx="-12.452579"
      inkscape:cy="22.194526"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4440"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="646"
+     inkscape:window-height="642"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -793,7 +793,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -947,18 +947,14 @@
                    style="fill:#ffffff;fill-opacity:1"
                    id="g4292" />
               </g>
-              <text
-                 sodipodi:linespacing="125%"
-                 id="text4600"
-                 y="541.90387"
-                 x="316.87537"
+              <g
                  style="font-style:normal;font-weight:normal;font-size:24.41583443px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                 xml:space="preserve"><tspan
+                 id="text4600">
+                <path
+                   d="m 325.55443,521.87526 2.00286,0.47687 q -0.28612,0.76299 -0.66762,1.43061 l 9.63281,0 0,7.53458 -14.30615,0 0,1.23986 16.88126,0 0,1.52599 -16.88126,0 0,1.23987 17.07201,0 q -0.28612,6.19933 -0.95374,7.4392 -0.57225,1.33524 -2.19361,1.33524 -0.763,0 -2.38436,-0.28612 l -0.3815,-1.90749 q 1.81211,0.28612 2.57511,0.28612 0.57224,0 0.76299,-0.57224 0.28612,-0.66762 0.47687,-4.67335 l -16.88126,0 0,-13.16166 4.4826,0 q 0.47687,-0.95374 0.76299,-1.90748 z m -3.3381,3.43347 0,1.52599 12.39867,0 0,-1.52599 -12.39867,0 z m 0,2.95661 0,1.52599 12.39867,0 0,-1.52599 -12.39867,0 z m 4.1011,9.25131 1.90748,0 0,2.57511 4.67335,0 0,-2.38436 1.81211,0 0,3.91035 -12.97091,0 0,1.62136 -1.90749,0 0,-5.43634 1.90749,0 0,2.28899 4.57797,0 0,-2.57511 z"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
-                   y="541.90387"
-                   x="316.87537"
-                   id="tspan4602"
-                   sodipodi:role="line">島</tspan></text>
+                   id="path4378" />
+              </g>
             </g>
           </g>
         </g>

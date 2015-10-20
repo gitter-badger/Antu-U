@@ -703,10 +703,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.9419819"
-     inkscape:cx="9.582184"
+     inkscape:cx="-11.029954"
      inkscape:cy="27.387858"
      inkscape:document-units="px"
-     inkscape:current-layer="g4384"
+     inkscape:current-layer="g4305"
      showgrid="false"
      inkscape:window-width="1362"
      inkscape:window-height="642"
@@ -738,7 +738,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -793,19 +793,23 @@
                    id="path4199"
                    inkscape:connector-curvature="0"
                    sodipodi:nodetypes="cccccc" />
-                <text
-                   xml:space="preserve"
+                <g
+                   transform="matrix(0.95254389,0.30440129,-0.30440129,0.95254389,0,0)"
                    style="font-style:normal;font-weight:normal;font-size:61.09959793px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ae0024;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                   x="161.94379"
-                   y="999.39374"
-                   id="text4312-3"
-                   sodipodi:linespacing="125%"
-                   transform="matrix(0.95254389,0.30440129,-0.30440129,0.95254389,0,0)"><tspan
-                     sodipodi:role="line"
-                     id="tspan4314-2"
-                     x="161.94379"
-                     y="999.39374"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#ae0024;fill-opacity:1">Abc</tspan></text>
+                   id="text4312-3">
+                  <path
+                     d="m 174.17564,983.25366 16.34892,0 -8.17446,-21.18199 -8.17446,21.18199 z m -12.58986,16.14008 0,-3.16238 3.90823,0 15.87157,-41.37947 5.01208,0 15.90141,41.37947 4.38556,0 0,3.16238 -16.19974,0 0,-3.16238 4.95241,0 -3.72923,-9.78549 -18.73562,0 -3.72922,9.78549 4.89274,0 0,3.16238 -12.53019,0 z"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#ae0024;fill-opacity:1"
+                     id="path4306" />
+                  <path
+                     d="m 213.13857,996.23136 0,-40.09661 -5.28058,0 0,-3.16239 10.76999,0 0,19.66047 q 1.61103,-2.98338 4.08723,-4.38557 2.50604,-1.43202 6.1756,-1.43202 5.84742,0 9.54681,4.62424 3.69939,4.62424 3.69939,12.08268 0,7.45845 -3.69939,12.11252 -3.69939,4.62422 -9.54681,4.62422 -3.66956,0 -6.1756,-1.40217 -2.4762,-1.43202 -4.08723,-4.4154 l 0,4.95241 -10.76999,0 0,-3.16238 5.28058,0 z m 5.48941,-11.12801 q 0,5.72809 2.17787,8.7413 2.2077,2.98338 6.38443,2.98338 4.20657,0 6.3546,-3.37122 2.17787,-3.37121 2.17787,-9.93465 0,-6.59326 -2.17787,-9.93465 -2.14803,-3.34138 -6.3546,-3.34138 -4.17673,0 -6.38443,3.01321 -2.17787,3.01321 -2.17787,8.71147 l 0,3.13254 z"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#ae0024;fill-opacity:1"
+                     id="path4308" />
+                  <path
+                     d="m 276.6547,989.87676 q -1.16352,5.07174 -4.47507,7.72695 -3.31155,2.65519 -8.56229,2.65519 -6.92144,0 -11.12801,-4.56455 -4.20656,-4.59441 -4.20656,-12.17219 0,-7.60761 4.20656,-12.14235 4.20657,-4.56457 11.12801,-4.56457 3.01321,0 5.99659,0.71601 2.98338,0.68618 5.99659,2.1182 l 0,8.11479 -3.19222,0 q -0.62651,-4.17673 -2.7447,-6.08609 -2.08837,-1.90936 -5.9966,-1.90936 -4.44523,0 -6.7126,3.46072 -2.26737,3.43088 -2.26737,10.29265 0,6.86177 2.23754,10.32249 2.26737,3.46072 6.74243,3.46072 3.55023,0 5.66842,-1.84969 2.1182,-1.8497 2.89388,-5.57892 l 4.4154,0 z"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#ae0024;fill-opacity:1"
+                     id="path4310" />
+                </g>
               </g>
             </g>
           </g>

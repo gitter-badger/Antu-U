@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,12 +44,12 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="4.9170839"
-     inkscape:cx="-12.28334"
-     inkscape:cy="29.109546"
+     inkscape:cx="-23.512566"
+     inkscape:cy="29.211232"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1-3"
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
@@ -171,18 +171,22 @@
          id="path4302"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccc" />
-      <text
-         xml:space="preserve"
+      <g
          style="font-style:normal;font-weight:normal;font-size:7.8266716px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="419.52307"
-         y="570.24713"
-         id="text4304"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4306"
-           x="419.52307"
-           y="570.24713"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">run</tspan></text>
+         id="text4304">
+        <path
+           d="m 420.68142,570.24713 -0.72006,0 0,-3.83507 0.68875,0 0,0.62614 0.0313,0 q 0.10957,-0.31307 0.44612,-0.51656 0.34437,-0.2035 0.66527,-0.2035 0.32089,0 0.54004,0.0939 l -0.27394,0.6731 q -0.14088,-0.0548 -0.3835,-0.0548 -0.39134,0 -0.69658,0.31307 -0.29741,0.30524 -0.29741,0.80614 l 0,2.09755 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4173" />
+        <path
+           d="m 426.17012,570.24713 -0.68875,0 0,-0.53221 -0.0313,0 q -0.16436,0.27393 -0.5009,0.4696 -0.33655,0.18784 -0.71223,0.18784 -0.72006,0 -1.09574,-0.4383 -0.36785,-0.43829 -0.36785,-1.174 l 0,-2.348 0.72005,0 0,2.2306 q 0,1.07226 0.94703,1.07226 0.44612,0 0.72788,-0.36003 0.28176,-0.36003 0.28176,-0.82963 l 0,-2.1132 0.72006,0 0,3.83507 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4175" />
+        <path
+           d="m 427.74303,566.41206 0,0.53222 0.0313,0 q 0.15653,-0.27394 0.49308,-0.46178 0.33655,-0.19566 0.72005,-0.19566 0.71223,0 1.08791,0.43829 0.37568,0.43829 0.37568,1.174 l 0,2.348 -0.72005,0 0,-2.23843 q 0,-1.06442 -0.94703,-1.06442 -0.44612,0 -0.72788,0.36002 -0.28176,0.3522 -0.28176,0.8218 l 0,2.12103 -0.72005,0 0,-3.83507 0.68874,0 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           id="path4177" />
+      </g>
       <g
          transform="translate(24.766288,8.2846664)"
          id="layer1-8"
