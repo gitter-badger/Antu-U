@@ -17,19 +17,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="folder-github.svg">
   <defs
-     id="defs5455">
-    <linearGradient
-       id="linearGradient5263">
-      <stop
-         offset="0"
-         style="stop-color:#a0d5ff;stop-opacity:1"
-         id="stop5265" />
-      <stop
-         offset="1"
-         style="stop-color:#a0d5ff;stop-opacity:1"
-         id="stop5267" />
-    </linearGradient>
-  </defs>
+     id="defs5455" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -38,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15"
-     inkscape:cx="14.4"
+     inkscape:cx="2.5"
      inkscape:cy="16.981532"
      inkscape:document-units="px"
      inkscape:current-layer="g4187"
@@ -122,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

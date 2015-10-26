@@ -1,2 +1,7 @@
 [Desktop Entry]
-Icon=folder-github
+Icon=folder-activities
+
+[Dolphin]
+PreviewsShown=true
+Timestamp=2015,10,25,19,35,10
+Version=3

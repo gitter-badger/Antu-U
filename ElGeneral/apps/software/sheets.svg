@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="calligrasheets.svg">
+   sodipodi:docname="sheets.svg">
   <defs
      id="defs2987">
     <linearGradient
@@ -117,30 +117,31 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#5a5a5a"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.0647144"
-     inkscape:cx="29.575322"
-     inkscape:cy="11.906207"
+     inkscape:cx="-22.389746"
+     inkscape:cy="18.501736"
      inkscape:current-layer="g4231"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:snap-global="true"
      inkscape:window-width="1366"
-     inkscape:window-height="698"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:object-nodes="true"
      inkscape:snap-nodes="true"
      inkscape:snap-others="false"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid2993" />
@@ -153,7 +154,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,7 +171,7 @@
          id="g4231">
         <g
            id="g4495"
-           transform="translate(29.816547,-0.54015483)">
+           transform="matrix(1.1526351,0,0,1.1526351,30.82968,-157.31682)">
           <g
              transform="matrix(0.65517696,0,0,0.65517696,-24.348086,1009.4167)"
              id="layer1-8"

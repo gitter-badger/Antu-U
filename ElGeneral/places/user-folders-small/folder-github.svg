@@ -18,29 +18,17 @@
    viewBox="0 0 16 16"
    sodipodi:docname="folder-github.svg">
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient5263">
-      <stop
-         id="stop5265"
-         style="stop-color:#a0d5ff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop5267"
-         style="stop-color:#a0d5ff;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#7b7b7b"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="11.969408"
-     inkscape:cy="8.5188837"
+     inkscape:cx="5.3776748"
+     inkscape:cy="-1.5826417"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-0"
      showgrid="true"
@@ -91,22 +79,10 @@
        transform="translate(-403.69551,511.9911)"
        id="layer1-0"
        inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path4224"
-         d="m 386.57144,526.798 0,1 6.99999,0 1,-3 -1,2 z"
-         style="fill:#ffffff;fill-opacity:0.23529412;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
          transform="translate(-9.3737374,-1.0426415)"
          id="layer1-2"
          inkscape:label="Capa 1">
-        <path
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path4224-6"
-           d="m 386.57144,526.798 0,1 6.99999,0 1,-3 -1,2 z"
-           style="fill:#ffffff;fill-opacity:0.23529412;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <g
            transform="matrix(0.7863692,0,0,0.78394543,93.325829,112.35451)"
            id="g4187">

@@ -187,17 +187,6 @@
          style="stop-color:#424649;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4290-1">
-      <stop
-         id="stop4292-9"
-         offset="0"
-         style="stop-color:#a5a5a5;stop-opacity:1;" />
-      <stop
-         id="stop4294-1"
-         offset="1"
-         style="stop-color:#f5f2f5;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4159"
        id="linearGradient4244"
@@ -263,23 +252,23 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#5a5a5a"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.118064"
-     inkscape:cx="10.232658"
+     inkscape:zoom="8"
+     inkscape:cx="21.31677"
      inkscape:cy="21.98518"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:snap-global="true"
      inkscape:window-width="1366"
-     inkscape:window-height="698"
+     inkscape:window-height="642"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -287,7 +276,8 @@
      inkscape:snap-nodes="false"
      inkscape:snap-others="false"
      showguides="false"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid2993" />
@@ -300,7 +290,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
