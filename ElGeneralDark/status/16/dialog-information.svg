@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg3049"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dialog-information.svg"
+   inkscape:export-filename="/home/uri/.kde/share/icons/NITRUX-KDE/16x16/actions/view-right-new.png"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30">
+  <defs
+     id="defs3051" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="4.935629"
+     inkscape:cy="13.741402"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="630"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4085" />
+    <sodipodi:guide
+       position="2.0000044,14.00003"
+       orientation="12,0"
+       id="guide4075" />
+    <sodipodi:guide
+       position="2.0000044,2.0000296"
+       orientation="0,12"
+       id="guide4077" />
+    <sodipodi:guide
+       position="14.000004,2.0000296"
+       orientation="-12,0"
+       id="guide4079" />
+    <sodipodi:guide
+       position="14.000004,14.00003"
+       orientation="0,-12"
+       id="guide4081" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-421.71429,-531.79074)">
+    <g
+       transform="matrix(0.74999999,0,0,0.74999999,176.96429,130.7691)"
+       id="layer1-2"
+       inkscape:label="Capa 1">
+      <g
+         inkscape:label="Layer 1"
+         id="layer1-3"
+         transform="matrix(0.28650725,0,0,0.28650725,116.73905,490.74772)">
+        <path
+           d="m 740.85718,187.65999 c 0,-12.91189 12.52623,-23.41631 27.92234,-23.41631 15.39656,0 27.92267,10.50453 27.92267,23.41631 0,12.91179 -12.52611,23.41632 -27.92267,23.41632 -1.29451,0 -2.59354,-0.075 -3.87066,-0.22295 -5.93024,3.76729 -10.30801,5.82929 -13.02133,6.13072 -0.0944,0.0101 -0.18937,0.0155 -0.28239,0.0155 -0.87153,0 -1.67821,-0.43433 -2.15856,-1.16262 -0.53694,-0.81471 -0.57196,-1.8483 -0.0937,-2.69219 0.0222,-0.0402 2.11617,-3.86054 1.51208,-7.50979 -6.37041,-4.45802 -10.00778,-10.97288 -10.00778,-17.97502 z"
+           id="path7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssssccscccs"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <g
+           id="g5257"
+           transform="translate(725.96018,165.63661)"
+           style="fill:#ffffff;fill-opacity:1;stroke:none">
+          <g
+             id="g5211"
+             transform="matrix(0.86821297,0,0,0.86821297,22.89117,3.3794412)"
+             style="fill:#ffffff;fill-opacity:1;stroke:none">
+            <g
+               id="g5213"
+               style="fill:#ffffff;fill-opacity:1;stroke:none">
+              <path
+                 id="path5215"
+                 d="m 22.683,16.977 c -2.028,0 -3.465,1.646 -3.465,3.672 l 0,12.485 c 0,2.028 1.437,3.671 3.465,3.671 2.027,0 3.463,-1.643 3.463,-3.671 l 0,-12.485 c 0,-2.028 -1.436,-3.672 -3.463,-3.672 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+              <path
+                 id="path5217"
+                 d="m 22.698,7.432 c -2.095,0 -3.795,1.699 -3.795,3.795 0,2.095 1.7,3.793 3.795,3.793 2.093,0 3.793,-1.698 3.793,-3.793 0,-2.096 -1.7,-3.795 -3.793,-3.795 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g5221"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5223"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5225"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5227"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5229"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5231"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5233"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5235"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5237"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5239"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5241"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5243"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5245"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5247"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <g
+             id="g5249"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
