@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="image-png.svg">
+   sodipodi:docname="application-vnd.oasis.opendocument.image.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -173,7 +173,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="12.42499"
+     inkscape:cx="3.7419543"
      inkscape:cy="8.7386285"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3-6-6"
@@ -181,9 +181,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -217,7 +217,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -518,7 +518,7 @@
                                    transform="matrix(0.58271538,-0.10323419,0.10323419,0.58271538,163.82668,269.75821)"
                                    id="g4528-2">
                                 <rect
-                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.6671834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.85469533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                                    id="rect4473-3"
                                    width="76.809471"
                                    height="58.986568"
@@ -533,7 +533,7 @@
                                 </g>
                                 <rect
                                    transform="matrix(0.90765278,-0.0056985,0.0056985,0.90765278,95.981015,47.52327)"
-                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.9031508;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.85469537;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                                    id="rect4473-6"
                                    width="76.809471"
                                    height="58.986568"

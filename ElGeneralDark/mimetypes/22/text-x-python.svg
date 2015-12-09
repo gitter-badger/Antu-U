@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-x-python-bytecode.svg">
+   sodipodi:docname="text-x-python.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -40,17 +40,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-8.3689916"
-     inkscape:cy="8.7244419"
+     inkscape:cx="-25.735063"
+     inkscape:cy="8.7690848"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-1"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -121,11 +121,12 @@
           <g
              transform="matrix(1.3333333,0,0,1.3333333,441.47898,-851.67017)"
              id="layer1-8"
-             inkscape:label="Capa 1">
+             inkscape:label="Capa 1"
+             style="fill:#ffffff;fill-opacity:1">
             <path
                id="rect4145"
                d="m 21.946431,1040.2908 c -1.10801,0 -2,0.892 -2,2 l 3,0 0,1 -3,0 -1,0 c -1.108,0 -2,0.892 -2,2 l 0,2 c 0,1.108 0.892,2 2,2 l 0,-1 c 0,-0.8887 0.389895,-1.6762 1,-2.2246 6.77e-4,-6e-4 0.0013,0 0.002,0 0.132146,-0.1185 0.274586,-0.2257 0.425781,-0.3203 0.0012,-7e-4 0.0027,0 0.0039,0 0.148909,-0.093 0.305957,-0.1722 0.470702,-0.2383 0.02967,-0.012 0.06167,-0.019 0.0918,-0.029 0.139962,-0.051 0.282569,-0.098 0.431641,-0.127 0.186208,-0.036 0.377218,-0.057 0.574219,-0.057 l 1,0 3,0 0,-3 c 0,-1.108 -0.89199,-2 -2,-2 z m 5,3 0,1 c 0,0.8887 -0.391849,1.6782 -1.001953,2.2266 -0.132146,0.1185 -0.274587,0.2257 -0.425781,0.3203 -0.0012,7e-4 -0.0027,0 -0.0039,0 -0.148909,0.093 -0.305958,0.1722 -0.470703,0.2383 -0.02967,0.012 -0.06167,0.019 -0.0918,0.029 -0.139966,0.051 -0.282573,0.098 -0.431645,0.127 -0.186208,0.036 -0.377218,0.057 -0.574218,0.057 l -4,0 0,3 c 0,1.108 0.89199,2 2,2 l 2,0 c 1.10801,0 2,-0.892 2,-2 l -3,0 0,-1 4,0 c 1.108,0 2,-0.892 2,-2 l 0,-2 c 0,-1.108 -0.892,-2 -2,-2 z"
-               style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+               style="fill:#ffffff;fill-opacity:1;stroke:none"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="sccccssscscccccccsccssscsccccccscssscccsssc" />
           </g>

@@ -486,17 +486,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-44.263046"
-     inkscape:cy="9.5963075"
+     inkscape:cx="-92.888046"
+     inkscape:cy="9.7213075"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px">
     <sodipodi:guide
@@ -570,32 +570,35 @@
     <g
        transform="translate(-326,496)"
        id="layer1-2"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
          id="layer1-91"
-         transform="matrix(0.66666667,0,0,0.66666667,70.95238,189.83024)">
+         transform="matrix(0.66666667,0,0,0.66666667,70.95238,189.83024)"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            inkscape:label="Capa 1"
            id="layer1-67"
-           transform="matrix(1.090909,0,0,1.090909,30.344185,-60.551687)">
+           transform="matrix(1.090909,0,0,1.090909,30.344185,-60.551687)"
+           style="fill:#ffffff;fill-opacity:1">
           <g
              id="g3"
              transform="matrix(0.05404131,0,0,0.05404131,327,533.3622)"
-             style="fill:#4d4d4d;fill-opacity:1">
+             style="fill:#ffffff;fill-opacity:1">
             <g
                id="g5"
-               style="fill:#4d4d4d;fill-opacity:1">
+               style="fill:#ffffff;fill-opacity:1">
               <path
                  d="M 402.115,84.008 323.088,4.981 C 319.899,1.792 315.574,0 311.063,0 L 17.005,0 C 7.613,0 0,7.614 0,17.005 l 0,373.086 c 0,9.392 7.613,17.005 17.005,17.005 l 373.086,0 c 9.392,0 17.005,-7.613 17.005,-17.005 l 0,-294.059 c 0,-4.509 -1.791,-8.835 -4.981,-12.024 z m -101.451,79.559 -233.535,0 0,-124.705 233.535,0 0,124.705 z"
                  id="path7"
                  inkscape:connector-curvature="0"
-                 style="fill:#4d4d4d;fill-opacity:1" />
+                 style="fill:#ffffff;fill-opacity:1" />
               <path
                  d="m 214.051,148.16 43.08,0 c 3.131,0 5.668,-2.538 5.668,-5.669 l 0,-82.907 c 0,-3.13 -2.537,-5.668 -5.668,-5.668 l -43.08,0 c -3.131,0 -5.668,2.538 -5.668,5.668 l 0,82.907 c 0,3.131 2.537,5.669 5.668,5.669 z"
                  id="path9"
                  inkscape:connector-curvature="0"
-                 style="fill:#4d4d4d;fill-opacity:1" />
+                 style="fill:#ffffff;fill-opacity:1" />
             </g>
           </g>
         </g>

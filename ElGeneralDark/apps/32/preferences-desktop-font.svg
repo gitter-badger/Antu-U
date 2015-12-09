@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -23,7 +24,7 @@
      id="defs5455">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4191"
+       xlink:href="#linearGradient4288-0"
        id="linearGradient4232"
        gradientUnits="userSpaceOnUse"
        x1="400.57138"
@@ -31,16 +32,28 @@
        x2="400.57138"
        y2="517.79797" />
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4191">
+       id="linearGradient4207"
+       osb:paint="gradient">
       <stop
-         style="stop-color:#2e3e46;stop-opacity:1"
+         style="stop-color:#3498db;stop-opacity:1;"
          offset="0"
-         id="stop4193" />
+         id="stop3371" />
       <stop
-         style="stop-color:#435a64;stop-opacity:1"
+         style="stop-color:#3498db;stop-opacity:0;"
          offset="1"
-         id="stop4195" />
+         id="stop3373" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4288-0">
+      <stop
+         style="stop-color:#00a199;stop-opacity:1"
+         offset="0"
+         id="stop4290-7" />
+      <stop
+         style="stop-color:#00f89a;stop-opacity:0.98823529"
+         offset="1"
+         id="stop4292-0" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -51,7 +64,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999996"
-     inkscape:cx="-24.500004"
+     inkscape:cx="-0.85164681"
      inkscape:cy="31.561773"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -61,9 +74,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -196,7 +209,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -216,7 +229,7 @@
          height="27.999973"
          width="27.999973"
          id="rect4179-1"
-         style="opacity:1;fill:url(#linearGradient4232);fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:url(#linearGradient4232);fill-opacity:1.0;stroke:none" />
       <g
          id="text4181"
          style="font-style:normal;font-weight:normal;font-size:16.6120224px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">

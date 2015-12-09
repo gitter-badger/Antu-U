@@ -27,7 +27,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-8.6376959"
+     inkscape:cx="-26.003767"
      inkscape:cy="9.4711147"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3"
@@ -35,9 +35,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,7 +114,7 @@
                id="Music"
                sketch:type="MSShapeGroup"
                inkscape:connector-curvature="0"
-               style="fill:#4d4d4d;fill-opacity:1" />
+               style="fill:#ffffff;fill-opacity:1" />
           </g>
         </g>
       </g>

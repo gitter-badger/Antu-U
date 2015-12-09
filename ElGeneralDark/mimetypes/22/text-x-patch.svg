@@ -40,17 +40,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="5.9291772"
-     inkscape:cy="10.759503"
+     inkscape:cx="-6.3504896"
+     inkscape:cy="10.79107"
      inkscape:document-units="px"
      inkscape:current-layer="g4174"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,12 +178,13 @@
                   <g
                      transform="matrix(2.3692439,0,0,2.4110003,527.3509,-1981.9695)"
                      id="layer1-8"
-                     inkscape:label="Capa 1">
+                     inkscape:label="Capa 1"
+                     style="fill:#ffffff;fill-opacity:1">
                     <path
                        id="rect4143"
                        transform="translate(0,1036.3622)"
                        d="M 5.5,2 A 1.5,1.5 0 0 0 4,3.5 1.5,1.5 0 0 0 5,4.9121094 L 5,11.087891 A 1.4999913,1.4999913 0 0 0 4,12.5 1.4999913,1.4999913 0 0 0 5.5,14 1.4999913,1.4999913 0 0 0 7,12.5 1.4999913,1.4999913 0 0 0 6,11.087891 L 6,4.9121094 A 1.5,1.5 0 0 0 7,3.5 1.5,1.5 0 0 0 5.5,2 Z M 9,2 7,3.4003906 9,5 9,4 10,4 c 0.554,0 1,0.446 1,1 l 0,6.087891 A 1.4999913,1.4999913 0 0 0 10,12.5 1.4999913,1.4999913 0 0 0 11.5,14 1.4999913,1.4999913 0 0 0 13,12.5 1.4999913,1.4999913 0 0 0 12,11.087891 L 12,5 C 12,3.892 11.106618,3.0553 10,3 L 9,3 9,2 Z M 5.5,3 A 0.5,0.5 0 0 1 6,3.5 0.5,0.5 0 0 1 5.5,4 0.5,0.5 0 0 1 5,3.5 0.5,0.5 0 0 1 5.5,3 Z m 0,9 A 0.4999913,0.4999913 0 0 1 6,12.5 0.4999913,0.4999913 0 0 1 5.5,13 0.4999913,0.4999913 0 0 1 5,12.5 0.4999913,0.4999913 0 0 1 5.5,12 Z m 6,0 A 0.4999913,0.4999913 0 0 1 12,12.5 0.4999913,0.4999913 0 0 1 11.5,13 0.4999913,0.4999913 0 0 1 11,12.5 0.4999913,0.4999913 0 0 1 11.5,12 Z"
-                       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
+                       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
                        inkscape:connector-curvature="0" />
                   </g>
                 </g>

@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-games.svg">
+   sodipodi:docname="lavender-games.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,16 +27,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.97"
-     inkscape:cx="-6.6361665"
+     inkscape:cx="-18.097569"
      inkscape:cy="15.674913"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-12"
+     inkscape:current-layer="layer1-00"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,43 +91,44 @@
       <g
          transform="translate(5.05585,-5.251147)"
          id="layer1-4"
-         inkscape:label="Capa 1">
+         inkscape:label="Capa 1"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            transform="translate(-11.317,5.8824915)"
            id="layer1-9"
            inkscape:label="Capa 1"
-           style="stroke:#000000;stroke-opacity:0.8;fill:#4d4d4d;fill-opacity:1">
+           style="stroke:#000000;stroke-opacity:0.8;fill:#ffffff;fill-opacity:1">
           <g
              transform="translate(1.8733025,-0.28410538)"
              id="layer1-79"
              inkscape:label="Capa 1"
-             style="fill:#4d4d4d;fill-opacity:1">
+             style="fill:#ffffff;fill-opacity:1">
             <g
                transform="translate(-2.0518724,-0.97858527)"
                id="layer1-2"
                inkscape:label="Capa 1"
-               style="fill:#4d4d4d;fill-opacity:1" />
+               style="fill:#ffffff;fill-opacity:1" />
             <g
                transform="translate(-1.7361997,-0.72604714)"
                id="layer1-002"
                inkscape:label="Capa 1"
-               style="fill:#4d4d4d;fill-opacity:1">
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  transform="matrix(0.7863692,0,0,0.78394543,93.325829,112.35451)"
                  id="g4187-9"
-                 style="fill:#4d4d4d;fill-opacity:1">
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
                    transform="matrix(1.2716673,0,0,1.275599,-117.91669,-142.87637)"
                    id="layer1-46"
                    inkscape:label="Capa 1"
-                   style="fill:#4d4d4d;fill-opacity:1">
+                   style="fill:#ffffff;fill-opacity:1">
                   <g
                      transform="matrix(0.7863692,0,0,0.78394543,93.325829,112.35451)"
                      id="g4187-7"
-                     style="fill:#4d4d4d;fill-opacity:1">
+                     style="fill:#ffffff;fill-opacity:1">
                     <path
                        sodipodi:nodetypes="ssssssssssscccccccsss"
-                       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+                       style="fill:#ffffff;fill-opacity:1;stroke:none"
                        sketch:type="MSShapeGroup"
                        id="Games"
                        d="m 416.84327,538.92939 c 0.76862,0 1.39289,-0.60759 1.39289,-1.3586 0,-0.74949 -0.62323,-1.35809 -1.39289,-1.35809 -0.76864,0 -1.39236,0.60811 -1.39236,1.35809 0,0.75101 0.62321,1.3586 1.39236,1.3586 z m -5.10517,0 c 0.76865,0 1.39289,-0.60759 1.39289,-1.3586 0,-0.74949 -0.62321,-1.35809 -1.39289,-1.35809 -0.76862,0 -1.39235,0.60811 -1.39235,1.35809 0,0.75101 0.62322,1.3586 1.39235,1.3586 z m -6.48502,5.1623 c 1.32226,0 2.55362,-0.375 3.59127,-1.02263 0.60401,-0.37601 0.60867,-1.18173 0.10182,-1.67582 l -2.77485,-2.70861 c -0.50793,-0.49459 -0.50845,-1.29677 0,-1.79138 l 2.99974,-2.927 c 0.50792,-0.49509 0.52245,-1.31857 -0.0624,-1.72243 -1.08958,-0.75306 -2.42014,-1.19595 -3.85665,-1.19595 -3.68994,6.3e-4 -6.68188,2.92194 -6.68188,6.52292 0,3.60149 2.99194,6.5209 6.68292,6.5209 z"

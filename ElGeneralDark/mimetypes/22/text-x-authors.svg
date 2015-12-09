@@ -39,18 +39,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-22.567034"
-     inkscape:cy="39.314253"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="-7.1416816"
+     inkscape:cy="6.8086497"
      inkscape:document-units="px"
      inkscape:current-layer="g4240"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,13 +237,13 @@
                                    style="stroke:#2c3137;stroke-opacity:1"
                                    transform="matrix(0.54545454,0,0,0.54545454,-115.35004,665.58306)">
                                 <circle
-                                   style="fill:#3d434a;fill-opacity:1;stroke:#3d434a;stroke-width:100;stroke-opacity:1"
+                                   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:100;stroke-opacity:1"
                                    cx="490"
                                    cy="490"
                                    r="440"
                                    id="circle7515" />
                                 <path
-                                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+                                   style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
                                    inkscape:connector-curvature="0"
                                    d="m 485.98545,228.3427 c -130,0 -239,91 -267,213 l 131,0 c 24,-52 76,-88 136,-88 83,0 150,67 150,150 0,83 -67,150 -150,150 -60,0 -112,-36 -136,-87 l -131,0 c 28,121 137,212 267,212 152,0 275,-123 275,-275 0,-152 -123,-275 -275,-275 z"
                                    id="path7517" />

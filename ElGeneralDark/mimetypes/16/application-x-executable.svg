@@ -41,7 +41,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="1.9143558"
+     inkscape:cx="-15.451716"
      inkscape:cy="12.111369"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-1"
@@ -49,9 +49,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,7 +177,7 @@
                                    height="34.938858"
                                    width="46.302639"
                                    id="rect4195"
-                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                               </g>
                             </g>
                             <g
@@ -190,7 +190,7 @@
                                  id="path1551"
                                  sketch:type="MSShapeGroup"
                                  inkscape:connector-curvature="0"
-                                 style="fill:#ffffff;fill-opacity:1" />
+                                 style="fill:#4d4d4d;fill-opacity:1" />
                             </g>
                           </g>
                         </g>

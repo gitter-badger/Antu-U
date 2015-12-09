@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="5.9291772"
+     inkscape:cx="-6.3504896"
      inkscape:cy="10.759503"
      inkscape:document-units="px"
      inkscape:current-layer="g4174"
@@ -48,9 +48,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,12 +178,13 @@
                   <g
                      transform="matrix(2.190322,0,0,2.228925,528.63055,-1791.317)"
                      id="layer1-0"
-                     inkscape:label="Capa 1">
+                     inkscape:label="Capa 1"
+                     style="fill:#ffffff;fill-opacity:1">
                     <path
                        id="path4204"
                        d="m 13.554973,1043.8289 -0.927162,0 0,-2.4725 c 0,-0.6799 -0.556301,-1.2362 -1.236214,-1.2362 l -2.4724357,0 0,-0.9271 c 0,-0.8654 -0.6799135,-1.5453 -1.5452657,-1.5453 -0.8653521,0 -1.5452653,0.6799 -1.5452653,1.5453 l 0,0.9271 -2.4724278,0 c -0.6799213,0 -1.2362139,0.5563 -1.2362139,1.2362 l 0,2.3488 0.9271544,0 c 0.9271624,0 1.668894,0.7418 1.668894,1.6689 0,0.9272 -0.7417316,1.6689 -1.668894,1.6689 l -0.9271544,0 0,2.3488 c 0,0.6799 0.5562926,1.2362 1.2362139,1.2362 l 2.3487991,0 0,-0.9271 c 0,-0.9272 0.7417316,-1.669 1.668894,-1.669 0.9271625,0 1.6688943,0.7418 1.6688943,1.669 l 0,0.9271 2.3488071,0 c 0.679913,0 1.236214,-0.5563 1.236214,-1.2362 l 0,-2.4724 0.927162,0 c 0.865353,0 1.545266,-0.68 1.545266,-1.5453 0,-0.8654 -0.679913,-1.5452 -1.545266,-1.5452 z"
                        inkscape:connector-curvature="0"
-                       style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1" />
+                       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
                   </g>
                 </g>
               </g>

@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-network.svg">
+   sodipodi:docname="graphite-network.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-9.8062167"
-     inkscape:cy="7.256193"
+     inkscape:cx="8.8296262"
+     inkscape:cy="7.2719766"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3"
      showgrid="true"
@@ -36,7 +36,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -123,9 +123,9 @@
                         <g
                            transform="matrix(0.7863692,0,0,0.78394543,93.325829,112.35451)"
                            id="g4187-5"
-                           style="fill:#4d4d4d;fill-opacity:1">
+                           style="fill:#ffffff;fill-opacity:1">
                           <path
-                             style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+                             style="fill:#ffffff;fill-opacity:1;stroke:none"
                              sketch:type="MSShapeGroup"
                              id="Share"
                              d="m 409.03112,539.84875 c -0.81855,0 -1.54059,0.39154 -2.01228,0.99113 l -4.37528,-2.24653 c 0.0573,-0.2145 0.0985,-0.43612 0.0985,-0.66937 0,-0.25391 -0.0489,-0.49298 -0.11711,-0.72557 l 4.35596,-2.23618 c 0.46913,0.62672 1.20981,1.03635 2.05088,1.03635 1.42476,0 2.57731,-1.15718 2.57731,-2.58638 0,-1.42789 -1.15255,-2.58572 -2.57731,-2.58572 -1.42152,0 -2.57534,1.15783 -2.57534,2.58572 0,0.2339 0.0412,0.45616 0.0991,0.67131 l -4.37399,2.24652 c -0.47234,-0.60022 -1.19566,-0.99306 -2.01549,-0.99306 -1.42346,0 -2.57536,1.15847 -2.57536,2.58701 0,1.42855 1.1519,2.58638 2.57536,2.58638 0.84236,0 1.58241,-0.41093 2.05346,-1.03829 l 4.35405,2.23618 c -0.0682,0.23195 -0.11777,0.47295 -0.11777,0.72751 0,1.42855 1.15383,2.58638 2.57536,2.58638 1.42475,0 2.57729,-1.15783 2.57729,-2.58638 0,-1.42983 -1.15254,-2.58701 -2.57729,-2.58701 l 0,0 z"

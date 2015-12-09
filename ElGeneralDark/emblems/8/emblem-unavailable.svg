@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="65.053824"
-     inkscape:cx="-2.0902513"
-     inkscape:cy="3.7942662"
+     inkscape:cx="1.1114043"
+     inkscape:cy="3.8019521"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -36,7 +36,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -70,7 +70,7 @@
      id="layer1"
      transform="translate(-7,-1037.3622)">
     <rect
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4153"
        width="8"
        height="8"
@@ -80,9 +80,10 @@
     <g
        transform="translate(-6.2576356,-1.8901397)"
        id="layer1-6"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#4d4d4d;fill-opacity:1">
       <g
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#4d4d4d;fill-opacity:1"
          inkscape:label="Capa 1"
          id="layer1-7"
          transform="matrix(0.76531517,0,0,0.76531517,-419.49679,570.36)">
@@ -90,24 +91,24 @@
            id="g5548"
            sketch:type="MSShapeGroup"
            transform="matrix(0.14300539,0,0,0.14300539,554.04072,610.29161)"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#4d4d4d;fill-opacity:1">
           <g
              transform="matrix(5.8601665,0,0,5.8601665,-4437.2344,-1090.209)"
              id="layer1-9"
              inkscape:label="Layer 1"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#4d4d4d;fill-opacity:1">
             <g
                inkscape:label="Capa 1"
                id="layer1-2"
                transform="matrix(0.37907185,0,0,0.37907185,615.60988,-10.010196)"
-               style="fill:#ffffff;fill-opacity:1">
+               style="fill:#4d4d4d;fill-opacity:1">
               <g
-                 style="fill:#ffffff;fill-opacity:1"
+                 style="fill:#4d4d4d;fill-opacity:1"
                  transform="matrix(0.20663505,0,0,0.20663505,416.2249,531.51293)"
                  sketch:type="MSLayerGroup"
                  id="remove11">
                 <path
-                   style="fill:#ffffff;fill-opacity:1"
+                   style="fill:#4d4d4d;fill-opacity:1"
                    inkscape:connector-curvature="0"
                    sketch:type="MSShapeGroup"
                    id="path1028"

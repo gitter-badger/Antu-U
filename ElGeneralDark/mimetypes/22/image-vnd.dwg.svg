@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="5.9291772"
+     inkscape:cx="-6.3504896"
      inkscape:cy="10.759503"
      inkscape:document-units="px"
      inkscape:current-layer="g4174"
@@ -48,9 +48,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,12 +178,13 @@
                   <g
                      transform="matrix(2.3692464,0,0,2.4110028,528.53552,-1981.9722)"
                      id="layer1-2"
-                     inkscape:label="Capa 1">
+                     inkscape:label="Capa 1"
+                     style="fill:#ffffff;fill-opacity:1">
                     <path
                        id="path4162"
                        transform="translate(0,1036.3622)"
                        d="M 7,2 7,4 9,4 9,2 7,2 Z M 6.8691406,4.3574219 4.8886719,4.8886719 5.7070312,5.7070312 7,5.359375 7,4.3574219 l -0.1308594,0 z M 9,4.3574219 9,5.359375 12.056641,6.1796875 9,6.9980469 9,7 9,8 9,10.357422 9,11.359375 9,14 9.1308594,14 13,12.962891 l 0.992188,-0.265625 0.0078,0.002 0,-0.0039 0,-5.9960932 0,-0.00391 0,-1.0371094 -0.0078,0.00195 L 9.1308594,4.3574219 9,4.3574219 Z M 3.3105469,5.3105469 2,5.6621094 2,6 2,6.6992188 2,13 8,14 8,7 3.609375,6.2675781 4.1289062,6.1289062 3.3105469,5.3105469 Z M 13,6.9628906 13,11.394531 10,10.589844 10,7.7675781 13,6.9628906 Z M 10,11.626953 12.056641,12.177734 10,12.730469 10,11.626953 Z"
-                       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                        inkscape:connector-curvature="0" />
                   </g>
                 </g>

@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="text-x-csrc.svg">
+   sodipodi:docname="text-x-objcsrc.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -40,17 +40,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-8.6374101"
-     inkscape:cy="12.602315"
+     inkscape:cx="-26.003482"
+     inkscape:cy="12.646958"
      inkscape:document-units="px"
      inkscape:current-layer="g4240"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,10 +108,11 @@
         <g
            transform="matrix(1.2305135,0,0,1.2305135,69.194726,-1253.1944)"
            id="layer1-0"
-           inkscape:label="Capa 1">
+           inkscape:label="Capa 1"
+           style="fill:#ffffff;fill-opacity:1">
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:24.9093895px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:24.9093895px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="1.487161"
              y="1050.6266"
              id="text6701-0"
@@ -120,7 +121,7 @@
                id="tspan6703-9"
                x="1.487161"
                y="1050.6266"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1">c</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">c</tspan></text>
         </g>
       </g>
     </g>

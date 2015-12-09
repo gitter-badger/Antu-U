@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="1.1727593"
+     inkscape:cx="-16.193312"
      inkscape:cy="10.730703"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-43"
@@ -48,9 +48,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -172,10 +172,11 @@
                                 <g
                                    transform="matrix(1.3521374,0,0,1.3521374,414.31352,-877.98607)"
                                    id="layer1-71"
-                                   inkscape:label="Capa 1">
+                                   inkscape:label="Capa 1"
+                                   style="fill:#ffffff;fill-opacity:1">
                                 <text
                                    xml:space="preserve"
-                                   style="font-style:normal;font-weight:normal;font-size:22.66880608px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                                   style="font-style:normal;font-weight:normal;font-size:22.66880608px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                                    x="2.3888192"
                                    y="1050.0892"
                                    id="text12798"
@@ -184,7 +185,7 @@
                                    id="tspan12800"
                                    x="2.3888192"
                                    y="1050.0892"
-                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1">a</tspan></text>
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">a</tspan></text>
                                 </g>
                                 </g>
                               </g>

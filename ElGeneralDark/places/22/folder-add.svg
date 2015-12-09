@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="10.450503"
-     inkscape:cx="-1.6507064"
+     inkscape:cx="-20.262251"
      inkscape:cy="4.7071002"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -35,9 +35,9 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="630"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true">
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,7 +88,7 @@
            transform="matrix(2.6108213,0,0,2.6108213,-768.22476,390.2786)"
            style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:7.16012144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80000001">
           <path
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.16012144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80000001;marker:none;enable-background:accumulate"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.16012144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80000001;marker:none;enable-background:accumulate"
              id="rect8678-4-5-5-1-2"
              inkscape:connector-curvature="0"
              d="m 43.886832,-36.6986 c -1.108,0 -1.999909,0.892 -1.999909,2 l 0,81.609112 110.999917,0.239943 0,-70.041215 c 0,-1.108 -0.892,-2.000005 -2,-2.000005 l -60.173559,0 c -2.038523,0.180281 -2.301118,-0.09046 -3.308458,-1.435069 -1.428506,-1.911776 -3.585547,-7.064534 -4.99187,-8.929393 -1.128792,-1.632735 -1.311871,-1.443378 -3.183935,-1.443378 z"
@@ -97,7 +97,7 @@
       </g>
     </g>
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none;opacity:1"
        d="m 7.5095149,1042.3419 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2.0000001,0 0,-1 -2.0000001,0 0,-2 z"
        id="rect4182"
        inkscape:connector-curvature="0"

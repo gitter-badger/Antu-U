@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="5.9291772"
+     inkscape:cx="-6.3504896"
      inkscape:cy="10.759503"
      inkscape:document-units="px"
      inkscape:current-layer="g4174"
@@ -48,9 +48,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -210,7 +210,7 @@
                                    height="39.999969"
                                    width="36"
                                    id="rect4319"
-                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
+                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455" />
                               </g>
                             </g>
                           </g>
@@ -251,7 +251,7 @@
                             <path
                                inkscape:connector-curvature="0"
                                id="path4163"
-                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+                               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
                                d="m 432.86709,549.65053 q -0.26125,0.275 -0.66,0.275 -0.39875,0 -0.67375,-0.275 -0.26125,-0.275 -0.26125,-0.66 0,-0.385 0.26125,-0.66 0.275,-0.275 0.67375,-0.275 0.39875,0 0.66,0.275 0.275,0.275 0.275,0.66 0,0.385 -0.275,0.66 z m -0.0138,-2.86 -1.2925,0 0,-0.64625 q 0,-0.61875 0.26125,-1.05875 0.26125,-0.45375 0.92125,-1.05875 0.37125,-0.34375 0.5225,-0.50875 0.165,-0.17875 0.31625,-0.48125 0.165,-0.31625 0.165,-0.64625 0,-0.6325 -0.4125,-1.0175 -0.39875,-0.385 -1.11375,-0.385 -1.1825,0 -1.6225,1.32 l -1.1825,-0.495 q 0.28875,-0.78375 0.99,-1.4025 0.715,-0.6325 1.815,-0.6325 1.25125,0 2.035,0.7425 0.78375,0.72875 0.78375,1.87 0,0.495 -0.26125,1.00375 -0.26125,0.50875 -0.4675,0.72875 -0.1925,0.20625 -0.55,0.53625 -0.0412,0.0412 -0.0687,0.0687 -0.83875,0.75625 -0.83875,1.5125 l 0,0.55 z" />
                           </g>
                         </g>

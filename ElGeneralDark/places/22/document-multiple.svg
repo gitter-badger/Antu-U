@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="22.375"
-     inkscape:cy="1.9367286"
+     inkscape:cx="-1.9375"
+     inkscape:cy="1.9992286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-9"
      showgrid="false"
@@ -83,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,18 +99,18 @@
       <g
          id="g3"
          transform="matrix(0.01949637,0,0,0.01949637,606.00265,522.99918)"
-         style="fill:#4d4d4d;fill-opacity:1">
+         style="fill:#ffffff;fill-opacity:1">
         <g
            id="web_-_browser_tab"
-           style="fill:#4d4d4d;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1">
           <g
              id="g6"
-             style="fill:#4d4d4d;fill-opacity:1">
+             style="fill:#ffffff;fill-opacity:1">
             <path
                d="m 459,114.75 -420.75,0 C 17.136,114.75 0,131.886 0,153 L 0,573.75 C 0,594.864 17.136,612 38.25,612 L 459,612 c 21.114,0 38.25,-17.136 38.25,-38.25 l 0,-420.75 c 0,-21.114 -17.136,-38.25 -38.25,-38.25 z M 573.75,0 191.25,0 C 170.136,0 153,17.136 153,38.25 l 0,38.25 38.25,0 0,-19.125 c 0,-10.557 8.568,-19.125 19.125,-19.125 l 344.25,0 c 10.557,0 19.125,8.568 19.125,19.125 l 0,344.25 c 0,10.557 -8.568,19.125 -19.125,19.125 l -19.125,0 0,38.25 38.25,0 C 594.864,459 612,441.864 612,420.75 l 0,-382.5 C 612,17.136 594.864,0 573.75,0 Z"
                id="path8"
                inkscape:connector-curvature="0"
-               style="fill:#4d4d4d;fill-opacity:1"
+               style="fill:#ffffff;fill-opacity:1"
                sodipodi:nodetypes="ssssssssssssccssssssccssss" />
           </g>
         </g>

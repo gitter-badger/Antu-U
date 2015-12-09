@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="5.9291772"
+     inkscape:cx="-6.3504896"
      inkscape:cy="10.759503"
      inkscape:document-units="px"
      inkscape:current-layer="g4174"
@@ -48,9 +48,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,33 +177,40 @@
                    style="fill:#11394f;fill-opacity:1;stroke:none;stroke-opacity:1">
                   <g
                      id="g4186-6"
-                     transform="matrix(2.2919114,0,0,2.2961059,502.38533,487.54084)">
+                     transform="matrix(2.2919114,0,0,2.2961059,502.38533,487.54084)"
+                     style="fill:#ffffff;fill-opacity:1">
                     <g
                        id="g4186-3"
-                       transform="translate(-46.754763,0.40346316)">
+                       transform="translate(-46.754763,0.40346316)"
+                       style="fill:#ffffff;fill-opacity:1">
                       <g
                          transform="translate(-400.92463,-509.18113)"
                          id="layer1-38"
                          inkscape:label="Capa 1"
                          inkscape:transform-center-x="5.4653607"
-                         inkscape:transform-center-y="-9.4924686">
+                         inkscape:transform-center-y="-9.4924686"
+                         style="fill:#ffffff;fill-opacity:1">
                         <g
                            inkscape:transform-center-y="-9.4924686"
                            inkscape:transform-center-x="5.4653607"
                            inkscape:label="Capa 1"
                            id="layer1-26"
-                           transform="translate(-47.017055,-3.1738266)">
+                           transform="translate(-47.017055,-3.1738266)"
+                           style="fill:#ffffff;fill-opacity:1">
                           <g
                              id="layer1-3-56"
                              inkscape:label="Capa 1"
-                             transform="translate(0.41988239,0.03484499)">
+                             transform="translate(0.41988239,0.03484499)"
+                             style="fill:#ffffff;fill-opacity:1">
                             <g
                                inkscape:label="Capa 1"
                                id="layer1-7-9"
-                               transform="translate(-37.074403,0.97032551)">
+                               transform="translate(-37.074403,0.97032551)"
+                               style="fill:#ffffff;fill-opacity:1">
                               <g
                                  id="g4231-5"
-                                 transform="matrix(1.5263052,0,0,1.5263052,376.31698,-1040.1258)" />
+                                 transform="matrix(1.5263052,0,0,1.5263052,376.31698,-1040.1258)"
+                                 style="fill:#ffffff;fill-opacity:1" />
                             </g>
                           </g>
                         </g>
@@ -212,12 +219,13 @@
                     <g
                        transform="matrix(1,0,0,1.0157654,11.651615,-1039.8582)"
                        id="layer1-49"
-                       inkscape:label="Capa 1">
+                       inkscape:label="Capa 1"
+                       style="fill:#ffffff;fill-opacity:1">
                       <path
                          id="path4171"
                          d="m 1.8900987,1042.3214 0.7765306,0.6227 -0.7308561,1.4367 c -0.36542,0.6626 0.2623489,1.308 0.6623245,1.5327 0.3937534,0.2211 1.0048953,0.2474 1.5758703,0.2394 l 1.0277287,-1.7241 0.7765309,0.431 -1.3474904,-2.5623 -2.7406385,0.024 z m 0.1141903,3.5172 1.6672198,3.161 c 0.3349674,0.4389 0.9668475,0.5427 1.6215528,0.5268 l 1.7585771,0 0,-2.9933 -3.3344474,-0.024 c -0.517658,0.032 -1.1952284,-0.08 -1.7129023,-0.6706 z m 10.489334,-5.8253 -0.907078,0.3952 -0.870237,-1.3526 c -0.387467,-0.6492 -1.2419033,-0.3986 -1.6272673,-0.1485 -0.379365,0.2461 -0.698086,0.7819 -0.968094,1.2983 l 0.971197,1.7583 -0.743824,0.488 2.8370273,0.033 1.308276,-2.4715 z m -3.0529083,-1.6026 -3.5022807,-0.036 c -0.5365551,0.088 -0.9313402,0.6046 -1.2351334,1.2 l -0.8525699,1.5785 2.5511233,1.4512 1.6369817,-2.9813 c 0.223762,-0.4802 0.647483,-1.0341 1.401879,-1.2124 z m 0.152341,12.1968 0.10296,-1.0057 1.5746333,-0.1253 c 0.741118,-0.033 0.941808,-0.9215 0.915506,-1.3886 -0.02595,-0.4598 -0.328039,-1.0057 -0.637213,-1.4983 l -1.9694103,0.019 -0.05532,-0.9042 -1.403363,2.5305 1.472164,2.3724 z m 2.8459803,-1.9632 1.728632,-3.1259 c 0.185302,-0.5242 -0.06373,-1.1291 -0.423944,-1.6904 l -0.931895,-1.5305 -2.473631,1.5862 1.747203,2.9146 c 0.300738,0.4336 0.567428,1.0825 0.353635,1.846 z"
                          inkscape:connector-curvature="0"
-                         style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:0.8" />
+                         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:0.8" />
                     </g>
                   </g>
                 </g>

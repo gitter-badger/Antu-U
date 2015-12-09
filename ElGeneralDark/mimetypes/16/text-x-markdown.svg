@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="text-x-markdown.svg">
+   sodipodi:docname="text-markdown.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -62,7 +62,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="5.9291772"
+     inkscape:cx="-6.3504896"
      inkscape:cy="10.759503"
      inkscape:document-units="px"
      inkscape:current-layer="g4174"
@@ -70,9 +70,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -106,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -286,7 +286,7 @@
                                    transform="matrix(0.21482956,0,0,0.21482956,386.21156,509.60344)"
                                    id="g4188">
                                 <rect
-                                   style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:10;stroke-opacity:1"
+                                   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-opacity:1"
                                    width="198"
                                    height="118"
                                    x="5"
@@ -294,7 +294,7 @@
                                    ry="10"
                                    id="rect4178" />
                                 <path
-                                   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+                                   style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-opacity:1"
                                    inkscape:connector-curvature="0"
                                    d="m 30,98 0,-68 20,0 20,25 20,-25 20,0 0,68 -20,0 0,-39 -20,25 -20,-25 0,39 z m 125,0 -30,-33 20,0 0,-35 20,0 0,35 20,0 z"
                                    id="path4180" />

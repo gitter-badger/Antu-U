@@ -51,7 +51,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-8.6376959"
+     inkscape:cx="-26.003767"
      inkscape:cy="9.4711147"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-1"
@@ -59,9 +59,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -132,23 +132,25 @@
           <g
              transform="translate(0.41988239,0.03484499)"
              inkscape:label="Capa 1"
-             id="layer1-3">
+             id="layer1-3"
+             style="fill:#ffffff;fill-opacity:1;stroke:none">
             <g
                transform="matrix(1.2605089,0,0,1.2605089,461.55398,-773.33983)"
                id="layer1-49"
-               inkscape:label="Capa 1">
+               inkscape:label="Capa 1"
+               style="fill:#ffffff;fill-opacity:1;stroke:none">
               <g
                  id="g7383"
-                 style="fill:#4d4d4d;fill-opacity:1"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none"
                  transform="matrix(0.79541581,0,0,0.7903602,-320.6297,610.50916)">
                 <text
                    sodipodi:linespacing="125%"
                    id="text7375"
                    y="553.66809"
                    x="410.11862"
-                   style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                    xml:space="preserve"><tspan
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1;stroke:none"
                      y="553.66809"
                      x="410.11862"
                      id="tspan7377"
@@ -158,9 +160,9 @@
                    id="text7379"
                    y="552.06598"
                    x="404.49182"
-                   style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                    xml:space="preserve"><tspan
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1;stroke:none"
                      y="552.06598"
                      x="404.49182"
                      id="tspan7381"

@@ -50,7 +50,7 @@
        y1="542.79797"
        x1="409.57144"
        id="linearGradient4222"
-       xlink:href="#linearGradient4227-1"
+       xlink:href="#linearGradient4143"
        inkscape:collect="always" />
     <linearGradient
        osb:paint="gradient"
@@ -73,6 +73,29 @@
        id="linearGradient4385"
        xlink:href="#linearGradient4303-6-0"
        inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4227-2">
+      <stop
+         id="stop4229-9"
+         style="stop-color:#566069;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4231-4"
+         style="stop-color:#6c7884;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4143"
+       inkscape:collect="always">
+      <stop
+         id="stop4145"
+         offset="0"
+         style="stop-color:#197cf1;stop-opacity:1" />
+      <stop
+         id="stop4147"
+         offset="1"
+         style="stop-color:#20bcfa;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -82,7 +105,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="-12.47978"
+     inkscape:cx="-36.79228"
      inkscape:cy="17.343031"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -92,9 +115,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -147,7 +170,7 @@
        orientation="-14,0"
        id="guide4162" />
     <sodipodi:guide
-       position="23.000012,21.000026"
+       position="4,21"
        orientation="0,-14"
        id="guide4164" />
   </sodipodi:namedview>
@@ -159,7 +182,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,7 +222,7 @@
                height="34.938858"
                width="46.302639"
                id="rect4195"
-               style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1.0;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <g
                transform="matrix(0.83317883,0,0,0.83317883,65.74755,84.6955)"
                style="fill:url(#linearGradient4385);fill-opacity:1"

@@ -903,15 +903,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="14.253982"
-     inkscape:cy="4.1923705"
+     inkscape:cx="2.097732"
+     inkscape:cy="4.2236205"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -961,7 +961,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -977,48 +977,54 @@
       <g
          inkscape:label="Capa 1"
          id="layer1-24"
-         transform="matrix(0.66666667,0,0,0.66666667,101.45833,180.7874)">
+         transform="matrix(0.66666667,0,0,0.66666667,101.45833,180.7874)"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            transform="matrix(1.5,0,0,1.5,-262.35715,-257.13484)"
            id="layer1-9"
-           inkscape:label="Capa 1">
+           inkscape:label="Capa 1"
+           style="fill:#ffffff;fill-opacity:1">
           <g
              transform="translate(27.682101,0.12839698)"
-             id="g4369-5">
+             id="g4369-5"
+             style="fill:#ffffff;fill-opacity:1">
             <g
                transform="translate(22.659906,-5.9301729)"
-               id="g4382-1-0" />
+               id="g4382-1-0"
+               style="fill:#ffffff;fill-opacity:1" />
             <g
                transform="matrix(0.97603016,0,0,-0.97603016,8.9380976,1042.0695)"
-               id="g4486-5-9">
+               id="g4486-5-9"
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  transform="translate(0,2.1929912e-5)"
-                 id="g4830-8">
+                 id="g4830-8"
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
                    inkscape:label="Capa 1"
                    id="layer1-77-6"
                    transform="matrix(1.0245585,0,0,-1.0245585,-64.074253,1075.028)"
-                   style="fill:#4d4d4d;fill-opacity:1">
+                   style="fill:#ffffff;fill-opacity:1">
                   <g
                      id="g4369-2-6"
                      transform="translate(27.682101,0.12839698)"
-                     style="fill:#4d4d4d;fill-opacity:1">
+                     style="fill:#ffffff;fill-opacity:1">
                     <g
                        id="g4382-1-9-9"
                        transform="translate(22.659906,-5.9301729)"
-                       style="fill:#4d4d4d;fill-opacity:1" />
+                       style="fill:#ffffff;fill-opacity:1" />
                     <g
                        transform="matrix(0.66813192,0.0435732,-0.0435732,0.66813192,436.35924,-153.99699)"
                        id="layer1-5-6"
                        inkscape:label="Capa 1"
-                       style="fill:#4d4d4d;fill-opacity:1;stroke:none">
+                       style="fill:#ffffff;fill-opacity:1;stroke:none">
                       <g
-                         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+                         style="fill:#ffffff;fill-opacity:1;stroke:none"
                          transform="matrix(0.12816068,0,0,0.12816068,1.66033,1032.0224)"
                          sketch:type="MSLayerGroup"
                          id="search19-3">
                         <path
-                           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+                           style="fill:#ffffff;fill-opacity:1;stroke:none"
                            inkscape:connector-curvature="0"
                            sketch:type="MSShapeGroup"
                            id="path1074-6"

@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="text-x-csharp.svg">
+   sodipodi:docname="text-csharp.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -40,17 +40,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="5.9291772"
-     inkscape:cy="10.759503"
+     inkscape:cx="-6.3504896"
+     inkscape:cy="10.79107"
      inkscape:document-units="px"
      inkscape:current-layer="g4174"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,15 +178,16 @@
                   <g
                      transform="matrix(2.2859592,0,0,2.3262477,529.24067,-1893.5301)"
                      id="layer1-2"
-                     inkscape:label="Capa 1">
+                     inkscape:label="Capa 1"
+                     style="fill:#ffffff;fill-opacity:1">
                     <text
                        xml:space="preserve"
-                       style="font-style:normal;font-weight:normal;font-size:17.32747078px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                       style="font-style:normal;font-weight:normal;font-size:17.32747078px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                        x="0.71950293"
                        y="1050.6122"
                        id="text6415"
                        sodipodi:linespacing="125%"><tspan
-                         style="fill:#4d4d4d;fill-opacity:1"
+                         style="fill:#ffffff;fill-opacity:1"
                          sodipodi:role="line"
                          id="tspan6417"
                          x="0.71950293"

@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-cloud.svg">
+   sodipodi:docname="lavender-cloud.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.004475"
-     inkscape:cx="1.9278816"
-     inkscape:cy="3.9241023"
+     inkscape:cx="-14.27441"
+     inkscape:cy="3.9657534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-4"
      showgrid="true"
@@ -36,7 +36,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,9 +91,9 @@
         <g
            transform="matrix(0.77975636,0,0,0.78394543,95.974603,112.35451)"
            id="g4187"
-           style="fill:#4d4d4d;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1">
           <path
-             style="fill:#4d4d4d;fill-opacity:1"
+             style="fill:#ffffff;fill-opacity:1"
              sketch:type="MSShapeGroup"
              id="Cloud"
              d="m 391.84218,540.91306 c -0.42081,-0.32855 -0.94932,-0.52413 -1.52328,-0.52413 -1.35134,0 -2.45088,1.08433 -2.48542,2.43509 -1.39488,0.52618 -2.38765,1.87965 -2.38765,3.46634 0,1.87433 1.38537,3.42322 3.18243,3.66739 l 0,0 0,0.0335 12.72968,0 0,-0.006 c 1.77487,-0.10355 3.18242,-1.58396 3.18242,-3.39503 0,-1.74659 -1.30911,-3.18565 -2.9943,-3.37879 0.007,-0.10647 0.0108,-0.21389 0.0108,-0.32212 0,-2.70685 -2.27081,-4.90117 -5.07199,-4.90117 -2.07343,0 -3.85626,1.20226 -4.64268,2.9247 z"

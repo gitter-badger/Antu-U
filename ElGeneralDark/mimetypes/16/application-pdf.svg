@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-8.6376959"
+     inkscape:cx="-26.003767"
      inkscape:cy="9.4711147"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3"
@@ -34,9 +34,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -70,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,22 +112,22 @@
                transform="matrix(0.6779372,0,0,0.6779372,414.91906,-154.22415)"
                id="layer1-9"
                inkscape:label="Layer 1"
-               style="fill:#4d4d4d;fill-opacity:1">
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  inkscape:label="Capa 1"
                  id="layer1-8"
                  transform="translate(-384.28833,504.67735)"
-                 style="fill:#4d4d4d;fill-opacity:1">
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
                    id="g4231"
                    transform="matrix(1.5263052,0,0,1.5263052,376.31698,-1040.1258)"
-                   style="fill:#4d4d4d;fill-opacity:1">
+                   style="fill:#ffffff;fill-opacity:1">
                   <g
                      id="g4178"
                      transform="translate(-0.98298832,0)"
-                     style="fill:#4d4d4d;fill-opacity:1">
+                     style="fill:#ffffff;fill-opacity:1">
                     <path
-                       style="fill:#4d4d4d;fill-opacity:1"
+                       style="fill:#ffffff;fill-opacity:1"
                        sodipodi:nodetypes="cccccccccccccccccccccccsccsccccccccscccscccccccscssc"
                        inkscape:connector-curvature="0"
                        id="path5"
