@@ -278,7 +278,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-18.578953"
+     inkscape:cx="-11.871454"
      inkscape:cy="13.82451"
      inkscape:document-units="px"
      inkscape:current-layer="g4433"
@@ -288,9 +288,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
@@ -377,7 +377,7 @@
                    height="80.835442"
                    width="108.23729"
                    id="rect4233-5-5"
-                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 <g
                    style="fill:#898a8a;fill-opacity:1"
                    id="g4878-3-8"
@@ -544,7 +544,7 @@
                    height="101"
                    width="135.23729"
                    id="rect4233-5"
-                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 <g
                    id="g4878-3"
                    transform="matrix(0.81667073,0,0,0.81667073,53.715034,35.235655)">
@@ -710,7 +710,7 @@
                    height="118"
                    width="158"
                    id="rect4233"
-                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                 <g
                    style="fill:#ffffff;fill-opacity:1"
                    inkscape:label="Capa 1"
@@ -725,7 +725,7 @@
                        id="rect3356"
                        transform="translate(0,1030.3622)"
                        d="m 11,3 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z"
-                       style="fill:#ffffff;fill-opacity:1;stroke:none"
+                       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
                        inkscape:connector-curvature="0"
                        sodipodi:nodetypes="sssss" />
                     <path
@@ -733,7 +733,7 @@
                        inkscape:connector-curvature="0"
                        id="path3357"
                        d="m 9,1044.3622 4,-3 -4,-3 z"
-                       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+                       style="fill:#ffffff;fill-opacity:1;stroke:none" />
                   </g>
                 </g>
               </g>

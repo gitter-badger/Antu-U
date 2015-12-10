@@ -985,8 +985,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-17.994897"
-     inkscape:cy="5.4946849"
+     inkscape:cx="21.638965"
+     inkscape:cy="5.5388791"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -995,9 +995,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -1090,7 +1090,7 @@
                    id="layer1-5-6"
                    transform="translate(-94.71429,7.57146)">
                   <rect
-                     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                      id="rect4227"
                      width="16"
                      height="16"
@@ -1127,13 +1127,13 @@
                transform="matrix(1.2054244,0,0,1.2054244,-40.626798,-111.89095)">
               <path
                  d="m 366.6432,530.54238 c -0.17417,0.17417 -0.385,0.26125 -0.6325,0.26125 -0.2475,0 -0.45833,-0.0871 -0.6325,-0.26125 -0.17417,-0.17417 -0.26125,-0.385 -0.26125,-0.6325 0,-0.2475 0.0871,-0.45833 0.26125,-0.6325 0.17417,-0.17417 0.385,-0.26125 0.6325,-0.26125 0.2475,0 0.45833,0.0871 0.6325,0.26125 0.17417,0.17417 0.26125,0.385 0.26125,0.6325 0,0.2475 -0.0871,0.45833 -0.26125,0.6325 z"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.49775001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.49775001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  id="path4152"
                  inkscape:connector-curvature="0"
                  sodipodi:nodetypes="sssssssss" />
             </g>
             <rect
-               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                id="rect4246"
                width="1.5"
                height="7.6455922"

@@ -483,9 +483,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="-18.578953"
-     inkscape:cy="13.902175"
+     inkscape:zoom="15.999999"
+     inkscape:cx="5.0967521"
+     inkscape:cy="12.683402"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -494,9 +494,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -749,7 +749,7 @@
                sodipodi:nodetypes="sssssssss"
                inkscape:connector-curvature="0"
                id="path4128"
-               style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
                d="m 383.0081,543.07647 19.69808,0 c 0.41713,0 0.75294,0.33582 0.75294,0.75294 l 0,14.49412 c 0,0.41713 -0.33581,0.75294 -0.75294,0.75294 l -19.69808,0 c -0.41713,0 -0.75294,-0.33581 -0.75294,-0.75294 l 0,-14.49412 c 0,-0.41712 0.33581,-0.75294 0.75294,-0.75294 z" />
           </g>
         </g>
@@ -761,7 +761,7 @@
          transform="translate(-226.72253,-50.25706)">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 6,4 0,2 -1,0 0,3 -1,0 0,2 -1,0 0,1 1,0 0,2 1,0 0,3 1,0 0,2 1,0 0,-3 1,0 0,-3 1,0 0,-1 2,0 0,1 1,0 0,1 1,0 0,1 1,0 0,2 1,0 0,-1 1,0 0,-2 1,0 0,-1 1,0 0,-1 1,0 0,-1 -1,0 0,-1 -1,0 0,-1 -1,0 0,-2 -1,0 0,-1 -1,0 0,2 -1,0 0,1 -1,0 0,1 -1,0 0,1 L 9,11 9,10 8,10 8,7 7,7 7,4 6,4 Z"
            transform="translate(553.72253,583.11926)"
            id="rect4144" />

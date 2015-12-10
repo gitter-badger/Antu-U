@@ -305,8 +305,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-14.578953"
-     inkscape:cy="6.8864322"
+     inkscape:cx="-20.87705"
+     inkscape:cy="6.9306264"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -315,9 +315,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -366,7 +366,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -378,10 +378,11 @@
     <g
        transform="matrix(1.3333315,0,0,1.3333315,-403.76088,-459.88122)"
        id="layer1-2"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <circle
          id="path4310"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          cx="552.07141"
          cy="750.43359"
          r="2.5" />
@@ -391,7 +392,7 @@
          height="4.9999857"
          width="5"
          id="rect4312"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          ry="0.5" />
       <rect
          y="754.93359"
@@ -399,13 +400,13 @@
          height="5"
          width="2.9999998"
          id="rect4314"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          ry="0.5" />
       <path
          inkscape:connector-curvature="0"
          id="path4316"
          d="m 556.57143,759.93361 2.5,-5 2.5,5 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

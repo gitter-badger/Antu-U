@@ -65,7 +65,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999997"
-     inkscape:cx="-28.625663"
+     inkscape:cx="-25.689278"
      inkscape:cy="13.436663"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -75,9 +75,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -143,7 +143,7 @@
          id="layer1-4"
          transform="translate(326.987,-496.88218)">
         <ellipse
-           style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.6849122;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.6849122;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4143"
            cx="11.013"
            cy="1041.2444"
@@ -153,13 +153,13 @@
            id="g4175"
            transform="translate(0,-0.70075)">
           <path
-             style="fill:#ffffff;fill-opacity:1"
+             style="fill:#4d4d4d;fill-opacity:1"
              sodipodi:nodetypes="ssssssssss"
              inkscape:connector-curvature="0"
              id="path5"
              d="m 7.1794628,1039.2263 c 0,-0.6457 0.5236739,-1.1693 1.1693559,-1.1693 0.645494,0 1.169168,0.5235 1.169168,1.1693 0,0.6461 -0.523674,1.1696 -1.169168,1.1696 -0.645682,0 -1.1693559,-0.5235 -1.1693559,-1.1696 z m 5.3021742,0 c 0,-0.6457 0.524051,-1.1693 1.169733,-1.1693 0.645493,0 1.169167,0.5235 1.169167,1.1693 0,0.6461 -0.523485,1.1696 -1.169167,1.1696 -0.645682,0 -1.169733,-0.5235 -1.169733,-1.1696 z" />
           <path
-             style="fill:#ffffff;fill-opacity:1"
+             style="fill:#4d4d4d;fill-opacity:1"
              sodipodi:nodetypes="csccscscccc"
              inkscape:connector-curvature="0"
              id="path5-8"

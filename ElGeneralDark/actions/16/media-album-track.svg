@@ -26,19 +26,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9318183"
-     inkscape:cx="-23.980231"
-     inkscape:cy="4.3613102"
+     inkscape:cx="-24.191826"
+     inkscape:cy="4.4243474"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4150"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,35 +108,35 @@
          height="16"
          width="16"
          id="rect4144"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19848719;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19848719;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#4d4d4d;fill-opacity:1"
          inkscape:label="Capa 1"
          id="layer1-0"
          transform="matrix(0.62500012,0,0,0.62500012,331.65025,-107.06432)">
         <g
-           style="fill:#ffffff;fill-opacity:1"
+           style="fill:#4d4d4d;fill-opacity:1"
            transform="translate(-412.88298,512.00351)"
            id="layer1-4"
            inkscape:label="Capa 1">
           <g
-             style="fill:#ffffff;fill-opacity:1"
+             style="fill:#4d4d4d;fill-opacity:1"
              inkscape:label="Capa 1"
              id="layer1-7"
              transform="translate(392.57143,-514.5642)" />
           <g
-             style="fill:#ffffff;fill-opacity:1"
+             style="fill:#4d4d4d;fill-opacity:1"
              transform="translate(341.79698,500.25245)"
              id="g4240">
             <g
-               style="fill:#ffffff;fill-opacity:1"
+               style="fill:#4d4d4d;fill-opacity:1"
                transform="translate(-392.98822,-511.27795)"
                id="layer1-1"
                inkscape:label="Capa 1"
                inkscape:transform-center-x="5.4653607"
                inkscape:transform-center-y="-9.4924686">
               <g
-                 style="fill:#ffffff;fill-opacity:1"
+                 style="fill:#4d4d4d;fill-opacity:1"
                  transform="translate(0.41988239,0.03484499)"
                  inkscape:label="Capa 1"
                  id="layer1-3">
@@ -145,7 +145,7 @@
                    id="Music"
                    sketch:type="MSShapeGroup"
                    inkscape:connector-curvature="0"
-                   style="fill:#ffffff;fill-opacity:1" />
+                   style="fill:#4d4d4d;fill-opacity:1" />
               </g>
             </g>
           </g>

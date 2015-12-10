@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.8375"
-     inkscape:cx="11.553604"
-     inkscape:cy="11.461858"
+     inkscape:cx="3.03691"
+     inkscape:cy="11.483752"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="633"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -117,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,18 +128,18 @@
      transform="translate(0,-1030.3622)">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 6.00001,1036.3622 0,2 4,0 0,8 2,0 0,-8 4,0 0,-2 -10,0 z"
        id="rect4149" />
     <rect
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4148"
        width="17.999987"
        height="1.000012"
        x="1.9999956"
        y="1033.3622" />
     <rect
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4150"
        width="0.99998599"
        height="12.000011"
@@ -147,11 +147,11 @@
        y="1032.3622" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2.00001,1048.3622 0,1 12,0 0,-1 -12,0 z"
        id="rect4152" />
     <rect
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4154"
        width="1"
        height="18"
@@ -159,7 +159,7 @@
        y="1032.3622" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 17.00001,1045.3622 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
        id="rect4153" />
   </g>

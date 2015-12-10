@@ -103,19 +103,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-7.4703644"
-     inkscape:cy="10.323138"
+     inkscape:cx="6.5328781"
+     inkscape:cy="10.385638"
      inkscape:document-units="px"
-     inkscape:current-layer="g4287"
+     inkscape:current-layer="g4315"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -185,7 +185,8 @@
              id="g4287">
             <g
                id="g4315"
-               transform="matrix(-0.99893701,0,0,0.99893701,1145.5331,1.8003609)">
+               transform="matrix(-0.99893701,0,0,0.99893701,1145.5331,1.8003609)"
+               style="fill:#ffffff;fill-opacity:1">
               <rect
                  transform="matrix(-1,0,0,1,18,-1)"
                  y="747.93359"
@@ -193,7 +194,7 @@
                  height="11.999996"
                  width="4.999999"
                  id="rect4148"
-                 style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
                  ry="0.40000001" />
               <rect
                  transform="matrix(-1,0,0,1,18,-1)"
@@ -202,54 +203,58 @@
                  height="6.0000038"
                  width="3.0000012"
                  id="rect4150"
-                 style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
                  ry="0.40000001" />
               <g
-                 style="stroke:#4d4d4d;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 style="stroke:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
                  id="g4379"
                  transform="matrix(-0.81431265,0,0,0.81431265,1039.3517,139.80633)">
                 <g
-                   style="stroke:#4d4d4d;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   style="stroke:#ffffff;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
                    transform="matrix(0,0.25,-0.25,0,709.19505,668.4384)"
                    id="layer1-6-0-3-2"
                    inkscape:label="Capa 1">
                   <g
-                     style="stroke:#4d4d4d;stroke-width:1.10857069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                     style="stroke:#ffffff;stroke-width:1.10857069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
                      inkscape:label="Capa 1"
                      id="layer1-9-1-4-2"
                      transform="matrix(-1.082475,0,0,-1.082475,349.79192,1672.0369)">
                     <g
                        transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)"
                        id="g3-3-8-6"
-                       style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:33.88833618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+                       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:33.88833618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
                       <path
                          inkscape:connector-curvature="0"
                          id="path5-1-5-8"
                          d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
-                         style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:33.88833618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:33.88833618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
                     </g>
                   </g>
                 </g>
               </g>
               <g
                  id="g4265"
-                 transform="translate(18.021623,-0.99151)">
+                 transform="translate(18.021623,-0.99151)"
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
-                   id="g4313">
+                   id="g4313"
+                   style="fill:#ffffff;fill-opacity:1">
                   <g
                      inkscape:label="Capa 1"
                      id="layer1-6-0-3-2-4"
-                     transform="matrix(0.23578467,-0.23558582,0.23558582,0.23578467,340.85376,698.38424)">
+                     transform="matrix(0.23578467,-0.23558582,0.23558582,0.23578467,340.85376,698.38424)"
+                     style="fill:#ffffff;fill-opacity:1">
                     <g
                        transform="matrix(-1.082475,0,0,-1.082475,349.79192,1672.0369)"
                        id="layer1-9-1-4-2-1"
-                       inkscape:label="Capa 1">
+                       inkscape:label="Capa 1"
+                       style="fill:#ffffff;fill-opacity:1">
                       <g
-                         style="fill:#4d4d4d;fill-opacity:1"
+                         style="fill:#ffffff;fill-opacity:1"
                          id="g3-3-8-6-6"
                          transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)">
                         <path
-                           style="fill:#4d4d4d;fill-opacity:1"
+                           style="fill:#ffffff;fill-opacity:1"
                            d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
                            id="path5-1-5-8-0"
                            inkscape:connector-curvature="0" />
@@ -259,17 +264,19 @@
                   <g
                      inkscape:label="Capa 1"
                      id="layer1-6-0-3-2-4-5"
-                     transform="matrix(-0.23578467,-0.23558582,-0.23558582,0.23578467,770.27478,698.38417)">
+                     transform="matrix(-0.23578467,-0.23558582,-0.23558582,0.23578467,770.27478,698.38417)"
+                     style="fill:#ffffff;fill-opacity:1">
                     <g
                        transform="matrix(-1.082475,0,0,-1.082475,349.79192,1672.0369)"
                        id="layer1-9-1-4-2-1-0"
-                       inkscape:label="Capa 1">
+                       inkscape:label="Capa 1"
+                       style="fill:#ffffff;fill-opacity:1">
                       <g
-                         style="fill:#4d4d4d;fill-opacity:1"
+                         style="fill:#ffffff;fill-opacity:1"
                          id="g3-3-8-6-6-7"
                          transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)">
                         <path
-                           style="fill:#4d4d4d;fill-opacity:1"
+                           style="fill:#ffffff;fill-opacity:1"
                            d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
                            id="path5-1-5-8-0-4"
                            inkscape:connector-curvature="0" />
@@ -279,21 +286,24 @@
                 </g>
                 <g
                    transform="matrix(1,0,0,-1,-0.02896548,1507.8502)"
-                   id="g4313-9">
+                   id="g4313-9"
+                   style="fill:#ffffff;fill-opacity:1">
                   <g
                      inkscape:label="Capa 1"
                      id="layer1-6-0-3-2-4-9"
-                     transform="matrix(0.23578467,-0.23558582,0.23558582,0.23578467,340.85376,698.38424)">
+                     transform="matrix(0.23578467,-0.23558582,0.23558582,0.23578467,340.85376,698.38424)"
+                     style="fill:#ffffff;fill-opacity:1">
                     <g
                        transform="matrix(-1.082475,0,0,-1.082475,349.79192,1672.0369)"
                        id="layer1-9-1-4-2-1-7"
-                       inkscape:label="Capa 1">
+                       inkscape:label="Capa 1"
+                       style="fill:#ffffff;fill-opacity:1">
                       <g
-                         style="fill:#4d4d4d;fill-opacity:1"
+                         style="fill:#ffffff;fill-opacity:1"
                          id="g3-3-8-6-6-4"
                          transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)">
                         <path
-                           style="fill:#4d4d4d;fill-opacity:1"
+                           style="fill:#ffffff;fill-opacity:1"
                            d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
                            id="path5-1-5-8-0-42"
                            inkscape:connector-curvature="0" />
@@ -303,17 +313,19 @@
                   <g
                      inkscape:label="Capa 1"
                      id="layer1-6-0-3-2-4-5-7"
-                     transform="matrix(-0.23578467,-0.23558582,-0.23558582,0.23578467,770.27478,698.38417)">
+                     transform="matrix(-0.23578467,-0.23558582,-0.23558582,0.23578467,770.27478,698.38417)"
+                     style="fill:#ffffff;fill-opacity:1">
                     <g
                        transform="matrix(-1.082475,0,0,-1.082475,349.79192,1672.0369)"
                        id="layer1-9-1-4-2-1-0-1"
-                       inkscape:label="Capa 1">
+                       inkscape:label="Capa 1"
+                       style="fill:#ffffff;fill-opacity:1">
                       <g
-                         style="fill:#4d4d4d;fill-opacity:1"
+                         style="fill:#ffffff;fill-opacity:1"
                          id="g3-3-8-6-6-7-1"
                          transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)">
                         <path
-                           style="fill:#4d4d4d;fill-opacity:1"
+                           style="fill:#ffffff;fill-opacity:1"
                            d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
                            id="path5-1-5-8-0-4-7"
                            inkscape:connector-curvature="0" />

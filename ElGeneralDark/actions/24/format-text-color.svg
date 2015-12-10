@@ -37,8 +37,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="5.4926209"
-     inkscape:cy="10.264796"
+     inkscape:cx="-3.1031463"
+     inkscape:cy="10.286893"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -47,9 +47,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="633"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -98,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,21 +110,23 @@
     <g
        transform="translate(-224.28572,-74.2857)"
        id="layer1-4"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill-opacity:1;fill:#ffffff">
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
          id="rect4112"
          d="m 554.28572,614.6479 0,2 4,0 0,10 2,0 0,-10 4,0 0,-2 z"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
       <g
          inkscape:label="Capa 1"
          id="layer1-7"
-         transform="translate(551.28572,-422.7143)">
+         transform="translate(551.28572,-422.7143)"
+         style="fill-opacity:1;fill:#ffffff">
         <path
            sodipodi:nodetypes="ccssscc"
            inkscape:connector-curvature="0"
-           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
            d="M 16.5,3 C 16.013545,4.7025 14.8218,6.1660906 14.296875,7.3378906 14.113175,7.6862906 14,8.0773 14,8.5 14,9.885 15.115,11 16.5,11 17.885,11 19,9.885 19,8.5 19,8.0773 18.886825,7.6862906 18.703125,7.3378906 18.1782,6.1660906 16.98645,4.7025 16.5,3 Z"
            transform="translate(0,1030.3622)"
            id="rect4108" />

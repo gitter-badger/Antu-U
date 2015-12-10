@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.909091"
-     inkscape:cx="-15.777254"
-     inkscape:cy="12.957925"
+     inkscape:cx="25.58392"
+     inkscape:cy="12.99991"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -110,51 +110,52 @@
      transform="translate(1,-1031.3622)">
     <g
        id="g4151"
-       transform="matrix(0.99999891,0,0,0.99999891,-0.99998601,1.0011438)">
+       transform="matrix(0.99999891,0,0,0.99999891,-0.99998601,1.0011438)"
+       style="fill:#ffffff;fill-opacity:1">
       <path
          id="rect4149"
          d="m 15.499996,1034.3622 a 1.5,1.5 0 0 0 -1.5,1.5 l 0,1.5 -1,0 0,2 -1,0 0,10 7,0 0,-10 -1,0 0,-2 -1,0 0,-1.5 a 1.5,1.5 0 0 0 -1.5,-1.5 z"
-         style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <circle
          r="1"
          cy="1034.3622"
          cx="8"
          id="path4160"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <circle
          r="1"
          cy="1037.3622"
          cx="8"
          id="path4162"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <circle
          r="1"
          cy="1035.3622"
          cx="12"
          id="path4164"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <ellipse
          ry="0.99999851"
          rx="1"
          cy="1034.3622"
          cx="4"
          id="path4166"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <ellipse
          ry="1"
          rx="0.99999791"
          cy="1037.3622"
          cx="4"
          id="path4168"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <ellipse
          ry="1"
          rx="0.99999791"
          cy="1040.3622"
          cx="4"
          id="path4170"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

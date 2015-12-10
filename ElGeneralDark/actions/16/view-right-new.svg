@@ -565,8 +565,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999997"
-     inkscape:cx="5.3577434"
-     inkscape:cy="18.196178"
+     inkscape:cx="-18.954758"
+     inkscape:cy="18.258678"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -575,9 +575,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
@@ -972,7 +972,7 @@
                  id="g4630-0">
                 <path
                    id="rect4274"
-                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                    d="m 404.40415,521.81842 9.52655,0 c 0.37988,0 0.68571,0.30582 0.68571,0.6857 l 0,18.58778 c 0,0.37988 -0.30583,0.68571 -0.68571,0.68571 l -9.52655,0 c -0.37988,0 -0.68571,-0.30583 -0.68571,-0.68571 l 0,-18.58778 c 0,-0.37988 0.30583,-0.6857 0.68571,-0.6857 z m -18.60628,-2.02053 29.54712,0 c 0.62569,0 1.12941,0.50381 1.12941,1.12947 l 0,21.74117 c 0,0.62566 -0.50372,1.12947 -1.12941,1.12947 l -29.54712,0 c -0.6257,0 -1.12941,-0.50381 -1.12941,-1.12947 l 0,-21.74117 c 0,-0.62566 0.50371,-1.12947 1.12941,-1.12947 z"
                    inkscape:connector-curvature="0" />
                 <g
@@ -1366,7 +1366,7 @@
                      id="g4260">
                     <path
                        inkscape:connector-curvature="0"
-                       style="fill:#ffffff;fill-opacity:1"
+                       style="fill:#4d4d4d;fill-opacity:1"
                        d="m 351.269,312.97 -29.983,0 c -0.022,14.366 0,52.158 0,52.158 0,0 -32.529,0 -48.621,0.043 l 0,29.962 c 16.092,-0.022 48.621,-0.022 48.621,-0.022 0,0 0,37.749 -0.022,52.18 l 29.983,0 c 0.022,-14.431 0.022,-52.18 0.022,-52.18 0,0 32.507,0 48.599,0 l 0,-29.983 c -16.092,0 -48.599,0 -48.599,0 0,0 -0.043,-37.791 0,-52.158 z"
                        id="path4266" />
                   </g>

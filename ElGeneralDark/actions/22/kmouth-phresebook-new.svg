@@ -624,8 +624,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999997"
-     inkscape:cx="-24.581248"
-     inkscape:cy="12.667818"
+     inkscape:cx="3.4084732"
+     inkscape:cy="12.730318"
      inkscape:document-units="px"
      inkscape:current-layer="g4422"
      showgrid="true"
@@ -634,9 +634,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -685,7 +685,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -725,7 +725,7 @@
                    id="path7"
                    inkscape:connector-curvature="0"
                    sodipodi:nodetypes="ssssccscccs"
-                   style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
                 <g
                    id="g5257"
                    transform="translate(725.96018,165.63661)"
@@ -793,7 +793,7 @@
            inkscape:connector-curvature="0"
            id="path4147"
            d="m 501.38571,609.64789 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 -1,0 z"
-           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+           style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
         <g
            id="layer1-74-6"
            inkscape:label="Capa 1"
@@ -815,7 +815,7 @@
                    id="path7-3"
                    inkscape:connector-curvature="0"
                    sodipodi:nodetypes="ssssccscccs"
-                   style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
                 <g
                    id="g5257-5"
                    transform="translate(725.96018,165.63661)"

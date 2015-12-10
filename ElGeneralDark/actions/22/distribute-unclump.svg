@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.841998"
-     inkscape:cx="-4.6787689"
-     inkscape:cy="7.8235569"
+     inkscape:cx="-16.22728"
+     inkscape:cy="7.8532446"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,24 +111,25 @@
     <g
        transform="translate(-379.85714,490.78573)"
        id="layer1-1"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <path
          id="rect3157"
          transform="translate(378.85714,540.07647)"
          d="m 14,4 0,4 5,0 0,-4 -5,0 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <path
          id="rect3159"
          transform="translate(378.85714,540.07647)"
          d="m 14,15 0,4 5,0 0,-4 -5,0 z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <path
          id="rect3161"
          transform="translate(378.85714,540.07647)"
          d="M 3,4 3,19 7,19 7,18 7,5 7,4 3,4 Z"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
       <rect
          y="545.07648"
@@ -136,7 +137,7 @@
          height="1"
          width="5"
          id="rect4076"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <rect
          transform="translate(378.85714,540.07647)"
          y="17"
@@ -144,7 +145,7 @@
          height="1"
          width="5"
          id="rect4078"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-395.85715"
@@ -152,7 +153,7 @@
          height="1"
          width="5"
          id="rect4078-5"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

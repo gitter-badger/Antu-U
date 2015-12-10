@@ -33,8 +33,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.3388695"
-     inkscape:cx="-16.487272"
-     inkscape:cy="10.574433"
+     inkscape:cx="-37.314204"
+     inkscape:cy="7.5261386"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-1"
      showgrid="true"
@@ -43,9 +43,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -110,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -126,7 +126,7 @@
       <path
          id="rect3000-2"
          d="m 4.3333376,1036.5289 c -0.7386913,0 -1.3333325,0.5947 -1.3333325,1.3334 l 0,8 c 0,0.7385 0.5946412,1.3333 1.3333325,1.3333 l 13.3333244,0 c 0.738692,0 1.333333,-0.5948 1.333333,-1.3333 l 0,-8 c 0,-0.7388 -0.594641,-1.3334 -1.333333,-1.3334 l -13.3333243,0 z m 10.3999934,2.1333 1.066666,0 0,4.2666 -1.066666,0 -5.33333,0 0,2.1334 -3.1999979,-2.6667 3.1999979,-2.6667 0,2.1334 3.199998,0 1.066666,0 1.066666,0 0,-3.2 z"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0" />
       <text
          transform="translate(-1,1029.3622)"

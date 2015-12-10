@@ -14,7 +14,7 @@
    id="svg3869"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="go-jump-locationbar.svg">
+   sodipodi:docname="go-jump.svg">
   <defs
      id="defs3871">
     <linearGradient
@@ -59,8 +59,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-5.5020457"
-     inkscape:cy="8.4656215"
+     inkscape:cx="-22.69358"
+     inkscape:cy="8.5098157"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -69,9 +69,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -120,7 +120,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -131,20 +131,22 @@
      transform="translate(-326,-534.3622)">
     <g
        id="g4154"
-       transform="translate(-3.7136835,0.99999917)">
+       transform="translate(-3.7136835,0.99999917)"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
          id="layer1-9"
-         transform="matrix(0,-1.082475,1.082475,0,-789.67467,556.15411)">
+         transform="matrix(0,-1.082475,1.082475,0,-789.67467,556.15411)"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)"
            id="g3"
-           style="fill:#4d4d4d;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1">
           <path
              inkscape:connector-curvature="0"
              id="path5"
              d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
         </g>
       </g>
       <circle
@@ -152,7 +154,34 @@
          cy="544.36218"
          cx="346"
          id="path4152"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(-3.7136835,0.99999917)"
+       id="g4155">
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(0,-1.082475,1.082475,0,-789.67467,556.15411)"
+         id="g4157"
+         inkscape:label="Capa 1">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           id="g4159"
+           transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)">
+          <path
+             style="fill:#ffffff;fill-opacity:1"
+             d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
+             id="path4161"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4163"
+         cx="346"
+         cy="544.36218"
+         r="2" />
     </g>
   </g>
 </svg>

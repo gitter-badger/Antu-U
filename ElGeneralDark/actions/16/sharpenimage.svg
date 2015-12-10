@@ -79,8 +79,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="5.4926209"
-     inkscape:cy="10.264796"
+     inkscape:cx="-3.1031463"
+     inkscape:cy="10.286893"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -89,9 +89,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="633"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -140,7 +140,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -152,90 +152,92 @@
     <g
        transform="translate(1,-1)"
        id="layer1-17"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
          id="layer1-4"
-         transform="translate(326,-496)">
+         transform="translate(326,-496)"
+         style="fill:#ffffff;fill-opacity:1">
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035"
            width="0"
            height="10.999983"
            x="-37.468155"
            y="1034.9827" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-5"
            width="0"
            height="10.999983"
            x="-19.427383"
            y="1032.9314" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-8"
            width="0"
            height="10.999983"
            x="-37.468155"
            y="1034.9827" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-59"
            width="0"
            height="10.999983"
            x="-37.468155"
            y="1034.9827" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-6"
            width="0"
            height="10.999983"
            x="-44.776306"
            y="1030.1481" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-5-1"
            width="0"
            height="10.999983"
            x="-26.735535"
            y="1028.0967" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-8-3"
            width="0"
            height="10.999983"
            x="-44.776306"
            y="1030.1481" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-59-4"
            width="0"
            height="10.999983"
            x="-44.776306"
            y="1030.1481" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-1"
            width="0"
            height="10.999983"
            x="-38.761135"
            y="1034.3643" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-5-0"
            width="0"
            height="10.999983"
            x="-20.720364"
            y="1032.313" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-8-1"
            width="0"
            height="10.999983"
            x="-38.761135"
            y="1034.3643" />
         <rect
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4035-59-1"
            width="0"
            height="10.999983"
@@ -244,9 +246,10 @@
         <g
            transform="translate(-40.1841,1.16606)"
            id="layer1-1"
-           inkscape:label="Capa 1" />
+           inkscape:label="Capa 1"
+           style="fill:#ffffff;fill-opacity:1" />
         <path
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
            d="M 12,4 5,20 19,20 Z M 16.15625,17 17,19 7,19 c 0,0 9,-1.999983 9.15625,-2 z"
            transform="translate(-1,1029.3622)"
            id="path3006"

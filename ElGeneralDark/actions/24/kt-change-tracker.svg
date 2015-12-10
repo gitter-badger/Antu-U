@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="-3.3408842"
-     inkscape:cy="10.264796"
+     inkscape:cx="-11.936651"
+     inkscape:cy="10.286893"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -36,9 +36,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,14 +97,15 @@
     <g
        transform="matrix(0.66668266,0,0,0.66668266,69.945973,190.8217)"
        id="layer1-5"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
-         style="fill:#4d4d4d;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          transform="matrix(0.1917806,0,0,0.1917806,388.48954,519.71563)"
          sketch:type="MSLayerGroup"
          id="undo5">
         <path
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            inkscape:connector-curvature="0"
            sketch:type="MSShapeGroup"
            id="path2117"

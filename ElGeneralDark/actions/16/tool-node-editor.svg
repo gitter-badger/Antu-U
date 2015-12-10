@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.420999"
-     inkscape:cx="26.161112"
-     inkscape:cy="7.655781"
+     inkscape:cx="3.0640899"
+     inkscape:cy="7.7151564"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -109,22 +109,24 @@
     <g
        transform="translate(-462.71429,505.57145)"
        id="layer1-1"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <path
          sodipodi:nodetypes="ssccccccccccccccccs"
          inkscape:connector-curvature="0"
          id="rect4108"
          transform="translate(461.71429,525.79075)"
          d="M 4.5,3 C 3.669,3 3,3.669 3,4.5 3,5.1542402 3.4180774,5.7021974 4,5.9082031 L 4,16 3,16 3,19 6,19 6,16 5,16 5,5.9082031 C 5.4244565,5.7579418 5.7567461,5.4226635 5.9082031,5 L 16,5 16,6 19,6 19,3 16,3 16,4 5.9082031,4 C 5.7021974,3.4180774 5.1542402,3 4.5,3 Z"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
       <g
          transform="matrix(0.5,0,0,0.5,233.85714,267.39537)"
          inkscape:label="Capa 1"
-         id="layer1-4">
+         id="layer1-4"
+         style="fill:#ffffff;fill-opacity:1">
         <path
            sodipodi:nodetypes="ccccccc"
            inkscape:connector-curvature="0"
-           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
            d="M 6,3 6,17 9.1721428,15.572266 13,19 12.599877,14.199219 16,13 Z"
            transform="translate(461.71429,525.79075)"
            id="path4147" />

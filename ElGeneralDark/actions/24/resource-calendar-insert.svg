@@ -16,7 +16,7 @@
    id="svg3869"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="resource-calendar-child-insert.svg">
+   sodipodi:docname="resource-calendar-insert.svg">
   <defs
      id="defs3871">
     <linearGradient
@@ -227,8 +227,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-1.5125083"
-     inkscape:cy="7.1921462"
+     inkscape:cx="-18.704043"
+     inkscape:cy="7.2363404"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-5"
      showgrid="true"
@@ -237,9 +237,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -306,7 +306,7 @@
          id="layer1-5"
          transform="translate(-94.71429,7.57146)">
         <rect
-           style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect4227"
            width="16"
            height="16"
@@ -320,7 +320,7 @@
              sodipodi:nodetypes="ccccccccccccc"
              id="rect4089"
              d="m 452.96435,531.04105 0,2.99975 -2.99975,0 0,1.49988 2.99975,0 0,2.99975 1.49988,0 0,-2.99975 2.99975,0 0,-1.49988 -2.99975,0 0,-2.99975 z"
-             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             style="fill:#4d4d4d;fill-opacity:1;stroke:none"
              inkscape:connector-curvature="0" />
         </g>
       </g>

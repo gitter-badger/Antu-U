@@ -64,8 +64,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-14.578953"
-     inkscape:cy="10.577296"
+     inkscape:cx="-21.026275"
+     inkscape:cy="10.62149"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -74,9 +74,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -125,7 +125,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,11 +137,13 @@
     <g
        transform="translate(329,-499)"
        id="layer1-70"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
          id="layer1-4"
-         transform="translate(-412.88298,512.00351)">
+         transform="translate(-412.88298,512.00351)"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            transform="translate(392.57143,-514.5642)"
            id="layer1-7"
@@ -149,19 +151,22 @@
            style="fill:#ffffff;fill-opacity:1" />
         <g
            id="g4240"
-           transform="translate(341.79698,500.25245)">
+           transform="translate(341.79698,500.25245)"
+           style="fill:#ffffff;fill-opacity:1">
           <g
              inkscape:transform-center-y="-9.4924686"
              inkscape:transform-center-x="5.4653607"
              inkscape:label="Capa 1"
              id="layer1-1"
-             transform="translate(-392.98822,-511.27795)">
+             transform="translate(-392.98822,-511.27795)"
+             style="fill:#ffffff;fill-opacity:1">
             <g
                id="layer1-3-4"
                inkscape:label="Capa 1"
-               transform="translate(0.41988239,0.03484499)">
+               transform="translate(0.41988239,0.03484499)"
+               style="fill:#ffffff;fill-opacity:1">
               <g
-                 style="fill:#4d4d4d;fill-opacity:1"
+                 style="fill:#ffffff;fill-opacity:1"
                  inkscape:label="Capa 1"
                  id="layer1-72"
                  transform="matrix(1.3333333,0,0,1.3333333,-62.173606,-165.84797)">
@@ -169,13 +174,13 @@
                    transform="translate(392.57143,-514.5642)"
                    id="layer1-7-2"
                    inkscape:label="Capa 1"
-                   style="fill:#4d4d4d;fill-opacity:1" />
+                   style="fill:#ffffff;fill-opacity:1" />
                 <g
-                   style="fill:#4d4d4d;fill-opacity:1"
+                   style="fill:#ffffff;fill-opacity:1"
                    id="g4240-7"
                    transform="translate(341.79698,500.25245)">
                   <g
-                     style="fill:#4d4d4d;fill-opacity:1"
+                     style="fill:#ffffff;fill-opacity:1"
                      inkscape:transform-center-y="-9.4924686"
                      inkscape:transform-center-x="5.4653607"
                      inkscape:label="Capa 1"
@@ -185,31 +190,31 @@
                        id="layer1-3-9"
                        inkscape:label="Capa 1"
                        transform="translate(0.41988239,0.03484499)"
-                       style="fill:#4d4d4d;fill-opacity:1;stroke:#373e44;stroke-opacity:1" />
+                       style="fill:#ffffff;fill-opacity:1;stroke:#373e44;stroke-opacity:1" />
                     <g
-                       style="fill:#4d4d4d;fill-opacity:1"
+                       style="fill:#ffffff;fill-opacity:1"
                        transform="translate(22.989671,8.9703136)"
                        id="layer1-5"
                        inkscape:label="Capa 1">
                       <g
-                         style="fill:#4d4d4d;fill-opacity:1"
+                         style="fill:#ffffff;fill-opacity:1"
                          inkscape:label="Capa 1"
                          id="layer1-7-4"
                          transform="translate(392.57143,-514.5642)" />
                     </g>
                     <g
-                       style="fill:#4d4d4d;fill-opacity:1"
+                       style="fill:#ffffff;fill-opacity:1"
                        transform="translate(432.8094,518.46393)"
                        id="g4186">
                       <g
-                         style="fill:#4d4d4d;fill-opacity:1"
+                         style="fill:#ffffff;fill-opacity:1"
                          transform="translate(-509.70748,-515.64674)"
                          id="layer1-4-5"
                          inkscape:label="Capa 1"
                          inkscape:transform-center-x="5.4653607"
                          inkscape:transform-center-y="-9.4924686">
                         <g
-                           style="fill:#4d4d4d;fill-opacity:1"
+                           style="fill:#ffffff;fill-opacity:1"
                            transform="translate(0.41988239,0.03484499)"
                            inkscape:label="Capa 1"
                            id="layer1-3-65" />
@@ -217,7 +222,7 @@
                     </g>
                   </g>
                   <path
-                     style="font-style:normal;font-weight:normal;font-size:9.36996746px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     style="font-style:normal;font-weight:normal;font-size:9.36996746px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                      inkscape:connector-curvature="0"
                      id="path5"
                      d="m 53.10945,31.24555 -0.004,-3.900925 4.374839,-0.6518 0,4.552725 -4.370852,0 z m 5.099991,-4.668975 5.83166,-0.931025 0,5.6 -5.83166,0 0,-4.668975 z m 5.833073,5.468975 -0.0014,5.6 -5.83166,-0.9002 0,-4.6998 5.833072,0 z m -6.562213,4.59795 -4.371284,-0.657425 -2.28e-4,-3.940525 4.371512,0 0,4.59795 z" />

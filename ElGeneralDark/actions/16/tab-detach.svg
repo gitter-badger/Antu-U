@@ -81,8 +81,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-0.25000277"
-     inkscape:cy="10.596853"
+     inkscape:cx="-12.406254"
+     inkscape:cy="10.628103"
      inkscape:document-units="px"
      inkscape:current-layer="g4157"
      showgrid="false"
@@ -91,9 +91,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -157,15 +157,16 @@
        transform="matrix(0.90909089,0,0,0.90909089,29.727279,50.487483)">
       <g
          transform="matrix(1.0072497,0,0,1.0072497,-2.7063986,-3.7952074)"
-         id="g4156">
+         id="g4156"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            transform="matrix(0.66666667,0,0,0.66666667,327.33333,533.69553)"
            id="g3"
-           style="fill:#4d4d4d;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1">
           <path
              sodipodi:nodetypes="cccccccc"
              inkscape:connector-curvature="0"
-             style="fill:#4d4d4d;fill-opacity:1"
+             style="fill:#ffffff;fill-opacity:1"
              d="M 18.192852,10.000368 13.535,4 4.465,4 1.8540441e-7,10.69657 0,28 32,28 32,10.000368 Z"
              id="path5" />
         </g>

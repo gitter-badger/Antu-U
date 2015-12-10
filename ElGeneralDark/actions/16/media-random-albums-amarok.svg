@@ -2662,8 +2662,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="7.9864901"
-     inkscape:cy="13.402795"
+     inkscape:cx="-9.2050428"
+     inkscape:cy="13.446989"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2672,9 +2672,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -2724,7 +2724,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2872,7 +2872,7 @@
                                    id="g4162"
                                    transform="matrix(0.76761933,0,0,0.76761933,156.46876,138.50552)">
                                 <rect
-                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
                                    id="rect4319"
                                    width="36"
                                    height="39.999969"
@@ -2991,7 +2991,7 @@
                            id="Music"
                            sketch:type="MSShapeGroup"
                            inkscape:connector-curvature="0"
-                           style="fill:#ffffff;fill-opacity:1" />
+                           style="fill:#4d4d4d;fill-opacity:1" />
                       </g>
                     </g>
                   </g>
@@ -3007,7 +3007,7 @@
          id="layer1-4"
          transform="matrix(0.375,0,0,0.375,276.64643,340.26921)">
         <path
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
            d="m 433.71429,535.79074 0,1 -2.18555,0 -1.81445,2.2383 -1.81445,-2.2383 -3.18555,0 0,1 2.75977,0 c -9.5e-4,0.01 0.83579,1.046 1.61132,2.0137 l -1.61132,1.9863 -2.75977,0 0,1 3.23828,0 c 0,0 0.89312,-1.1189 1.76172,-2.2012 0.86877,1.0823 1.76172,2.2012 1.76172,2.2012 l 2.23828,0 0,1 2,-1.5 -2,-1.5 0,1 -1.75977,0 -1.61132,-1.9863 c 0.77538,-0.9677 1.61227,-2.0058 1.61132,-2.0137 l 1.75977,0 0,1 2,-1.5 z"
            id="rect4155-8"
            inkscape:connector-curvature="0"

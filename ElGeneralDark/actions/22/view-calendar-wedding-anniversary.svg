@@ -793,19 +793,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999995"
-     inkscape:cx="50.586263"
-     inkscape:cy="7.9903278"
+     inkscape:cx="26.273761"
+     inkscape:cy="8.0528278"
      inkscape:document-units="px"
-     inkscape:current-layer="g4173"
+     inkscape:current-layer="layer1"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -865,40 +865,49 @@
      transform="translate(-326,-534.3622)">
     <g
        id="layer1-22"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
-         id="layer1-73">
+         id="layer1-73"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            id="g4208-9"
-           transform="matrix(1.2000987,0,0,1.2000987,-68.633361,-107.92617)">
+           transform="matrix(1.2000987,0,0,1.2000987,-68.633361,-107.92617)"
+           style="fill:#ffffff;fill-opacity:1">
           <g
              transform="matrix(0.8332648,0,0,0.8332648,57.189768,89.931093)"
              id="layer1-8"
-             inkscape:label="Capa 1">
+             inkscape:label="Capa 1"
+             style="fill:#ffffff;fill-opacity:1">
             <g
                transform="translate(-21,2)"
                inkscape:label="Capa 1"
-               id="layer1-72">
+               id="layer1-72"
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  transform="translate(-94.71429,7.57146)"
                  id="layer1-5"
-                 inkscape:label="Capa 1" />
+                 inkscape:label="Capa 1"
+                 style="fill:#ffffff;fill-opacity:1" />
             </g>
             <g
                transform="translate(-25.299998,0.29999811)"
                inkscape:label="Capa 1"
-               id="layer1-2">
+               id="layer1-2"
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  id="layer1-72-3"
                  inkscape:label="Capa 1"
-                 transform="translate(-21,2)">
+                 transform="translate(-21,2)"
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
                    inkscape:label="Capa 1"
                    id="layer1-5-6"
-                   transform="translate(-94.71429,7.57146)">
+                   transform="translate(-94.71429,7.57146)"
+                   style="fill:#ffffff;fill-opacity:1">
                   <rect
-                     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                      id="rect4227"
                      width="16"
                      height="16"
@@ -916,29 +925,29 @@
        id="g4173"
        transform="matrix(1.0667544,0,0,1.0667544,-23.562987,-35.338572)">
       <g
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#4d4d4d;fill-opacity:1"
          transform="matrix(0.01221398,0,0,0.01228937,332.37546,538.70295)"
          id="g3">
         <g
-           style="fill:#ffffff;fill-opacity:1"
+           style="fill:#4d4d4d;fill-opacity:1"
            id="g5">
           <path
-             style="fill:#ffffff;fill-opacity:1"
+             style="fill:#4d4d4d;fill-opacity:1"
              inkscape:connector-curvature="0"
              id="path7"
              d="m 280.9,800.4 c 56,0 109.5,-16.3 155.1,-46.6 -6.2,-5.4 -12.2,-11.1 -18.1,-17.1 -13.3,-13.601 -25.2,-28.301 -35.7,-43.801 -29.8,17.5 -64.4,27.5 -101.4,27.5 C 170.1,720.4 80,630.3 80,519.6 80,434.4 133.4,361.4 208.4,332.3 L 150.5,270.7 C 125.6,283.7 102.6,300.6 82.2,321 29.2,374 0,444.5 0,519.5 0,594.5 29.2,665 82.2,718 c 53.1,53.201 123.7,82.4 198.7,82.4 z" />
           <path
-             style="fill:#ffffff;fill-opacity:1"
+             style="fill:#4d4d4d;fill-opacity:1"
              inkscape:connector-curvature="0"
              id="path9"
              d="m 537.2,347.4 c 30.2,-18.1 65.4,-28.6 103.1,-28.6 110.7,0 200.801,90.1 200.801,200.8 0,110.7 -90.101,200.8 -200.801,200.8 -50.6,0 -100.699,-19.899 -137.6,-54.6 -39.9,-37.6 -63.2,-91.4 -63.2,-146.2 0,-17.5 2.3,-34.6 6.5,-50.8 -4.399,-14.4 -10.7,-28.1 -18.7,-41 -9.6,-15.2 -21.399,-28.8 -35,-40.3 -21.399,40.2 -32.8,85.2 -32.8,132 0,80.899 36.101,159.899 97.5,212.7 48.601,41.899 111.9,66.3 176,68 2.4,0.1 4.8,0.1 7.3,0.1 75,0 145.5,-29.2 198.5,-82.2 53,-53 82.2,-123.5 82.2,-198.5 0,-75 -29.2,-145.5 -82.2,-198.5 -53,-53 -123.5,-82.2 -198.5,-82.2 -56.699,0 -110.8,16.7 -156.8,47.8 20.4,17.6 38.5,38.1 53.7,60.7 z" />
           <path
-             style="fill:#ffffff;fill-opacity:1"
+             style="fill:#4d4d4d;fill-opacity:1"
              inkscape:connector-curvature="0"
              id="path11"
              d="M 449.3,295.1 C 437.3,286 424.5,277.8 411,270.8 l -57.7,61.5 c 1.7,0.7 3.5,1.4 5.2,2.1 42.3,17.8 78,50.2 99.601,90.7 23.199,43.5 29.6,95.4 17.699,143.2 l 6.301,15.5 c 10.399,25.5 27,48.2 47.8,66 16.6,-31.6 26.899,-66.1 30.5,-102.1 0.899,-9.301 1.399,-18.7 1.399,-28 -0.1,-87.8 -43.3,-172 -112.5,-224.6 z" />
           <path
-             style="fill:#ffffff;fill-opacity:1"
+             style="fill:#4d4d4d;fill-opacity:1"
              inkscape:connector-curvature="0"
              id="path13"
              d="m 262.6,349 c 4.9,5.2 11.6,7.9 18.2,7.9 6.601,0 13.301,-2.6 18.2,-7.9 l 24.2,-25.7 100.5,-106.8 c 7.8,-8.3 9,-20.9 2.9,-30.5 l -34.2,-53.8 c -4.601,-7.2 -12.5,-11.6 -21.101,-11.6 l -180.799,0 c -8.5,0 -16.5,4.4 -21.1,11.6 L 135.2,186 c -6.1,9.6 -5,22.2 2.9,30.5 L 262.6,349 Z" />

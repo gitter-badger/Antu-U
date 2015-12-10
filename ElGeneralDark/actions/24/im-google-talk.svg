@@ -40,8 +40,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-3.5568103"
-     inkscape:cy="10.370189"
+     inkscape:cx="-20.748345"
+     inkscape:cy="10.515599"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -50,9 +50,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -101,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,68 +113,69 @@
     <g
        transform="matrix(0.94209843,0,0,0.94209843,326.56543,-435.29253)"
        id="layer1-9"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
-         style="fill:#4d4d4d;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          transform="matrix(0.0324885,0,0,0.0324885,2.5842007,1032.4343)"
          id="g4185">
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4144">
           <g
-             style="fill:#4d4d4d;fill-opacity:1"
+             style="fill:#ffffff;fill-opacity:1"
              id="hangout">
             <path
-               style="fill:#4d4d4d;fill-opacity:1"
+               style="fill:#ffffff;fill-opacity:1"
                inkscape:connector-curvature="0"
                d="m 261.375,0 c -119.85,0 -216.75,96.9 -216.75,216.75 0,119.85 96.9,216.75 216.75,216.75 l 12.75,0 0,89.25 c 124.95,-58.65 204,-191.25 204,-306 C 478.125,96.9 381.225,0 261.375,0 Z m -12.75,229.5 -25.5,51 -38.25,0 25.5,-51 -38.25,0 0,-76.5 76.5,0 0,76.5 z m 102,0 -25.5,51 -38.25,0 25.5,-51 -38.25,0 0,-76.5 76.5,0 0,76.5 z"
                id="path4147" />
           </g>
         </g>
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4149" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4151" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4153" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4155" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4157" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4159" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4161" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4163" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4165" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4167" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4169" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4171" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4173" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4175" />
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="g4177" />
       </g>
     </g>

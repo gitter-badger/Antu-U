@@ -14,7 +14,7 @@
    id="svg3869"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="layer-visible-on.svg">
+   sodipodi:docname="object-visible.svg">
   <defs
      id="defs3871">
     <linearGradient
@@ -59,8 +59,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="4.5314063"
-     inkscape:cy="10.995097"
+     inkscape:cx="-12.660128"
+     inkscape:cy="11.039291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -69,9 +69,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -120,7 +120,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,43 +133,43 @@
        transform="translate(-95.71429,8.57146)"
        id="layer1-6"
        inkscape:label="Capa 1"
-       style="fill:#4d4d4d;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
          id="layer1-3"
-         style="fill:#4d4d4d;fill-opacity:1">
+         style="fill:#ffffff;fill-opacity:1">
         <g
            id="layer1-4"
            inkscape:label="Capa 1"
-           style="fill:#4d4d4d;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1">
           <g
              id="g4188"
-             style="fill:#4d4d4d;fill-opacity:1">
+             style="fill:#ffffff;fill-opacity:1">
             <g
                id="layer1-8"
                inkscape:label="Capa 1"
-               style="fill:#4d4d4d;fill-opacity:1">
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  transform="translate(3,-2.56547)"
                  id="g4170"
-                 style="fill:#4d4d4d;fill-opacity:1">
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
                    transform="translate(-18.00007,2.56547)"
                    id="layer1-5"
                    inkscape:label="Capa 1"
-                   style="fill:#4d4d4d;fill-opacity:1">
+                   style="fill:#ffffff;fill-opacity:1">
                   <path
                      inkscape:connector-curvature="0"
                      id="path3"
                      d="m 447.71443,528.79074 8.43438,4.21727 -8.43438,4.21726 -8.43453,-4.21726 z"
-                     style="fill:#4d4d4d;fill-opacity:1"
+                     style="fill:#ffffff;fill-opacity:1"
                      sodipodi:nodetypes="ccccc" />
                 </g>
                 <path
                    inkscape:connector-curvature="0"
                    id="path3-5"
                    d="m 429.71437,545.00482 -6.08314,-3.04157 -2.35139,1.17569 8.43453,4.21727 8.43438,-4.21727 -2.35139,-1.17569 z"
-                   style="fill:#4d4d4d;fill-opacity:1"
+                   style="fill:#ffffff;fill-opacity:1"
                    sodipodi:nodetypes="ccccccc" />
               </g>
             </g>
@@ -177,21 +177,21 @@
                id="layer1-8-5"
                inkscape:label="Capa 1"
                transform="translate(-19.79954,-0.12348)"
-               style="fill:#4d4d4d;fill-opacity:1">
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  transform="translate(3,-2.56547)"
                  id="g4170-7"
-                 style="fill:#4d4d4d;fill-opacity:1">
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
                    transform="translate(-18.00007,2.56547)"
                    id="layer1-5-0"
                    inkscape:label="Capa 1"
-                   style="fill:#4d4d4d;fill-opacity:1">
+                   style="fill:#ffffff;fill-opacity:1">
                   <path
                      inkscape:connector-curvature="0"
                      id="path3-53"
                      d="m 467.51398,538.75882 -6.08314,-3.04157 -2.35139,1.1757 8.43453,4.21727 8.43438,-4.21727 -2.35139,-1.1757 z"
-                     style="fill:#4d4d4d;fill-opacity:1"
+                     style="fill:#ffffff;fill-opacity:1"
                      sodipodi:nodetypes="ccccccc" />
                 </g>
               </g>

@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="28.165712"
-     inkscape:cy="6.3654626"
+     inkscape:cx="10.974178"
+     inkscape:cy="6.4096568"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,9 +35,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,32 +97,33 @@
      transform="translate(-326,-534.3622)">
     <g
        id="g4206"
-       transform="matrix(1.0666682,0,0,1.0666682,-22.949315,-35.824992)">
+       transform="matrix(1.0666682,0,0,1.0666682,-22.949315,-35.824992)"
+       style="fill:#ffffff;fill-opacity:1">
       <g
-         style="fill:#4d4d4d;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          inkscape:label="Capa 1"
          id="layer1-4"
          transform="translate(326,-495.99996)">
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            transform="translate(-551.28571,422.71427)"
            id="layer1-5"
            inkscape:label="Capa 1">
           <path
              id="path3083"
              d="m 569.28571,610.64791 c -0.55229,0 -1,0.44771 -1,1 0,0.55228 0.44771,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55229 -0.44772,-1 -1,-1 z m 0,4 c -0.55229,0 -1,0.44771 -1,1 0,0.55228 0.44771,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55229 -0.44772,-1 -1,-1 z m 0,4 c -0.55229,0 -1,0.44771 -1,1 0,0.55228 0.44771,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55229 -0.44772,-1 -1,-1 z"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
              inkscape:connector-curvature="0" />
         </g>
       </g>
       <g
          transform="matrix(1.4220416,0,0,1.4220416,-114.00762,-224.58755)"
          id="text4205"
-         style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+         style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
         <path
            inkscape:connector-curvature="0"
            id="path4210"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
            d="m 312.165,546.36218 3.7125,-9.845 1.43,0 3.7125,9.845 -1.4025,0 -0.94875,-2.6675 -4.13875,0 -0.9625,2.6675 -1.4025,0 z m 2.79125,-3.85 3.2725,0 -1.60875,-4.44125 -0.055,0 -1.60875,4.44125 z" />
       </g>
     </g>

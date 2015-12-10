@@ -49,8 +49,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="-6.5714956"
-     inkscape:cy="20.335371"
+     inkscape:cx="-30.883996"
+     inkscape:cy="20.397871"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -59,9 +59,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -110,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -192,7 +192,7 @@
                                    style="fill:#4d4d4d;fill-opacity:1">
                                 <path
                                    sodipodi:nodetypes="ssssssssscsccccccccscc"
-                                   style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+                                   style="fill:#ffffff;fill-opacity:1;stroke:none"
                                    sketch:type="MSShapeGroup"
                                    id="Images"
                                    d="m 420.90171,527.19312 c -0.41306,0 -0.74792,0.33629 -0.74792,0.7503 l 0,13.27164 c 0,0.41438 0.33515,0.75031 0.74792,0.75031 l 14.20269,0 c 0.41307,0 0.74792,-0.3363 0.74792,-0.75031 l 0,-13.27164 c 0,-0.41438 -0.33514,-0.7503 -0.74792,-0.7503 z m 7.10121,13.12473 -5.27211,0 c -0.47362,0 -0.68456,-0.34401 -0.47104,-0.76837 l 2.94318,-5.85181 c 0.21322,-0.42436 0.61967,-0.46224 0.90749,-0.0847 l 2.95946,3.88238 c 0.28783,0.37757 0.79089,0.40971 1.12388,0.0715 l 0.72401,-0.73596 c 0.3327,-0.33829 0.8229,-0.29639 1.09444,0.093 l 1.87474,2.68817 c 0.27096,0.38992 0.10752,0.70582 -0.36615,0.70582 l -5.5179,0 z"
@@ -220,7 +220,7 @@
           <path
              id="rect4112"
              d="m 582.55207,597.91471 0,2 -2,0 0,1 2,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-2 z"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="ccccccccccccc" />
         </g>

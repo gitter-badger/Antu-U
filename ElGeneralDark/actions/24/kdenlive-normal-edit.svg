@@ -13,8 +13,8 @@
    height="22"
    id="svg3815"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="kdenlive-insert-edit.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kdenlive-normal-edit.svg">
   <defs
      id="defs3817" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="18.335411"
-     inkscape:cx="21.207207"
-     inkscape:cy="13.248507"
+     inkscape:cx="10.599318"
+     inkscape:cy="13.275777"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -34,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1885"
-     inkscape:window-height="1060"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1366"
+     inkscape:window-height="633"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="false"
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,7 +96,7 @@
      id="layer1"
      transform="translate(-461.71429,-525.79075)">
     <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect2992-4"
        width="16"
        height="4.0000386"

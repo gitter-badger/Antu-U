@@ -558,8 +558,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-4.8860801"
-     inkscape:cy="12.21008"
+     inkscape:cx="-1.8750029"
+     inkscape:cy="12.24133"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-67"
      showgrid="true"
@@ -568,9 +568,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
@@ -966,7 +966,7 @@
                  id="g4630-0">
                 <path
                    id="rect4274"
-                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                    d="m 404.40415,521.81842 9.52655,0 c 0.37988,0 0.68571,0.30582 0.68571,0.6857 l 0,18.58778 c 0,0.37988 -0.30583,0.68571 -0.68571,0.68571 l -9.52655,0 c -0.37988,0 -0.68571,-0.30583 -0.68571,-0.68571 l 0,-18.58778 c 0,-0.37988 0.30583,-0.6857 0.68571,-0.6857 z m -18.60628,-2.02053 29.54712,0 c 0.62569,0 1.12941,0.50381 1.12941,1.12947 l 0,21.74117 c 0,0.62566 -0.50372,1.12947 -1.12941,1.12947 l -29.54712,0 c -0.6257,0 -1.12941,-0.50381 -1.12941,-1.12947 l 0,-21.74117 c 0,-0.62566 0.50371,-1.12947 1.12941,-1.12947 z"
                    inkscape:connector-curvature="0" />
                 <g
@@ -1189,7 +1189,7 @@
                        sketch:type="MSLayerGroup"
                        id="remove11-27">
                       <path
-                         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+                         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
                          inkscape:connector-curvature="0"
                          sketch:type="MSShapeGroup"
                          id="path1028"

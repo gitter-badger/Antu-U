@@ -1576,8 +1576,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="5.9926207"
-     inkscape:cy="10.264796"
+     inkscape:cx="-2.6031465"
+     inkscape:cy="10.286893"
      inkscape:document-units="px"
      inkscape:current-layer="g4422-5"
      showgrid="true"
@@ -1586,9 +1586,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -1637,7 +1637,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1659,25 +1659,30 @@
          id="g4422-5">
         <g
            transform="matrix(0.97084924,0,0,0.97084924,25.474663,15.592944)"
-           id="g4288-8">
+           id="g4288-8"
+           style="fill:#ffffff;fill-opacity:1">
           <g
              transform="translate(-60.125002,-5.4999962)"
              inkscape:label="Capa 1"
-             id="layer1-74-8">
+             id="layer1-74-8"
+             style="fill:#ffffff;fill-opacity:1">
             <g
                transform="matrix(0.66666666,0,0,0.66666666,70.952386,189.8302)"
                id="layer1-7-1"
-               inkscape:label="Capa 1">
+               inkscape:label="Capa 1"
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  inkscape:label="Capa 1"
                  id="layer1-5-4"
-                 transform="matrix(1.5,0,0,1.5,-104.92858,-286.2453)">
+                 transform="matrix(1.5,0,0,1.5,-104.92858,-286.2453)"
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
                    transform="matrix(0.28650725,0,0,0.28650725,116.73905,490.74772)"
                    id="layer1-3-9-4"
-                   inkscape:label="Layer 1">
+                   inkscape:label="Layer 1"
+                   style="fill:#ffffff;fill-opacity:1">
                   <path
-                     style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+                     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
                      sodipodi:nodetypes="ssssccscccs"
                      inkscape:connector-curvature="0"
                      id="path7-2"
@@ -1747,21 +1752,25 @@
           <g
              transform="matrix(-0.52927739,0,0,0.52927739,464.77928,255.66654)"
              inkscape:label="Capa 1"
-             id="layer1-74-6-0">
+             id="layer1-74-6-0"
+             style="fill:#ffffff;fill-opacity:1">
             <g
                transform="matrix(0.66666666,0,0,0.66666666,70.952386,189.8302)"
                id="layer1-7-8-3"
-               inkscape:label="Capa 1">
+               inkscape:label="Capa 1"
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  inkscape:label="Capa 1"
                  id="layer1-5-5-9"
-                 transform="matrix(1.5,0,0,1.5,-104.92858,-286.2453)">
+                 transform="matrix(1.5,0,0,1.5,-104.92858,-286.2453)"
+                 style="fill:#ffffff;fill-opacity:1">
                 <g
                    transform="matrix(0.28650725,0,0,0.28650725,116.73905,490.74772)"
                    id="layer1-3-9-8-4"
-                   inkscape:label="Layer 1">
+                   inkscape:label="Layer 1"
+                   style="fill:#ffffff;fill-opacity:1">
                   <path
-                     style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+                     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
                      sodipodi:nodetypes="ssssccscccs"
                      inkscape:connector-curvature="0"
                      id="path7-3-9"

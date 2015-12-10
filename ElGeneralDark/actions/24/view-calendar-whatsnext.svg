@@ -493,8 +493,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.93"
-     inkscape:cx="-5.6560549"
-     inkscape:cy="15.503882"
+     inkscape:cx="-8.6920316"
+     inkscape:cy="15.539776"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -503,9 +503,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -567,30 +567,36 @@
     <g
        id="layer1-0"
        inkscape:label="Capa 1"
-       transform="translate(-36.999994,-3.9999808)">
+       transform="translate(-36.999994,-3.9999808)"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          transform="translate(-21,2)"
          inkscape:label="Capa 1"
-         id="layer1-72">
+         id="layer1-72"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            transform="translate(-94.71429,7.57146)"
            id="layer1-5"
-           inkscape:label="Capa 1" />
+           inkscape:label="Capa 1"
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
       <g
          transform="translate(-25.299998,0.29999811)"
          inkscape:label="Capa 1"
-         id="layer1-2">
+         id="layer1-2"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            id="layer1-72-3"
            inkscape:label="Capa 1"
-           transform="translate(-21,2)">
+           transform="translate(-21,2)"
+           style="fill:#ffffff;fill-opacity:1">
           <g
              inkscape:label="Capa 1"
              id="layer1-5-6"
-             transform="translate(-94.71429,7.57146)">
+             transform="translate(-94.71429,7.57146)"
+             style="fill:#ffffff;fill-opacity:1">
             <rect
-               style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                id="rect4227"
                width="16"
                height="16"
@@ -608,15 +614,16 @@
     </g>
     <g
        id="g4169"
-       transform="matrix(1.25,0,0,1.25,-85.499999,-133.84054)">
+       transform="matrix(1.25,0,0,1.25,-85.499999,-133.84054)"
+       style="fill:#4d4d4d;fill-opacity:1">
       <g
          transform="matrix(0.72267389,0,0,0.72267389,94.016521,149.87812)"
          id="text4375"
-         style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+         style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
         <path
            inkscape:connector-curvature="0"
            id="path4380"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
            d="m 338.30964,549.71859 q -0.285,0.3 -0.72,0.3 -0.435,0 -0.735,-0.3 -0.285,-0.3 -0.285,-0.72 0,-0.42 0.285,-0.72 0.3,-0.3 0.735,-0.3 0.435,0 0.72,0.3 0.3,0.3 0.3,0.72 0,0.42 -0.3,0.72 z m -0.015,-3.12 -1.41,0 0,-0.705 q 0,-0.675 0.285,-1.155 0.285,-0.495 1.005,-1.155 0.405,-0.375 0.57,-0.555 0.18,-0.195 0.345,-0.525 0.18,-0.345 0.18,-0.705 0,-0.69 -0.45,-1.11 -0.435,-0.42 -1.215,-0.42 -1.29,0 -1.77,1.44 l -1.29,-0.54 q 0.315,-0.855 1.08,-1.53 0.78,-0.69 1.98,-0.69 1.365,0 2.22,0.81 0.855,0.795 0.855,2.04 0,0.54 -0.285,1.095 -0.285,0.555 -0.51,0.795 -0.21,0.225 -0.6,0.585 -0.045,0.045 -0.075,0.075 -0.915,0.825 -0.915,1.65 l 0,0.6 z" />
       </g>
     </g>

@@ -1268,8 +1268,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="12.710524"
-     inkscape:cy="10.264796"
+     inkscape:cx="4.1147568"
+     inkscape:cy="10.286893"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1278,9 +1278,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -1337,29 +1337,35 @@
     <g
        id="layer1-1"
        inkscape:label="Capa 1"
-       transform="matrix(1.7777778,0,0,1.7777778,-263.71046,-422.39287)">
+       transform="matrix(1.7777778,0,0,1.7777778,-263.71046,-422.39287)"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
-         id="layer1-71">
+         id="layer1-71"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            id="layer1-34"
            inkscape:label="Capa 1"
-           transform="translate(0,1.7382813e-5)">
+           transform="translate(0,1.7382813e-5)"
+           style="fill:#ffffff;fill-opacity:1">
           <g
              inkscape:label="Capa 1"
              id="layer1-6-6"
-             transform="translate(556.44091,-0.99999625)" />
+             transform="translate(556.44091,-0.99999625)"
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              inkscape:label="Capa 1"
              id="layer1-8"
-             transform="matrix(0.62499999,0,0,0.62499999,105.3281,205.51323)" />
+             transform="matrix(0.62499999,0,0,0.62499999,105.3281,205.51323)"
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              style="fill:#ffffff;fill-opacity:1"
              transform="matrix(0.76315827,0,0,0.76315827,79.23893,128.92769)"
              id="g4951">
             <g
                transform="translate(-1.9155648e-6,0)"
-               id="g4280">
+               id="g4280"
+               style="fill:#ffffff;fill-opacity:1">
               <g
                  style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
                  transform="matrix(0.46280556,0,0,0.46280556,329.21663,65.115193)"
@@ -1569,7 +1575,7 @@
                                    style="font-style:normal;font-weight:normal;font-size:18.96656418px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
                                 <path
                                    id="path4701"
-                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
                                    d="m -17.918091,9.6010495 q 3.110516,0 5.234771,2.1432215 2.124256,2.143222 2.124256,5.177872 0,1.706991 -0.739696,2.826018 -0.72073,1.119028 -2.105289,1.119028 -1.422492,0 -2.124255,-1.38456 -0.929362,1.38456 -2.655319,1.38456 -1.555259,0 -2.617386,-1.081095 -1.062128,-1.10006 -1.062128,-2.788085 0,-1.669057 1.062128,-2.769118 1.062127,-1.100061 2.541519,-1.100061 1.460426,0 2.427721,1.119028 l 0.07587,0 0,-0.853496 1.365593,0 0,4.950274 q 0,0.49313 0.265531,0.891428 0.284499,0.398298 0.853496,0.398298 1.346626,0 1.346626,-2.712219 0,-2.503586 -1.744924,-4.229544 -1.744924,-1.725957 -4.24851,-1.725957 -2.503587,0 -4.248511,1.725957 -1.744924,1.725958 -1.744924,4.229544 0,2.503587 1.744924,4.229544 1.744924,1.725957 4.248511,1.725957 1.346626,0 2.408753,-0.531063 l 0.531064,1.289726 q -1.327659,0.60693 -2.939817,0.60693 -3.14845,0 -5.291672,-2.124255 -2.143222,-2.143222 -2.143222,-5.196839 0,-3.03465 2.143222,-5.177872 2.162189,-2.1432215 5.291672,-2.1432215 z M -19.681982,18.7619 q 0.682796,0.66383 1.631125,0.66383 0.948328,0 1.612158,-0.66383 0.682796,-0.66383 0.682796,-1.763891 0,-1.10006 -0.682796,-1.76389 -0.66383,-0.66383 -1.612158,-0.66383 -0.948329,0 -1.631125,0.66383 -0.66383,0.66383 -0.66383,1.76389 0,1.100061 0.66383,1.763891 z"
                                    inkscape:connector-curvature="0" />
                                 </g>

@@ -248,8 +248,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="3.6143684"
-     inkscape:cy="12.032563"
+     inkscape:cx="-4.9813988"
+     inkscape:cy="12.05466"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -258,9 +258,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -309,7 +309,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -321,12 +321,13 @@
     <g
        transform="translate(-52.85714,-5.71427)"
        id="layer1-8"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <path
          id="rect4108"
          transform="translate(378.85714,540.07647)"
          d="M 3,3 3,4 5,4 5,18 3,18 3,19 8,19 8,18 6,18 6,4 8,4 8,3 3,3 Z m 7,4 0,3 0,2 0,3 1,0 0,-3 4,0 0,2 4,-3 -4,-3 0,2 -4,0 0,-3 -1,0 z"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
   </g>

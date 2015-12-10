@@ -15,7 +15,7 @@
    id="svg3869"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="checkbox.svg">
+   sodipodi:docname="dialog-ok.svg">
   <defs
      id="defs3871">
     <inkscape:perspective
@@ -676,8 +676,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9999997"
-     inkscape:cx="-14.446247"
-     inkscape:cy="1.9980304"
+     inkscape:cx="-38.758748"
+     inkscape:cy="2.0605304"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -686,9 +686,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -737,7 +737,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -749,28 +749,30 @@
     <g
        transform="matrix(0.79999998,0,0,0.79999998,16.542864,119.92381)"
        id="layer1-95"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
          id="layer1-9-9"
-         transform="matrix(1.1699988,0,0,1.1699988,-38.953026,-96.85732)">
+         transform="matrix(1.1699988,0,0,1.1699988,-38.953026,-96.85732)"
+         style="fill:#ffffff;fill-opacity:1">
         <g
            transform="matrix(1.3120824,0,0,1.3120824,-382.5677,-272.0713)"
            id="layer1-3"
            inkscape:label="Capa 1"
-           style="fill:#4d4d4d;fill-opacity:1">
+           style="fill:#ffffff;fill-opacity:1">
           <g
-             style="fill:#4d4d4d;fill-opacity:1"
+             style="fill:#ffffff;fill-opacity:1"
              transform="matrix(0.14300539,0,0,0.14300539,554.04072,610.29161)"
              sketch:type="MSShapeGroup"
              id="g5548">
             <g
-               style="fill:#4d4d4d;fill-opacity:1"
+               style="fill:#ffffff;fill-opacity:1"
                transform="matrix(0.7214167,0,0,0.7214167,123.07951,19.201456)"
                sketch:type="MSLayerGroup"
                id="correct8">
               <path
-                 style="fill:#4d4d4d;fill-opacity:1"
+                 style="fill:#ffffff;fill-opacity:1"
                  inkscape:connector-curvature="0"
                  sketch:type="MSShapeGroup"
                  id="path4469"

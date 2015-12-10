@@ -14,7 +14,7 @@
    id="svg3869"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gtk-cancel.svg">
+   sodipodi:docname="gtk-stop.svg">
   <defs
      id="defs3871">
     <inkscape:perspective
@@ -248,8 +248,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-22.054327"
-     inkscape:cy="11.61283"
+     inkscape:cx="-20.87705"
+     inkscape:cy="11.657024"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -258,9 +258,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:object-nodes="true"
@@ -309,7 +309,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -321,16 +321,18 @@
     <g
        transform="matrix(0.66666104,0,0,0.66666104,69.954642,190.83319)"
        id="layer1-3"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
          id="layer1-4"
-         transform="matrix(-1.3457064,0,0,1.3457064,1157.1236,-300.80954)">
+         transform="matrix(-1.3457064,0,0,1.3457064,1157.1236,-300.80954)"
+         style="fill:#ffffff;fill-opacity:1">
         <path
            d="m 562.19713,609.79679 c -4.9171,0 -8.91732,4.00026 -8.91732,8.91733 0,4.91706 4.00017,8.91732 8.91728,8.91732 4.91705,0 8.91722,-4.00026 8.91722,-8.91732 0,-4.91707 -4.00017,-8.91733 -8.91718,-8.91733 z m 0,3.0143 c 1.08168,0 2.09614,0.29272 2.96891,0.80269 l -8.06925,8.06925 c -0.51002,-0.87274 -0.80274,-1.88724 -0.80274,-2.96891 0,-3.25497 2.64816,-5.90303 5.90308,-5.90303 z m 0,11.80606 c -1.08171,0 -2.09613,-0.29272 -2.96891,-0.80269 l 8.06925,-8.06925 c 0.50997,0.87277 0.80269,1.88723 0.80269,2.96891 0,3.25496 -2.64816,5.90303 -5.90303,5.90303 z"
            id="path3"
            inkscape:connector-curvature="0"
-           style="fill:#4d4d4d;fill-opacity:1" />
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
     </g>
   </g>
