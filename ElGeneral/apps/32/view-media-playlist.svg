@@ -75,16 +75,6 @@
        y2="1044.2982"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       gradientTransform="matrix(1.2508764,0,0,1.2508764,-78.59349,-134.81095)"
-       gradientUnits="userSpaceOnUse"
-       y2="528.41907"
-       x2="406.66837"
-       y1="537.91431"
-       x1="406.66837"
-       id="linearGradient4356"
-       xlink:href="#linearGradient4395"
-       inkscape:collect="always" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8467"
        id="linearGradient4424"
@@ -113,13 +103,13 @@
        inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient8467"
+       xlink:href="#linearGradient4395"
        id="linearGradient4252"
        gradientUnits="userSpaceOnUse"
-       x1="400.39636"
-       y1="545.61945"
-       x2="400.39636"
-       y2="517.61945" />
+       x1="398.02356"
+       y1="515.23712"
+       x2="398.02356"
+       y2="545.81091" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8467"
@@ -172,10 +162,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4395"
        id="linearGradient4183"
-       x1="404.71429"
-       y1="546.29791"
-       x2="404.71429"
-       y2="517.29803"
+       x1="398.02356"
+       y1="515.23712"
+       x2="398.02356"
+       y2="545.81091"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -186,7 +176,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9999998"
-     inkscape:cx="-26.660339"
+     inkscape:cx="9.7499957"
      inkscape:cy="9.5717201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -196,9 +186,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -236,7 +226,7 @@
        orientation="-28,0"
        id="guide4637" />
     <sodipodi:guide
-       position="20,30"
+       position="25,30"
        orientation="0,-27.999969"
        id="guide4639" />
   </sodipodi:namedview>
@@ -248,7 +238,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -319,7 +309,7 @@
                  id="Music-0"
                  sketch:type="MSShapeGroup"
                  inkscape:connector-curvature="0"
-                 style="opacity:0.9;fill:url(#linearGradient4356);fill-opacity:1" />
+                 style="opacity:1;fill:#ffffff;fill-opacity:0.85080647" />
             </g>
           </g>
         </g>

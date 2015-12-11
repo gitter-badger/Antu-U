@@ -73,16 +73,6 @@
        xlink:href="#linearGradient4475"
        inkscape:collect="always" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4293"
-       id="linearGradient4356"
-       x1="407.45734"
-       y1="525.63599"
-       x2="407.45734"
-       y2="539.38776"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2508764,0,0,1.2508764,-78.59349,-134.81095)" />
-    <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="517.61945"
        x2="400.39636"
@@ -93,10 +83,10 @@
        inkscape:collect="always" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="546.61945"
-       x2="405.39633"
-       y1="515.61945"
-       x1="403.39633"
+       y2="547.1767"
+       x2="401.60718"
+       y1="516.73389"
+       x1="401.16742"
        id="linearGradient4432"
        xlink:href="#linearGradient4293"
        inkscape:collect="always" />
@@ -111,13 +101,13 @@
        y2="517.61945" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4316"
+       xlink:href="#linearGradient4293"
        id="linearGradient4261"
        gradientUnits="userSpaceOnUse"
-       x1="400.39636"
-       y1="545.61945"
-       x2="400.39636"
-       y2="517.61945" />
+       x1="401.16742"
+       y1="516.73389"
+       x2="401.60718"
+       y2="547.1767" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8467"
@@ -174,9 +164,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="9.3100661"
-     inkscape:cy="15.604309"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="-19.439079"
+     inkscape:cy="20.801503"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -185,9 +175,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -261,7 +251,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -324,7 +314,7 @@
              id="g4358"
              transform="translate(-2.4330678,1.1490485)">
             <path
-               style="opacity:0.9;fill:url(#linearGradient4356);fill-opacity:1"
+               style="opacity:0.9;fill:#ffffff;fill-opacity:0.85483873"
                inkscape:connector-curvature="0"
                sketch:type="MSShapeGroup"
                id="Music-0"
