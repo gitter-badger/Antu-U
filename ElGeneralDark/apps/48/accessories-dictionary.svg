@@ -63,10 +63,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.470991"
-     inkscape:cx="26.269249"
+     inkscape:cx="37.566122"
      inkscape:cy="27.888204"
      inkscape:document-units="px"
-     inkscape:current-layer="g5572"
+     inkscape:current-layer="g9538"
      showgrid="false"
      inkscape:window-width="1362"
      inkscape:window-height="630"
@@ -78,7 +78,7 @@
      inkscape:object-nodes="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     showborder="true"
+     showborder="false"
      inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
@@ -87,10 +87,6 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
-    <sodipodi:guide
-       position="25.261155,56.226441"
-       orientation="0,1"
-       id="guide4832" />
   </sodipodi:namedview>
   <metadata
      id="metadata3075">
@@ -100,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

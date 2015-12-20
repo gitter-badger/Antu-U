@@ -332,9 +332,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0868364"
-     inkscape:cx="-13.622596"
-     inkscape:cy="21.518848"
+     inkscape:zoom="4.0434182"
+     inkscape:cx="6.044738"
+     inkscape:cy="21.668771"
      inkscape:document-units="px"
      inkscape:current-layer="g4268"
      showgrid="false"
@@ -343,9 +343,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -466,102 +466,106 @@
                id="g4268"
                transform="matrix(0.13978724,0,0,0.13978724,320.16661,197.81106)">
               <g
-                 id="g4277"
-                 transform="matrix(1.016661,0,0,1.016661,-6.4869576,-2.1642199)">
+                 id="g4253"
+                 transform="translate(-0.44352927,-0.15738391)">
                 <g
-                   transform="matrix(11.494123,0,0,11.494123,-4217.9843,-5980.6616)"
-                   id="layer1-4"
-                   inkscape:label="Capa 1"
-                   style="fill:url(#linearGradient4345);fill-opacity:1;stroke:url(#linearGradient4379)">
+                   transform="matrix(1.016661,0,0,1.016661,-6.4869576,-2.1642199)"
+                   id="g4277">
                   <g
-                     style="fill:url(#linearGradient4320);fill-opacity:1;stroke:url(#linearGradient4322);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none"
-                     transform="translate(-0.11123528,0.03124873)"
+                     style="fill:url(#linearGradient4345);fill-opacity:1;stroke:url(#linearGradient4379)"
                      inkscape:label="Capa 1"
-                     id="layer1-39">
+                     id="layer1-4"
+                     transform="matrix(11.494123,0,0,11.494123,-4217.9843,-5980.6616)">
                     <g
-                       id="layer1-3"
+                       id="layer1-39"
                        inkscape:label="Capa 1"
-                       transform="translate(0.13524268,0.04517549)"
-                       style="fill:url(#linearGradient4316);fill-opacity:1;stroke:url(#linearGradient4318);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-                      <circle
-                         r="13.999958"
-                         cy="531.79791"
-                         cx="400.57138"
-                         id="path3377"
-                         style="opacity:1;fill:url(#linearGradient4304);fill-opacity:1;stroke:url(#linearGradient4306);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-                      <circle
-                         style="opacity:1;fill:url(#linearGradient4308);fill-opacity:1;stroke:url(#linearGradient4310);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-                         id="circle4174"
-                         cx="400.57144"
-                         cy="531.79797"
-                         r="13.999958" />
-                      <circle
-                         style="opacity:1;fill:url(#linearGradient4312);fill-opacity:1;stroke:url(#linearGradient4314);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-                         id="ellipse4233"
-                         cx="400.57138"
-                         cy="531.79791"
-                         r="0" />
+                       transform="translate(-0.11123528,0.03124873)"
+                       style="fill:url(#linearGradient4320);fill-opacity:1;stroke:url(#linearGradient4322);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none">
+                      <g
+                         style="fill:url(#linearGradient4316);fill-opacity:1;stroke:url(#linearGradient4318);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                         transform="translate(0.13524268,0.04517549)"
+                         inkscape:label="Capa 1"
+                         id="layer1-3">
+                        <circle
+                           style="opacity:1;fill:url(#linearGradient4304);fill-opacity:1;stroke:url(#linearGradient4306);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                           id="path3377"
+                           cx="400.57138"
+                           cy="531.79791"
+                           r="13.999958" />
+                        <circle
+                           r="13.999958"
+                           cy="531.79797"
+                           cx="400.57144"
+                           id="circle4174"
+                           style="opacity:1;fill:url(#linearGradient4308);fill-opacity:1;stroke:url(#linearGradient4310);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                        <circle
+                           r="0"
+                           cy="531.79791"
+                           cx="400.57138"
+                           id="ellipse4233"
+                           style="opacity:1;fill:url(#linearGradient4312);fill-opacity:1;stroke:url(#linearGradient4314);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                      </g>
                     </g>
                   </g>
-                </g>
-                <g
-                   style="fill:url(#linearGradient4598);fill-opacity:1"
-                   transform="matrix(6.3157549,0,0,6.3157549,271.42775,15.609621)"
-                   id="g4418">
                   <g
-                     style="fill:url(#linearGradient4289);fill-opacity:1"
-                     id="g4378">
-                    <path
-                       style="fill:url(#linearGradient4287);fill-opacity:1.0"
-                       inkscape:connector-curvature="0"
-                       d="m 34.054,17.222 c -0.211,0.189 -0.522,0.199 -0.747,0.028 l -7.443,-5.664 -3.526,21.095 c -0.013,0.08 -0.042,0.153 -0.083,0.219 -0.707,3.024 -4.566,5.278 -9.104,5.278 -5.087,0 -9.226,-2.817 -9.226,-6.28 0,-3.463 4.138,-6.281 9.226,-6.281 2.089,0 4.075,0.467 5.689,1.324 L 23.504,0.488 c 0.042,-0.241 0.231,-0.434 0.476,-0.479 0.236,-0.041 0.484,0.067 0.61,0.28 l 9.58,16.191 c 0.145,0.246 0.096,0.553 -0.116,0.742 z"
-                       id="path4380" />
+                     id="g4418"
+                     transform="matrix(6.3157549,0,0,6.3157549,271.42775,15.609621)"
+                     style="fill:url(#linearGradient4598);fill-opacity:1">
+                    <g
+                       id="g4378"
+                       style="fill:url(#linearGradient4289);fill-opacity:1">
+                      <path
+                         id="path4380"
+                         d="m 34.054,17.222 c -0.211,0.189 -0.522,0.199 -0.747,0.028 l -7.443,-5.664 -3.526,21.095 c -0.013,0.08 -0.042,0.153 -0.083,0.219 -0.707,3.024 -4.566,5.278 -9.104,5.278 -5.087,0 -9.226,-2.817 -9.226,-6.28 0,-3.463 4.138,-6.281 9.226,-6.281 2.089,0 4.075,0.467 5.689,1.324 L 23.504,0.488 c 0.042,-0.241 0.231,-0.434 0.476,-0.479 0.236,-0.041 0.484,0.067 0.61,0.28 l 9.58,16.191 c 0.145,0.246 0.096,0.553 -0.116,0.742 z"
+                         inkscape:connector-curvature="0"
+                         style="fill:url(#linearGradient4287);fill-opacity:1" />
+                    </g>
+                    <g
+                       id="g4382"
+                       style="fill:url(#linearGradient4291);fill-opacity:1" />
+                    <g
+                       id="g4384"
+                       style="fill:url(#linearGradient4293);fill-opacity:1" />
+                    <g
+                       id="g4386"
+                       style="fill:url(#linearGradient4295);fill-opacity:1" />
+                    <g
+                       id="g4388"
+                       style="fill:url(#linearGradient4297);fill-opacity:1" />
+                    <g
+                       id="g4390"
+                       style="fill:url(#linearGradient4299);fill-opacity:1" />
+                    <g
+                       id="g4392"
+                       style="fill:url(#linearGradient4301);fill-opacity:1" />
+                    <g
+                       id="g4394"
+                       style="fill:url(#linearGradient4303);fill-opacity:1" />
+                    <g
+                       id="g4396"
+                       style="fill:url(#linearGradient4305);fill-opacity:1" />
+                    <g
+                       id="g4398"
+                       style="fill:url(#linearGradient4307);fill-opacity:1" />
+                    <g
+                       id="g4400"
+                       style="fill:url(#linearGradient4309);fill-opacity:1" />
+                    <g
+                       id="g4402"
+                       style="fill:url(#linearGradient4311);fill-opacity:1" />
+                    <g
+                       id="g4404"
+                       style="fill:url(#linearGradient4313);fill-opacity:1" />
+                    <g
+                       id="g4406"
+                       style="fill:url(#linearGradient4315);fill-opacity:1" />
+                    <g
+                       id="g4408"
+                       style="fill:url(#linearGradient4317);fill-opacity:1" />
+                    <g
+                       id="g4410"
+                       style="fill:url(#linearGradient4319);fill-opacity:1" />
                   </g>
-                  <g
-                     style="fill:url(#linearGradient4291);fill-opacity:1"
-                     id="g4382" />
-                  <g
-                     style="fill:url(#linearGradient4293);fill-opacity:1"
-                     id="g4384" />
-                  <g
-                     style="fill:url(#linearGradient4295);fill-opacity:1"
-                     id="g4386" />
-                  <g
-                     style="fill:url(#linearGradient4297);fill-opacity:1"
-                     id="g4388" />
-                  <g
-                     style="fill:url(#linearGradient4299);fill-opacity:1"
-                     id="g4390" />
-                  <g
-                     style="fill:url(#linearGradient4301);fill-opacity:1"
-                     id="g4392" />
-                  <g
-                     style="fill:url(#linearGradient4303);fill-opacity:1"
-                     id="g4394" />
-                  <g
-                     style="fill:url(#linearGradient4305);fill-opacity:1"
-                     id="g4396" />
-                  <g
-                     style="fill:url(#linearGradient4307);fill-opacity:1"
-                     id="g4398" />
-                  <g
-                     style="fill:url(#linearGradient4309);fill-opacity:1"
-                     id="g4400" />
-                  <g
-                     style="fill:url(#linearGradient4311);fill-opacity:1"
-                     id="g4402" />
-                  <g
-                     style="fill:url(#linearGradient4313);fill-opacity:1"
-                     id="g4404" />
-                  <g
-                     style="fill:url(#linearGradient4315);fill-opacity:1"
-                     id="g4406" />
-                  <g
-                     style="fill:url(#linearGradient4317);fill-opacity:1"
-                     id="g4408" />
-                  <g
-                     style="fill:url(#linearGradient4319);fill-opacity:1"
-                     id="g4410" />
                 </g>
               </g>
             </g>

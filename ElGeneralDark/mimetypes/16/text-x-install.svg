@@ -41,8 +41,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-1.0523639"
-     inkscape:cy="12.111369"
+     inkscape:cx="-33.535714"
+     inkscape:cy="12.156012"
      inkscape:document-units="px"
      inkscape:current-layer="g4201"
      showgrid="false"
@@ -157,41 +157,35 @@
                             <g
                                transform="translate(-48.123492,9.4954666)"
                                id="layer1-6"
-                               inkscape:label="Capa 1">
+                               inkscape:label="Capa 1"
+                               style="fill:#ffffff;fill-opacity:1">
                               <g
                                  transform="translate(-51.525445,5.4558218)"
                                  inkscape:label="Capa 1"
-                                 id="layer1-4-3">
+                                 id="layer1-4-3"
+                                 style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    id="layer1-3-8"
                                    inkscape:label="Capa 1"
-                                   transform="translate(-34.965532,2.4832225)" />
+                                   transform="translate(-34.965532,2.4832225)"
+                                   style="fill:#ffffff;fill-opacity:1" />
                               </g>
                               <g
                                  transform="translate(50.777056,-5.4014337)"
-                                 id="g4403">
-                                <rect
-                                   ry="1.6441816"
-                                   y="513.12695"
-                                   x="334.23404"
-                                   height="34.938858"
-                                   width="46.302639"
-                                   id="rect4195"
-                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                                 id="g4403"
+                                 style="fill:#ffffff;fill-opacity:1">
+                                <path
+                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   d="M 0.56835938 1.9628906 C 0.25360354 1.9628906 0 2.2164942 0 2.53125 L 0 13.46875 C 0 13.783506 0.25360354 14.037109 0.56835938 14.037109 L 15.431641 14.037109 C 15.746396 14.037109 16 13.783506 16 13.46875 L 16 2.53125 C 16 2.2164942 15.746396 1.9628906 15.431641 1.9628906 L 0.56835938 1.9628906 z M 5.6542969 6.3769531 C 5.7942018 6.3769531 5.9120897 6.4257616 6.0097656 6.5234375 L 7.9335938 8.4472656 L 9.8535156 6.5234375 C 9.9564398 6.4257616 10.077612 6.3769531 10.214844 6.3769531 C 10.354749 6.3769531 10.472637 6.4257616 10.570312 6.5234375 L 10.867188 6.8242188 C 10.967439 6.9192705 11.017578 7.039063 11.017578 7.1816406 C 11.017578 7.3242183 10.967488 7.4420576 10.867188 7.5371094 L 8.2910156 10.119141 C 8.1933397 10.216817 8.0734987 10.265625 7.9335938 10.265625 C 7.7963615 10.265625 7.6771429 10.216817 7.5742188 10.119141 L 4.9960938 7.5371094 C 4.8984178 7.4394821 4.8496094 7.3215456 4.8496094 7.1816406 C 4.8496094 7.0417843 4.8984178 6.9218947 4.9960938 6.8242188 L 5.2929688 6.5234375 C 5.3958929 6.4257616 5.5170646 6.3769531 5.6542969 6.3769531 z "
+                                   transform="matrix(2.8939149,0,0,2.8939149,334.23404,507.44506)"
+                                   id="rect4195" />
                               </g>
                             </g>
                             <g
                                id="chevron18"
                                sketch:type="MSLayerGroup"
                                transform="matrix(0,0.14062974,-0.14062974,0,368.70826,529.99419)"
-                               style="fill:#818a93;fill-opacity:1">
-                              <path
-                                 d="M 76.988,55.667 23.869,2.628 c -1.956,-2.064 -4.399,-3.096 -7.333,-3.096 -2.934,0 -5.377,1.033 -7.333,3.096 L 3.011,8.739 c -2.01,2.01 -3.015,4.453 -3.015,7.332 0,2.824 1.005,5.296 3.015,7.414 L 42.607,63 3.01,102.596 c -2.01,2.01 -3.015,4.454 -3.015,7.333 0,2.824 1.005,5.296 3.015,7.414 l 6.192,6.11 c 2.01,2.01 4.455,3.015 7.333,3.015 2.879,0 5.324,-1.005 7.333,-3.015 l 53.12,-53.039 c 2.01,-2.118 3.016,-4.59 3.016,-7.414 0,-2.879 -1.006,-5.323 -3.016,-7.333 l 0,0 z"
-                                 id="path1551"
-                                 sketch:type="MSShapeGroup"
-                                 inkscape:connector-curvature="0"
-                                 style="fill:#4d4d4d;fill-opacity:1" />
-                            </g>
+                               style="fill:#818a93;fill-opacity:1" />
                           </g>
                         </g>
                       </g>

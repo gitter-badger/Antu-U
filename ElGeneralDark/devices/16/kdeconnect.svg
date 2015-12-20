@@ -269,9 +269,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="16"
      inkscape:cx="-12.329455"
-     inkscape:cy="8.9715821"
+     inkscape:cy="8.9403321"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-8"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -321,7 +321,8 @@
     <g
        transform="matrix(0.75,0,0,0.75,-244.75,635.34055)"
        id="layer1-8"
-       inkscape:label="Capa 1">
+       inkscape:label="Capa 1"
+       style="fill:#ffffff;fill-opacity:1">
       <g
          inkscape:label="Capa 1"
          id="layer1-7"

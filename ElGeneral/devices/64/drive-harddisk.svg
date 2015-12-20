@@ -12,8 +12,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="48"
+   height="48"
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -31,124 +31,6 @@
          style="stop-color:#3498db;stop-opacity:0;"
          offset="1"
          id="stop3373" />
-    </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3831">
-      <feGaussianBlur
-         stdDeviation="0.6375"
-         id="feGaussianBlur3833" />
-    </filter>
-    <clipPath
-       id="clipPath3823">
-      <path
-         d="m108.81 58c-1.56 0-2.81 1.254-2.81 2.812v24.375c0 1.559 1.25 2.813 2.81 2.813h24.375c1.57 0 2.82-1.254 2.82-2.812v-24.375c0-1.559-1.25-2.813-2.81-2.813h-24.375zm7.1875 4.5h10v8.75h5l-10 13.75-10-13.75h5v-8.75z"
-         fill="#fff"
-         id="path3825" />
-    </clipPath>
-    <linearGradient
-       x1="65.263"
-       y1="64.205"
-       gradientTransform="matrix(0.625,0,0,0.625,78.5,32.25)"
-       x2="65.263"
-       gradientUnits="userSpaceOnUse"
-       y2="50.069"
-       id="linearGradient3812">
-      <stop
-         offset="0"
-         id="stop3683" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop3685" />
-    </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3806">
-      <feGaussianBlur
-         stdDeviation="1.2"
-         id="feGaussianBlur3808" />
-    </filter>
-    <linearGradient
-       x1="70"
-       y1="54"
-       gradientTransform="translate(0,4)"
-       x2="70"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3737"
-       y2="75.095"
-       id="linearGradient3788" />
-    <linearGradient
-       x1="56"
-       y1="72"
-       gradientTransform="matrix(0.9375,0,0,0.9375,-140.5,3.5)"
-       x2="88"
-       gradientUnits="userSpaceOnUse"
-       y2="72"
-       id="linearGradient3773">
-      <stop
-         offset="0"
-         stop-color="#499119"
-         id="stop3780" />
-      <stop
-         offset="1"
-         stop-color="#8fd625"
-         id="stop3782" />
-    </linearGradient>
-    <linearGradient
-       x1="65.263"
-       y1="64.205"
-       gradientTransform="matrix(0.625,0,0,0.625,28.5,31.25)"
-       x2="65.263"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3737"
-       y2="50.069"
-       id="linearGradient3832" />
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176" />
-    </filter>
-    <linearGradient
-       id="linearGradient3737">
-      <stop
-         offset="0"
-         stop-color="#fff"
-         id="stop3739" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         stop-color="#fff"
-         id="stop3741" />
-    </linearGradient>
-    <linearGradient
-       x1="45.448"
-       y1="92.54"
-       gradientTransform="scale(1.0059,0.99417)"
-       x2="45.448"
-       gradientUnits="userSpaceOnUse"
-       y2="7.0165"
-       id="ButtonShadow">
-      <stop
-         offset="0"
-         id="stop3750" />
-      <stop
-         offset="1"
-         stop-opacity=".58824"
-         id="stop3752" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4422-9">
-      <stop
-         id="stop4424-3"
-         offset="0"
-         style="stop-color:#2971c3;stop-opacity:1" />
-      <stop
-         id="stop4426-1"
-         offset="1"
-         style="stop-color:#83bbff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -265,7 +147,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2578125"
-     inkscape:cx="-53.620594"
+     inkscape:cx="-21.056364"
      inkscape:cy="38.106416"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -275,13 +157,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="646"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false">
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid4063"
@@ -304,6 +186,10 @@
        position="58,6"
        orientation="-52,0"
        id="guide4206" />
+    <sodipodi:guide
+       position="-48.805755,108.35492"
+       orientation="0,1"
+       id="guide4198" />
   </sodipodi:namedview>
   <metadata
      id="metadata5458">
@@ -321,9 +207,9 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-376.57144,-491.79797)">
+     transform="translate(-376.57144,-507.79797)">
     <g
-       transform="matrix(1.8845167,0,0,1.8845167,-451.82645,-482.59973)"
+       transform="matrix(1.6667192,0,0,1.6667192,-360.38848,-358.28827)"
        id="g3826">
       <path
          inkscape:connector-curvature="0"

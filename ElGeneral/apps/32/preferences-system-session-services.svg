@@ -106,24 +106,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7952815"
-     inkscape:cx="-27.154545"
-     inkscape:cy="29.257227"
+     inkscape:zoom="5.590563"
+     inkscape:cx="-1.4151023"
+     inkscape:cy="26.986702"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4189"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true">
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -196,7 +196,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -218,117 +218,101 @@
            y="3" /></flowRegion><flowPara
          id="flowPara4176">Plasm</flowPara></flowRoot>    <g
        id="g4189"
-       transform="matrix(1.5106785,0,0,1.5106785,-196.56322,-279.5778)">
+       transform="matrix(1.5763602,0,0,1.5763602,-222.87343,-314.5072)">
       <g
-         transform="translate(-0.05367453,0.07411655)"
-         inkscape:label="Capa 1"
-         id="layer1-42">
+         id="g4190">
         <g
-           id="g4447"
-           transform="matrix(0.65762761,0,0,0.65762761,163.45346,180.49688)">
+           id="layer1-42"
+           inkscape:label="Capa 1"
+           transform="translate(-0.05367453,0.07411655)">
           <g
-             inkscape:label="Capa 1"
-             id="layer1-6"
-             transform="translate(-48.123492,9.4954666)">
+             transform="matrix(0.65762761,0,0,0.65762761,163.45346,180.49688)"
+             id="g4447">
             <g
-               id="layer1-4"
-               inkscape:label="Capa 1"
-               transform="translate(-51.525445,5.4558218)">
+               transform="translate(-48.123492,9.4954666)"
+               id="layer1-6"
+               inkscape:label="Capa 1">
               <g
-                 transform="translate(-34.965532,2.4832225)"
+                 transform="translate(-51.525445,5.4558218)"
                  inkscape:label="Capa 1"
-                 id="layer1-3" />
+                 id="layer1-4">
+                <g
+                   id="layer1-3"
+                   inkscape:label="Capa 1"
+                   transform="translate(-34.965532,2.4832225)" />
+              </g>
+              <rect
+                 style="opacity:1;fill:url(#linearGradient4609);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect4195"
+                 width="46.302639"
+                 height="34.938858"
+                 x="385.61951"
+                 y="507.117"
+                 ry="1.6441816" />
+              <g
+                 id="g4247"
+                 style="opacity:1;fill:#ffffff;fill-opacity:0.84693879"
+                 transform="matrix(0.83317883,0,0,0.83317883,117.13303,78.685555)" />
+              <g
+                 transform="matrix(1.5206174,0,0,1.5206174,-154.49271,-283.24652)"
+                 id="layer1-1"
+                 inkscape:label="Capa 1"
+                 style="fill:url(#linearGradient4384);fill-opacity:1">
+                <flowRoot
+                   transform="translate(389.57142,520.79806)"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4382);fill-opacity:1;stroke:none"
+                   id="flowRoot4170-8"
+                   xml:space="preserve"><flowRegion
+                     id="flowRegion4172-7"
+                     style="fill:url(#linearGradient4378);fill-opacity:1"><rect
+                       y="3"
+                       x="22"
+                       height="15"
+                       width="27"
+                       id="rect4174-74"
+                       style="fill:url(#linearGradient4376);fill-opacity:1" /></flowRegion><flowPara
+                     id="flowPara4176-9"
+                     style="fill:url(#linearGradient4380);fill-opacity:1">Plasm</flowPara></flowRoot>              </g>
             </g>
-            <rect
-               ry="1.6441816"
-               y="507.117"
-               x="385.61951"
-               height="34.938858"
-               width="46.302639"
-               id="rect4195"
-               style="opacity:1;fill:url(#linearGradient4609);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-            <g
-               transform="matrix(0.83317883,0,0,0.83317883,117.13303,78.685555)"
-               style="opacity:1;fill:#ffffff;fill-opacity:0.84693879"
-               id="g4247">
-              <circle
-                 style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 id="path4224"
-                 cx="373.36642"
-                 cy="518.737"
-                 r="2.25" />
-              <circle
-                 style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 id="path4224-4"
-                 cx="367.8389"
-                 cy="518.78473"
-                 r="2.25" />
-              <circle
-                 style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 id="path4224-8"
-                 cx="362.40543"
-                 cy="518.83801"
-                 r="2.25" />
-            </g>
-            <g
-               style="fill:url(#linearGradient4384);fill-opacity:1"
-               inkscape:label="Capa 1"
-               id="layer1-1"
-               transform="matrix(1.5206174,0,0,1.5206174,-154.49271,-283.24652)">
-              <flowRoot
-                 xml:space="preserve"
-                 id="flowRoot4170-8"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4382);fill-opacity:1;stroke:none"
-                 transform="translate(389.57142,520.79806)"><flowRegion
-                   style="fill:url(#linearGradient4378);fill-opacity:1"
-                   id="flowRegion4172-7"><rect
-                     style="fill:url(#linearGradient4376);fill-opacity:1"
-                     id="rect4174-74"
-                     width="27"
-                     height="15"
-                     x="22"
-                     y="3" /></flowRegion><flowPara
-                   style="fill:url(#linearGradient4380);fill-opacity:1"
-                   id="flowPara4176-9">Plasm</flowPara></flowRoot>            </g>
           </g>
+          <g
+             transform="translate(-36.835678,-0.95376595)"
+             inkscape:label="Capa 1"
+             id="layer1-81">
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot4170-4"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               transform="translate(389.57143,520.79802)"><flowRegion
+                 id="flowRegion4172-8"><rect
+                   id="rect4174-9"
+                   width="27"
+                   height="15"
+                   x="22"
+                   y="3" /></flowRegion><flowPara
+                 id="flowPara4176-7">Plasm</flowPara></flowRoot>          </g>
         </g>
         <g
-           id="layer1-81"
+           transform="matrix(0.95155925,0,0,0.95155925,81.291382,12.853553)"
+           id="layer1-8"
            inkscape:label="Capa 1"
-           transform="translate(-36.835678,-0.95376595)">
-          <flowRoot
-             transform="translate(389.57143,520.79802)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot4170-4"
-             xml:space="preserve"><flowRegion
-               id="flowRegion4172-8"><rect
-                 y="3"
-                 x="22"
-                 height="15"
-                 width="27"
-                 id="rect4174-9" /></flowRegion><flowPara
-               id="flowPara4176-7">Plasm</flowPara></flowRoot>        </g>
-      </g>
-      <g
-         style="fill:#ffffff;fill-opacity:0.84693879"
-         inkscape:label="Capa 1"
-         id="layer1-8"
-         transform="matrix(0.87500008,0,0,0.87500008,106.69647,55.506031)">
-        <g
-           id="layer1-7"
-           inkscape:label="Capa 1"
-           transform="translate(-1.0000046,0.99999682)"
            style="fill:#ffffff;fill-opacity:0.84693879">
           <g
-             transform="matrix(0.03768616,0,0,0.03768616,327.99993,535.64791)"
-             id="g3"
-             style="fill:#ffffff;fill-opacity:0.84693879">
-            <path
+             style="fill:#ffffff;fill-opacity:0.84693879"
+             transform="translate(-1.0000046,0.99999682)"
+             inkscape:label="Capa 1"
+             id="layer1-7">
+            <g
                style="fill:#ffffff;fill-opacity:0.84693879"
-               sodipodi:nodetypes="ccccccsccc"
-               inkscape:connector-curvature="0"
-               id="path5"
-               d="m 432.14438,155.42075 c -62.343,22.953 -109.84,39.299 -151.629,90.978 -37.229,46.05 -90.98,62.011 -151.628,31.657 l 0,165.457 -30.328996,0 0,-409.396004 c -0.001,-8.382 6.780996,-15.163 15.161996,-15.163 8.38,0 15.166,6.781 15.166,15.163 33.67,48.953 92.189,59.795 151.628,60.653 90.976,1.33 151.63,60.651004 151.63,60.651004 z" />
+               id="g3"
+               transform="matrix(0.03768616,0,0,0.03768616,327.99993,535.64791)">
+              <path
+                 d="m 432.14438,155.42075 c -62.343,22.953 -109.84,39.299 -151.629,90.978 -37.229,46.05 -90.98,62.011 -151.628,31.657 l 0,165.457 -30.328996,0 0,-409.396004 c -0.001,-8.382 6.780996,-15.163 15.161996,-15.163 8.38,0 15.166,6.781 15.166,15.163 33.67,48.953 92.189,59.795 151.628,60.653 90.976,1.33 151.63,60.651004 151.63,60.651004 z"
+                 id="path5"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="ccccccsccc"
+                 style="fill:#ffffff;fill-opacity:0.84693879" />
+            </g>
           </g>
         </g>
       </g>

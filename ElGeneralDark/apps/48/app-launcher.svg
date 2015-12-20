@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="chrome-app-list.svg">
+   sodipodi:docname="app-launcher.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -241,7 +241,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.02"
-     inkscape:cx="-45.302351"
+     inkscape:cx="-11.059702"
      inkscape:cy="28.518648"
      inkscape:document-units="px"
      inkscape:current-layer="g4471"
@@ -251,7 +251,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1362"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
@@ -369,7 +369,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -391,7 +391,7 @@
          transform="matrix(0.91481089,0,0,0.91481089,316.76339,370.75826)" />
       <g
          id="g4364"
-         transform="matrix(1.0320907,0,0,1.0320907,-11.164043,-16.814579)">
+         transform="matrix(1.0320907,0,0,1.0320907,-11.237228,-17.005775)">
         <g
            style="stroke:none"
            transform="matrix(0.98381885,0,0,0.98381885,5.5651187,8.3948576)"

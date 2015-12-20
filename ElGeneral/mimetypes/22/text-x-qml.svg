@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="text-x-install.svg">
+   sodipodi:docname="text-x-qml.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -41,7 +41,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="1.9143558"
+     inkscape:cx="-15.451716"
      inkscape:cy="12.111369"
      inkscape:document-units="px"
      inkscape:current-layer="g4447"
@@ -49,9 +49,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -167,37 +167,15 @@
                             <g
                                id="g4403"
                                transform="translate(50.777056,-5.4014337)">
-                              <rect
+                              <path
                                  style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                                 id="rect4195"
-                                 width="46.302639"
-                                 height="34.938858"
-                                 x="334.23404"
-                                 y="513.12695"
-                                 ry="1.6441816" />
+                                 d="M 0.56835938 1.9628906 C 0.25360354 1.9628906 0 2.2164942 0 2.53125 L 0 13.46875 C 0 13.783506 0.25360354 14.037109 0.56835938 14.037109 L 15.431641 14.037109 C 15.746396 14.037109 16 13.783506 16 13.46875 L 16 2.53125 C 16 2.2164942 15.746396 1.9628906 15.431641 1.9628906 L 0.56835938 1.9628906 z M 14.71875 2.6171875 A 0.64779112 0.64779112 0 0 1 15.367188 3.265625 A 0.64779112 0.64779112 0 0 1 14.71875 3.9140625 A 0.64779112 0.64779112 0 0 1 14.070312 3.265625 A 0.64779112 0.64779112 0 0 1 14.71875 2.6171875 z M 13.126953 2.6308594 A 0.64779112 0.64779112 0 0 1 13.775391 3.2792969 A 0.64779112 0.64779112 0 0 1 13.126953 3.9277344 A 0.64779112 0.64779112 0 0 1 12.478516 3.2792969 A 0.64779112 0.64779112 0 0 1 13.126953 2.6308594 z M 11.5625 2.6464844 A 0.64779112 0.64779112 0 0 1 12.210938 3.2949219 A 0.64779112 0.64779112 0 0 1 11.5625 3.9433594 A 0.64779112 0.64779112 0 0 1 10.916016 3.2949219 A 0.64779112 0.64779112 0 0 1 11.5625 2.6464844 z "
+                                 transform="matrix(2.8939149,0,0,2.8939149,334.23404,507.44506)"
+                                 id="rect4195" />
                               <g
                                  id="g4247"
                                  style="fill:#ffffff;fill-opacity:1"
-                                 transform="matrix(0.83317883,0,0,0.83317883,65.74755,84.6955)">
-                                <circle
-                                   r="2.25"
-                                   cy="518.737"
-                                   cx="373.36642"
-                                   id="path4224"
-                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                                <circle
-                                   r="2.25"
-                                   cy="518.78473"
-                                   cx="367.8389"
-                                   id="path4224-4"
-                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                                <circle
-                                   r="2.25"
-                                   cy="518.83801"
-                                   cx="362.40543"
-                                   id="path4224-8"
-                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                              </g>
+                                 transform="matrix(0.83317883,0,0,0.83317883,65.74755,84.6955)" />
                             </g>
                           </g>
                           <g

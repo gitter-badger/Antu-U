@@ -564,17 +564,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.606046"
-     inkscape:cx="12.906384"
-     inkscape:cy="12.750799"
+     inkscape:cx="-2.5227204"
+     inkscape:cy="12.790463"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -763,14 +763,11 @@
                                    style="stroke:none"
                                    id="g4162"
                                    transform="matrix(0.76761933,0,0,0.76761933,156.46876,138.50552)">
-                                <rect
+                                <path
                                    style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
-                                   id="rect4319"
-                                   width="36"
-                                   height="39.999969"
-                                   x="390.57144"
-                                   y="503.798"
-                                   ry="1.9999958" />
+                                   d="M 4.5996094 3 C 4.15641 3 3.8007812 3.3575818 3.8007812 3.8007812 L 3.8007812 18.199219 C 3.8007812 18.642418 4.15641 19 4.5996094 19 L 17.400391 19 C 17.84359 19 18.199219 18.642418 18.199219 18.199219 L 18.199219 3.8007812 C 18.199219 3.3575818 17.84359 3 17.400391 3 L 4.5996094 3 z M 11 7 C 11.960409 7 12.757164 7.2818017 13.390625 7.84375 C 14.024086 8.4056983 14.341797 9.1970299 14.341797 10.21875 L 14.341797 14.753906 L 12.992188 14.753906 L 12.992188 13.712891 L 12.931641 13.712891 C 12.369699 14.571092 11.545905 15 10.462891 15 C 9.6659557 15 8.9965851 14.770319 8.4550781 14.310547 C 7.9237882 13.850775 7.6582031 13.242353 7.6582031 12.486328 C 7.6582031 11.668916 7.9759139 11.030084 8.609375 10.570312 C 9.242836 10.100355 10.023368 9.8652344 10.953125 9.8652344 C 11.780711 9.8652344 12.460898 10.019687 12.992188 10.326172 L 12.992188 10.111328 C 12.992188 9.559611 12.803815 9.1199156 12.425781 8.7929688 C 12.047748 8.4557907 11.582974 8.2871094 11.03125 8.2871094 C 10.622565 8.2871094 10.249274 8.3840031 9.9121094 8.578125 C 9.5851617 8.7722469 9.3608866 9.037822 9.2382812 9.375 L 7.9492188 8.8242188 C 8.1229097 8.3746781 8.4657068 7.9600889 8.9765625 7.5820312 C 9.4874182 7.1937875 10.162197 7 11 7 z M 11.199219 11.03125 C 10.514672 11.03125 9.9977725 11.178311 9.6503906 11.474609 C 9.3030088 11.770908 9.1308594 12.119103 9.1308594 12.517578 C 9.1308594 12.885405 9.2887382 13.176086 9.6054688 13.390625 C 9.9221992 13.605209 10.284675 13.712891 10.693359 13.712891 C 11.275735 13.712891 11.801497 13.497483 12.271484 13.068359 C 12.751689 12.629005 12.992187 12.114081 12.992188 11.521484 C 12.59372 11.194538 11.996154 11.03125 11.199219 11.03125 z "
+                                   transform="matrix(2.4999981,0,0,2.4999981,381.07146,496.29801)"
+                                   id="rect4319" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:1;stroke:none"
                                    id="layer1-7-4-3"
@@ -940,18 +937,9 @@
                                    id="layer1-71"
                                    transform="matrix(1.3521374,0,0,1.3521374,414.31352,-877.98607)"
                                    style="fill:#ffffff;fill-opacity:1">
-                                <text
-                                   sodipodi:linespacing="125%"
-                                   id="text12798"
-                                   y="1050.0892"
-                                   x="2.3888192"
+                                <g
                                    style="font-style:normal;font-weight:normal;font-size:22.66880608px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                                   xml:space="preserve"><tspan
-                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
-                                   y="1050.0892"
-                                   x="2.3888192"
-                                   id="tspan12800"
-                                   sodipodi:role="line">a</tspan></text>
+                                   id="text12798" />
                                 </g>
                                 </g>
                                 </g>

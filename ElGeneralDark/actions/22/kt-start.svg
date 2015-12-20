@@ -14,7 +14,7 @@
    id="svg3869"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="kt-start.svg">
+   sodipodi:docname="kt-start-all.svg">
   <defs
      id="defs3871">
     <linearGradient
@@ -78,14 +78,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#696969"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-20.87705"
-     inkscape:cy="9.4935729"
+     inkscape:cx="17.608946"
+     inkscape:cy="9.5377671"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-4"
      showgrid="true"
@@ -158,40 +158,27 @@
        transform="matrix(1.375,0,0,1.375,322.875,-887.51083)"
        id="layer1-4"
        inkscape:label="Capa 1">
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path3357"
-         d="m 9.3636364,1044.3622 3.9999986,-3 -3.9999986,-3 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <g
          transform="matrix(0.6517009,0,0,0.6517009,3.0368427,363.39251)"
          id="layer1-3"
-         inkscape:label="Capa 1">
+         inkscape:label="Capa 1"
+         style="fill:#ffffff;fill-opacity:1">
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            transform="matrix(1.1159609,0,0,1.1159609,-1.1724939,-120.69549)"
            id="g4151">
           <path
              style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-             d="m 11,3 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z"
-             transform="translate(0,1030.3622)"
+             d="m 11,3 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z m -2.2089844,4.7675781 5.0996094,3.4101559 -5.0996094,3.408204 0,-6.8183599 z"
+             transform="translate(-1.3392253e-7,1030.3622)"
              id="rect3356-7"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="sssss" />
+             inkscape:connector-curvature="0" />
         </g>
         <g
            style="fill:#ffffff;fill-opacity:1"
            transform="matrix(1.4226132,0,0,1.2679986,-23.052987,-280.9677)"
            inkscape:label="Capa 1"
-           id="layer1-2">
-          <path
-             style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-             d="m 22.276239,1046.0527 4,-3 -4,-3 z"
-             id="path3357-1"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cccc" />
-        </g>
+           id="layer1-2" />
       </g>
     </g>
   </g>

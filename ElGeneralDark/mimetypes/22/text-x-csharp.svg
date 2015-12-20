@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -21,18 +20,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4161">
-      <stop
-         style="stop-color:#11394f;stop-opacity:1;"
-         offset="0"
-         id="stop4163" />
-      <stop
-         style="stop-color:#11394f;stop-opacity:0;"
-         offset="1"
-         id="stop4165" />
-    </linearGradient>
-    <linearGradient
        osb:paint="gradient"
        id="linearGradient4207">
       <stop
@@ -44,15 +31,6 @@
          offset="1"
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4161"
-       id="linearGradient4167"
-       x1="2.0562902"
-       y1="1044.3936"
-       x2="13.909702"
-       y2="1044.3936"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -201,7 +179,7 @@
                      transform="matrix(2.2859592,0,0,2.3262477,529.24067,-1893.5301)"
                      id="layer1-2"
                      inkscape:label="Capa 1"
-                     style="fill-opacity:1;fill:#ffffff">
+                     style="fill:#ffffff;fill-opacity:1">
                     <text
                        xml:space="preserve"
                        style="font-style:normal;font-weight:normal;font-size:17.32747078px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

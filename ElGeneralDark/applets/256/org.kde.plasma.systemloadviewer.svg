@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="org.kde.plasma.systemloadviewer.svg">
+   sodipodi:docname="org.kde.plasma.systemmonitor.memory.svg">
   <metadata
      id="metadata77">
     <rdf:RDF>
@@ -42,7 +42,7 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="-99.633561"
+     inkscape:cx="-41.977689"
      inkscape:cy="6.6573779"
      inkscape:window-x="0"
      inkscape:window-y="33"
@@ -50,46 +50,6 @@
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient3764"
-       x1="1"
-       x2="47"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-      <stop
-         stop-color="#436769"
-         stop-opacity="1"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#4b7376"
-         stop-opacity="1"
-         id="stop9" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-475650238">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g12">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path14" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-483987597">
-      <g
-         transform="translate(0,-1004.3622)"
-         id="g17">
-        <path
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           fill="#1890d0"
-           id="path19" />
-      </g>
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5002">
@@ -231,17 +191,6 @@
        x2="-328.20999"
        y2="307.75275" />
     <linearGradient
-       id="linearGradient4422-3">
-      <stop
-         id="stop4424-5"
-         offset="0"
-         style="stop-color:#197ff1;stop-opacity:1" />
-      <stop
-         id="stop4426-5"
-         offset="1"
-         style="stop-color:#21c6fb;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4422"
        id="linearGradient4451"
@@ -255,7 +204,7 @@
      id="g33" />
   <g
      id="g4207"
-     transform="matrix(0.95833233,0,0,0.95833233,1.0000253,1.000027)">
+     transform="matrix(1.0006498,0,0,0.99999895,-0.01559394,2.8200169e-5)">
     <g
        inkscape:label="Capa 1"
        id="layer1"
@@ -431,7 +380,7 @@
              id="path1074-2"
              sketch:type="MSShapeGroup"
              inkscape:connector-curvature="0"
-             style="fill:#000000;fill-opacity:0.69758061" />
+             style="fill:#000000;fill-opacity:0.8508065" />
         </g>
       </g>
     </g>

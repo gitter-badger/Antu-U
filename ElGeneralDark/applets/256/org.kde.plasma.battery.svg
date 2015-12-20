@@ -16,7 +16,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-system-power-management.svg">
+   sodipodi:docname="org.kde.plasma.battery.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -54,13 +54,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#555555"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.33333333"
      inkscape:pageshadow="2"
      inkscape:zoom="5.590563"
-     inkscape:cx="-15.483964"
+     inkscape:cx="-48.48483"
      inkscape:cy="15.185549"
      inkscape:document-units="px"
      inkscape:current-layer="g4227"
@@ -70,13 +70,14 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false">
+     showguides="false"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -149,7 +150,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,7 +171,7 @@
            id="g4227">
           <g
              id="g4164"
-             transform="matrix(1.6428556,0,0,1.6428556,-192.54839,-355.93981)">
+             transform="matrix(1.714285,0,0,1.714285,-214.83185,-394.60033)">
             <rect
                ry="14.000006"
                y="517.79797"

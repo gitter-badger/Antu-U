@@ -16,7 +16,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-activities.svg">
+   sodipodi:docname="org.kde.plasma.showActivityManager.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -364,13 +364,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#616161"
+     pagecolor="#555555"
      bordercolor="#ffffff"
      borderopacity="1"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.33333333"
      inkscape:pageshadow="2"
      inkscape:zoom="5.7452425"
-     inkscape:cx="-22.492322"
+     inkscape:cx="-22.739254"
      inkscape:cy="22.188573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -380,13 +380,14 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false">
+     showguides="false"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -470,25 +471,25 @@
      transform="translate(-384.57143,-499.798)">
     <g
        id="g5025"
-       transform="matrix(1.0476686,0,0,1.0476686,36.927828,-46.744453)">
+       transform="matrix(1.0932194,0,0,1.0932194,20.769413,-71.550642)">
       <circle
          r="6"
          cy="544.58289"
          cx="338.78043"
          id="path4325"
-         style="opacity:1;fill:url(#linearGradient4333);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient4333);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          r="6"
          cy="544.58301"
          cx="354.80768"
          id="path4325-6"
-         style="opacity:1;fill:url(#linearGradient4333-7);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient4333-7);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          r="6"
          cy="544.58301"
          cx="370.68744"
          id="path4325-3"
-         style="opacity:1;fill:url(#linearGradient4333-3);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient4333-3);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>

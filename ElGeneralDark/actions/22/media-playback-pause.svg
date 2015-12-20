@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="-1.8750029"
-     inkscape:cy="13.064629"
+     inkscape:cx="-14.031254"
+     inkscape:cy="13.095879"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-5"
      showgrid="true"
@@ -102,32 +102,17 @@
       <g
          transform="matrix(0.97755135,0,0,0.97755135,388.62669,-485.15654)"
          id="layer1-58"
-         inkscape:label="Capa 1">
+         inkscape:label="Capa 1"
+         style="fill:#ffffff;fill-opacity:1">
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            transform="matrix(1.1159609,0,0,1.1159609,-1.1724939,-120.69549)"
            id="g4151">
           <path
              style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-             d="m 11,3 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z"
-             transform="translate(0,1030.3622)"
-             id="rect3356"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="sssss" />
-          <rect
-             style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-             id="rect3285"
-             width="2"
-             height="6.0000172"
-             x="8"
-             y="1038.3622" />
-          <rect
-             style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-             id="rect3287"
-             width="2"
-             height="5.9999995"
-             x="12"
-             y="1038.3622" />
+             d="M 11 3 C 6.568 3 3 6.568 3 11 C 3 15.432 6.568 19 11 19 C 15.432 19 19 15.432 19 11 C 19 6.568 15.432 3 11 3 z M 8 8 L 10 8 L 10 14 L 8 14 L 8 8 z M 12 8 L 14 8 L 14 14 L 12 14 L 12 8 z "
+             transform="translate(3.7869757e-6,1030.3622)"
+             id="rect3356" />
         </g>
       </g>
     </g>

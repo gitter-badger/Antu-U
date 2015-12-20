@@ -71,19 +71,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-3.7692921"
-     inkscape:cy="-7.7821829"
+     inkscape:cx="2.7009363"
+     inkscape:cy="2.8244193"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-63"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      showguides="true">
@@ -187,7 +187,7 @@
       <g
          inkscape:label="Capa 1"
          id="layer1-7"
-         transform="translate(-47.614944,3.7479639)">
+         transform="matrix(1.8464232,0,0,1.8464232,-426.91405,-443.02671)">
         <g
            id="g4471"
            transform="matrix(1.0931221,0,0,1.0931221,33.310366,-50.486049)">
@@ -276,10 +276,10 @@
                                    style="fill:#424448;fill-opacity:1"
                                    id="g6567">
                                 <path
-                                   inkscape:connector-curvature="0"
-                                   d="m 12.2,15.267 c 0,-3.322 0.896,-6.43 2.448,-9.113 C 15.024,5.505 14.457,4.703 13.73,4.889 5.35,7.041 -0.711,14.961 0.067,24.179 0.803,32.88 7.835,39.982 16.53,40.796 c 6.033,0.565 11.517,-1.811 15.221,-5.848 0.5,-0.546 0.073,-1.432 -0.666,-1.401 C 30.889,33.556 30.69,33.56 30.491,33.56 20.389,33.56 12.2,25.371 12.2,15.267 Z m 34.924912,7.772636 A 31.088175,31.088175 0 0 1 16.036732,54.127815 31.088175,31.088175 0 0 1 -15.051447,23.039636 31.088175,31.088175 0 0 1 16.036732,-8.0485437 31.088175,31.088175 0 0 1 47.124912,23.039636 Z"
                                    style="fill:#4d4d4d;fill-opacity:1"
-                                   id="path6569" />
+                                   d="m 12.2,15.267 c 0,-3.322 0.896,-6.43 2.448,-9.113 C 15.024,5.505 14.457,4.703 13.73,4.889 5.35,7.041 -0.711,14.961 0.067,24.179 0.803,32.88 7.835,39.982 16.53,40.796 c 6.033,0.565 11.517,-1.811 15.221,-5.848 0.5,-0.546 0.073,-1.432 -0.666,-1.401 C 30.889,33.556 30.69,33.56 30.491,33.56 20.389,33.56 12.2,25.371 12.2,15.267 Z"
+                                   id="path4204"
+                                   inkscape:connector-curvature="0" />
                                 </g>
                                 </g>
                                 <g

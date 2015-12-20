@@ -243,14 +243,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#747474"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10"
-     inkscape:cx="34.591642"
-     inkscape:cy="38.950377"
+     inkscape:zoom="2.5"
+     inkscape:cx="-90.932927"
+     inkscape:cy="41.76853"
      inkscape:document-units="px"
      inkscape:current-layer="g4206"
      showgrid="true"
@@ -260,9 +260,9 @@
      fit-margin-bottom="0"
      inkscape:snap-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -414,16 +414,16 @@
          id="g4198"
          style="fill:url(#linearGradient4840);fill-opacity:1;stroke:url(#linearGradient4376);stroke-width:9.51243782;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:0.8508065;stroke:none;stroke-opacity:1"
          id="correct8"
          sketch:type="MSLayerGroup"
-         transform="matrix(3.5846583,0,0,3.5846583,282.40711,342.8404)">
+         transform="matrix(3.0130542,0,0,3.0130542,299.81037,362.61042)">
         <path
            inkscape:connector-curvature="0"
            d="m 123.861,12.966 -11.08,-11.08 c -1.52,-1.521 -3.368,-2.281 -5.54,-2.281 -2.173,0 -4.021,0.76 -5.541,2.281 L 48.254,55.414 24.301,31.379 c -1.521,-1.521 -3.368,-2.281 -5.54,-2.281 -2.173,0 -4.02,0.76 -5.541,2.281 L 2.14,42.459 C 0.619,43.98 -0.141,45.827 -0.141,48 c 0,2.172 0.76,4.02 2.281,5.54 l 29.493,29.493 11.081,11.08 c 1.52,1.521 3.367,2.281 5.54,2.281 2.172,0 4.019,-0.761 5.54,-2.281 l 11.081,-11.08 58.986,-58.986 c 1.52,-1.521 2.281,-3.368 2.281,-5.541 0.001,-2.172 -0.761,-4.019 -2.281,-5.54 l 0,0 z"
            id="path325"
            sketch:type="MSShapeGroup"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+           style="fill:#ffffff;fill-opacity:0.8508065;stroke:none;stroke-opacity:1" />
       </g>
     </g>
   </g>

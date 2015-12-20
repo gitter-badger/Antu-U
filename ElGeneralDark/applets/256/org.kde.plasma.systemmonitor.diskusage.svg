@@ -17,7 +17,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="org.kde.plasma.systemmonitor.diskusage.svg">
+   sodipodi:docname="org.kde.plasma.systemmonitor.diskactivity.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -304,7 +304,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2935952"
-     inkscape:cx="-57.702156"
+     inkscape:cx="-54.656797"
      inkscape:cy="-1.0037896"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -424,7 +424,7 @@
      id="layer1"
      transform="translate(-384.57143,-499.798)">
     <g
-       transform="matrix(0.69216099,0,0,0.69216099,125.77422,161.24548)"
+       transform="matrix(0.88442793,0,0,0.88442793,47.219439,60.536443)"
        id="layer1-1"
        inkscape:label="Capa 1">
       <g

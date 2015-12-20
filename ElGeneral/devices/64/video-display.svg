@@ -11,8 +11,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="48"
+   height="48"
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -175,18 +175,18 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="-37.571253"
-     inkscape:cy="23.615768"
+     inkscape:zoom="2.8284273"
+     inkscape:cx="-29.29297"
+     inkscape:cy="16.16552"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -238,7 +238,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -246,10 +246,10 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-376.57144,-491.79797)">
+     transform="translate(-376.57144,-507.79797)">
     <g
        id="g5435"
-       transform="matrix(1.076862,0,0,1.076862,-31.403618,-42.326682)">
+       transform="matrix(0.91617914,0,0,0.91617914,26.24681,50.147028)">
       <g
          transform="translate(-42.164655,4.3486241)"
          inkscape:label="Capa 1"
@@ -308,7 +308,7 @@
                y="503.66168"
                ry="0.95795429" />
             <rect
-               style="opacity:1;fill:url(#linearGradient4657);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               style="opacity:1;fill:url(#linearGradient4657);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                id="rect4640"
                width="48.104374"
                height="31.696569"

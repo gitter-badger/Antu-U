@@ -176,7 +176,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9999998"
-     inkscape:cx="9.7499957"
+     inkscape:cx="-38.875007"
      inkscape:cy="9.5717201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -192,7 +192,7 @@
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true"
+     showguides="false"
      inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
@@ -250,7 +250,7 @@
     <g
        id="layer1-4"
        inkscape:label="Capa 1"
-       transform="matrix(1.626036,0,0,1.626036,-242.77204,-340.9246)">
+       transform="matrix(1.6967332,0,0,1.6967332,-271.09131,-378.52122)">
       <g
          transform="matrix(0.96552004,0,0,0.96552004,13.642627,18.164012)"
          inkscape:label="Capa 1"
@@ -309,7 +309,7 @@
                  id="Music-0"
                  sketch:type="MSShapeGroup"
                  inkscape:connector-curvature="0"
-                 style="opacity:1;fill:#ffffff;fill-opacity:0.85080647" />
+                 style="opacity:1;fill:#ffffff;fill-opacity:0.8508065" />
             </g>
           </g>
         </g>

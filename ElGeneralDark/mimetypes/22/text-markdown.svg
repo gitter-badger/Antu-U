@@ -62,8 +62,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="-6.3504896"
-     inkscape:cy="10.759503"
+     inkscape:cx="-18.630156"
+     inkscape:cy="10.79107"
      inkscape:document-units="px"
      inkscape:current-layer="g4174"
      showgrid="false"
@@ -200,11 +200,13 @@
                   <g
                      transform="matrix(1.839192,0,0,1.8716066,532.76252,-1419.1338)"
                      id="layer1-6"
-                     inkscape:label="Capa 1">
+                     inkscape:label="Capa 1"
+                     style="fill:#ffffff;fill-opacity:1">
                     <g
                        inkscape:label="Capa 1"
                        id="layer1-4-7"
-                       transform="translate(-415.41667,512.10866)">
+                       transform="translate(-415.41667,512.10866)"
+                       style="fill:#ffffff;fill-opacity:1">
                       <g
                          transform="translate(392.57143,-514.5642)"
                          id="layer1-7-6"
@@ -212,92 +214,100 @@
                          style="fill:#ffffff;fill-opacity:1" />
                       <g
                          id="g4240-4"
-                         transform="translate(341.79698,500.25245)">
+                         transform="translate(341.79698,500.25245)"
+                         style="fill:#ffffff;fill-opacity:1">
                         <g
                            inkscape:transform-center-y="-9.4924686"
                            inkscape:transform-center-x="5.4653607"
                            inkscape:label="Capa 1"
                            id="layer1-1-5"
-                           transform="translate(-392.98822,-511.27795)">
+                           transform="translate(-392.98822,-511.27795)"
+                           style="fill:#ffffff;fill-opacity:1">
                           <g
                              id="layer1-3-7"
                              inkscape:label="Capa 1"
-                             transform="translate(0.41988239,0.03484499)">
+                             transform="translate(0.41988239,0.03484499)"
+                             style="fill:#ffffff;fill-opacity:1">
                             <g
                                transform="matrix(0.88048853,0,0,0.88048853,415.03106,515.55422)"
-                               id="g5046">
+                               id="g5046"
+                               style="fill:#ffffff;fill-opacity:1">
                               <g
                                  transform="translate(-3.9698942,4.8847507)"
-                                 id="g5686">
+                                 id="g5686"
+                                 style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    transform="translate(-392.98822,-511.27795)"
                                    id="layer1-31"
                                    inkscape:label="Capa 1"
                                    inkscape:transform-center-x="5.4653607"
-                                   inkscape:transform-center-y="-9.4924686" />
+                                   inkscape:transform-center-y="-9.4924686"
+                                   style="fill:#ffffff;fill-opacity:1" />
                               </g>
                               <g
                                  transform="translate(-2.1496533,3.4906341)"
-                                 id="g6289">
+                                 id="g6289"
+                                 style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    transform="translate(-392.98822,-511.27795)"
                                    id="layer1-77"
                                    inkscape:label="Capa 1"
                                    inkscape:transform-center-x="5.4653607"
-                                   inkscape:transform-center-y="-9.4924686" />
+                                   inkscape:transform-center-y="-9.4924686"
+                                   style="fill:#ffffff;fill-opacity:1" />
                               </g>
                               <g
                                  transform="translate(-36.24446,-2.6744666)"
-                                 id="g5173">
+                                 id="g5173"
+                                 style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    transform="translate(-392.98822,-511.27795)"
                                    id="layer1-10"
                                    inkscape:label="Capa 1"
                                    inkscape:transform-center-x="5.4653607"
-                                   inkscape:transform-center-y="-9.4924686">
+                                   inkscape:transform-center-y="-9.4924686"
+                                   style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    transform="translate(0.41988239,0.03484499)"
                                    inkscape:label="Capa 1"
-                                   id="layer1-3-5">
+                                   id="layer1-3-5"
+                                   style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    transform="matrix(0.6049833,0,0,0.6049833,215.58501,226.86152)"
                                    id="layer1-5-9"
-                                   inkscape:label="Capa 1">
+                                   inkscape:label="Capa 1"
+                                   style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    id="g4414-3"
-                                   transform="matrix(1.5263052,0,0,1.5263052,376.49864,-1040.1735)">
+                                   transform="matrix(1.5263052,0,0,1.5263052,376.49864,-1040.1735)"
+                                   style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    transform="matrix(0.42549858,0,0,0.42549858,-116.82388,804.06163)"
                                    id="layer1-0"
-                                   inkscape:label="Capa 1">
+                                   inkscape:label="Capa 1"
+                                   style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    inkscape:transform-center-y="-9.4924686"
                                    inkscape:transform-center-x="5.4653607"
                                    inkscape:label="Capa 1"
                                    id="layer1-2-5"
-                                   transform="matrix(2.5451719,0,0,2.5451719,-783.24894,-860.81722)">
+                                   transform="matrix(2.5451719,0,0,2.5451719,-783.24894,-860.81722)"
+                                   style="fill:#ffffff;fill-opacity:1">
                                 <g
                                    id="layer1-3-0"
                                    inkscape:label="Capa 1"
-                                   transform="translate(0.41988239,0.03484499)" />
+                                   transform="translate(0.41988239,0.03484499)"
+                                   style="fill:#ffffff;fill-opacity:1" />
                                 </g>
                                 <g
-                                   style="fill:#5c5e62;fill-opacity:1;stroke:#5c5e62;stroke-opacity:1"
+                                   style="fill:#ffffff;fill-opacity:1;stroke:#5c5e62;stroke-opacity:1"
                                    transform="matrix(0.21482956,0,0,0.21482956,386.21156,509.60344)"
                                    id="g4188">
-                                <rect
-                                   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-opacity:1"
-                                   width="198"
-                                   height="118"
-                                   x="5"
-                                   y="5"
-                                   ry="10"
-                                   id="rect4178" />
                                 <path
-                                   style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-opacity:1"
-                                   inkscape:connector-curvature="0"
-                                   d="m 30,98 0,-68 20,0 20,25 20,-25 20,0 0,68 -20,0 0,-39 -20,25 -20,-25 0,39 z m 125,0 -30,-33 20,0 0,-35 20,0 0,35 20,0 z"
-                                   id="path4180" />
+                                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76923078;stroke-opacity:1"
+                                   d="M 10.509354,2.0104384 C 4.6894405,2.0104384 -8.2563428e-6,6.6998871 -8.2563428e-6,12.519801 l 0,102.959739 C -8.1563428e-6,121.29945 4.6894405,125.9889 10.509354,125.9889 l 186.981286,0 C 203.31055,125.9889 208,121.29945 208,115.47954 L 208,12.519801 C 208,6.6998871 203.31055,2.0104384 197.49064,2.0104384 l -186.981286,0 z m 15.764043,26.2734046 20.992049,0 21.018723,26.273405 21.018724,-26.273405 20.992057,0 0,71.431646 -20.992057,0 0,-40.970501 -21.018724,26.273404 -21.018723,-26.273404 0,40.970501 -20.992049,0 0,-71.431646 z m 120.804313,0 20.99205,0 0,36.756093 21.01873,0 -31.50142,34.675553 -31.52808,-34.675553 21.01872,0 0,-36.756093 z"
+                                   id="rect4178"
+                                   inkscape:connector-curvature="0" />
                                 </g>
                                 </g>
                                 </g>

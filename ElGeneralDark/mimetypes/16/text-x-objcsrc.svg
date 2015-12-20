@@ -110,18 +110,14 @@
            id="layer1-0"
            inkscape:label="Capa 1"
            style="fill:#ffffff;fill-opacity:1">
-          <text
-             xml:space="preserve"
+          <g
              style="font-style:normal;font-weight:normal;font-size:24.9093895px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="1.487161"
-             y="1050.6266"
-             id="text6701-0"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan6703-9"
-               x="1.487161"
-               y="1050.6266"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1">c</tspan></text>
+             id="text6701-0">
+            <path
+               d="m 8.4617901,1051.0251 q -2.7400328,0 -4.5085995,-1.8433 -1.7685667,-1.8682 -1.7685667,-4.658 0,-2.7899 1.7685667,-4.6332 1.7685667,-1.8682 4.5085995,-1.8682 2.0425699,0 3.3876769,0.9964 1.345107,0.9964 1.967842,2.5159 l -2.092389,0.8718 q -0.946557,-2.2917 -3.4125862,-2.2917 -1.5194728,0 -2.6902141,1.2455 -1.1458319,1.2455 -1.1458319,3.1635 0,1.918 1.1458319,3.1635 1.1707413,1.2454 2.6902141,1.2454 2.5656672,0 3.5371332,-2.2916 l 2.04257,0.8718 q -0.622735,1.4946 -2.017661,2.5159 -1.370016,0.9963 -3.4125859,0.9963 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
+               id="path4148" />
+          </g>
         </g>
       </g>
     </g>

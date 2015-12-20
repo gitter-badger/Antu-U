@@ -151,16 +151,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="499.79797"
-       x2="408.57144"
-       y1="547.79797"
-       x1="410.57144"
-       id="linearGradient5226"
-       xlink:href="#linearGradient4667"
-       inkscape:collect="always"
-       gradientTransform="matrix(0.97872341,0,0,0.97872341,8.6930089,11.144636)" />
-    <linearGradient
        y2="72"
        x2="88"
        y1="72"
@@ -169,6 +159,16 @@
        gradientUnits="userSpaceOnUse"
        id="linearGradient5228"
        xlink:href="#linearGradient3773"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.46034,0,0,0.46167661,457.8468,427.44743)"
+       gradientUnits="userSpaceOnUse"
+       y2="154.5808"
+       x2="-111.09196"
+       y1="260.25372"
+       x1="-112.5251"
+       id="linearGradient4212"
+       xlink:href="#linearGradient4667"
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
@@ -179,7 +179,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.4872669"
-     inkscape:cx="-10.920528"
+     inkscape:cx="-40.902337"
      inkscape:cy="24.249816"
      inkscape:document-units="px"
      inkscape:current-layer="g5342"
@@ -308,13 +308,13 @@
         <g
            id="g5342">
           <rect
-             style="opacity:1;fill:url(#linearGradient5226);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect5218"
-             width="50.893616"
-             height="50.893616"
-             x="383.12463"
-             y="498.35117"
-             ry="3" />
+             style="opacity:1;fill:url(#linearGradient4212);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect4204"
+             width="50.965767"
+             height="50.807781"
+             x="383.08856"
+             y="498.39407"
+             ry="3.9841568" />
           <g
              id="g4528"
              transform="matrix(0.8,0,0,0.8,389.37144,504.59797)">

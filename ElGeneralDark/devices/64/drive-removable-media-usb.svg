@@ -11,12 +11,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="48"
+   height="48"
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="drive-removable-media-usb-pendrive.svg">
+   sodipodi:docname="drive-removable-media-pendrive.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -146,7 +146,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2578125"
-     inkscape:cx="-53.620594"
+     inkscape:cx="57.899281"
      inkscape:cy="38.106416"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -156,9 +156,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="646"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -202,9 +202,9 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-376.57144,-491.79797)">
+     transform="translate(-376.57144,-507.79797)">
     <g
-       transform="matrix(0.03864044,-0.03102609,0.03850751,0.0311332,389.78307,518.32887)"
+       transform="matrix(0.03417469,-0.02744034,0.03405712,0.02753507,383.95448,526.96094)"
        style="fill:#a1a7ae;fill-opacity:1;stroke:#909296;stroke-width:2.0422039;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g3462">
       <path

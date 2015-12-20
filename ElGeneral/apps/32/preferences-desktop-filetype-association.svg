@@ -74,17 +74,6 @@
        id="linearGradient4781-4"
        xlink:href="#linearGradient4303"
        inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient4422-4">
-      <stop
-         id="stop4424-3"
-         offset="0"
-         style="stop-color:#d1d7df;stop-opacity:1" />
-      <stop
-         id="stop4426-4"
-         offset="1"
-         style="stop-color:#e0e5e7;stop-opacity:1" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -94,7 +83,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0000004"
-     inkscape:cx="7.1912632"
+     inkscape:cx="14.201685"
      inkscape:cy="28.708985"
      inkscape:document-units="px"
      inkscape:current-layer="g4309"
@@ -104,9 +93,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -229,7 +218,8 @@
        transform="matrix(1.6533087,0,0,1.6533087,-253.48232,-355.51363)"
        style="stroke:none">
       <g
-         id="g4205">
+         id="g4205"
+         transform="matrix(1.0473656,0,0,1.0473656,-18.967163,-25.191377)">
         <g
            style="stroke:none"
            id="layer1-2"

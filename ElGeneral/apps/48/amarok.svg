@@ -54,24 +54,13 @@
          id="stop3373" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5263-9">
-      <stop
-         offset="0"
-         style="stop-color:#cbcbcb;stop-opacity:1"
-         id="stop5265-9" />
-      <stop
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1"
-         id="stop5267-6" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5263-9"
+       xlink:href="#linearGradient4300"
        id="linearGradient4678"
-       x1="150.15802"
-       y1="578.95734"
-       x2="147.02087"
-       y2="472.49039"
+       x1="146.55745"
+       y1="579.31738"
+       x2="145.9407"
+       y2="480.41165"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.97044273,0,0,0.97044273,170.66539,9.5402197)" />
   </defs>
@@ -83,7 +72,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.0552877"
-     inkscape:cx="20.173745"
+     inkscape:cx="-12.088958"
      inkscape:cy="25.731083"
      inkscape:current-layer="g4367"
      showgrid="false"
@@ -91,7 +80,7 @@
      inkscape:document-units="px"
      inkscape:snap-global="true"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -114,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -142,7 +131,7 @@
                  transform="translate(0.21380876,0.85524921)">
                 <g
                    id="g4287"
-                   transform="matrix(1.0105477,0,0,1.0105477,-1.848415,-5.6181888)">
+                   transform="matrix(1.0108811,0,0,1.0108811,-2.6290087,-5.8628947)">
                   <g
                      transform="translate(-111.70538,1.9970068)"
                      id="g4365">
@@ -204,7 +193,7 @@
                       </g>
                     </g>
                     <path
-                       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4678);stroke-width:3.17371503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+                       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4678);stroke-width:3.17371511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
                        d="m 317.45707,471.13494 c -27.1591,0 -49.17585,22.01676 -49.17585,49.17582 0,27.1591 22.01675,49.17585 49.17585,49.17585 27.15904,0 49.17584,-22.01675 49.17584,-49.17585 0,-27.15906 -22.0168,-49.17582 -49.17584,-49.17582 z"
                        id="path4187-5"
                        inkscape:connector-curvature="0"

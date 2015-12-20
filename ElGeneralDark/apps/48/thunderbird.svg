@@ -54,26 +54,15 @@
          id="stop3373" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5263-9">
-      <stop
-         offset="0"
-         style="stop-color:#cbcbcb;stop-opacity:1"
-         id="stop5265-9" />
-      <stop
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1"
-         id="stop5267-6" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5263-9"
+       xlink:href="#linearGradient4760"
        id="linearGradient4678"
-       x1="150.15802"
-       y1="578.95734"
-       x2="147.02087"
-       y2="472.49039"
+       x1="150.92232"
+       y1="578.44781"
+       x2="150.58762"
+       y2="476.82144"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.97044273,0,0,0.97044273,170.66539,9.5402197)" />
+       gradientTransform="matrix(0.98067865,0,0,0.98067865,57.021491,5.9701703)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -82,16 +71,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.5578027"
-     inkscape:cx="-8.7581989"
-     inkscape:cy="21.07058"
+     inkscape:zoom="4.2789014"
+     inkscape:cx="33.945401"
+     inkscape:cy="23.180353"
      inkscape:current-layer="g4367"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:snap-global="true"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -115,7 +104,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -153,12 +142,6 @@
                        id="path4187"
                        d="m 317.88565,471.99077 c -27.15908,0 -49.17584,22.01676 -49.17584,49.17582 0,27.15909 22.01676,49.17585 49.17584,49.17585 27.15905,0 49.17584,-22.01676 49.17584,-49.17585 0,-27.15906 -22.01679,-49.17582 -49.17584,-49.17582 z"
                        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient4269);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.086766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
-                    <path
-                       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4678);stroke-width:3.20719051;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-                       d="m 317.45707,471.13494 c -27.1591,0 -49.17585,22.01676 -49.17585,49.17582 0,27.1591 22.01675,49.17585 49.17585,49.17585 27.15904,0 49.17584,-22.01675 49.17584,-49.17585 0,-27.15906 -22.0168,-49.17582 -49.17584,-49.17582 z"
-                       id="path4187-5"
-                       inkscape:connector-curvature="0"
-                       sodipodi:nodetypes="sssss" />
                   </g>
                   <g
                      transform="matrix(0.75147093,-0.23142834,0.23142834,0.75147093,71.740634,462.39806)"
@@ -201,6 +184,12 @@
                        sodipodi:nodetypes="ccc" />
                   </g>
                 </g>
+                <path
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4678);stroke-width:3.24101901;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+                   d="m 205.36149,472.43364 c -27.44557,0 -49.69455,22.24899 -49.69455,49.69451 0,27.44557 22.24898,49.69455 49.69455,49.69455 27.4455,0 49.69453,-22.24898 49.69453,-49.69455 0,-27.44552 -22.24903,-49.69451 -49.69453,-49.69451 z"
+                   id="path4187-5"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="sssss" />
               </g>
             </g>
           </g>

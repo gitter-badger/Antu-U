@@ -645,8 +645,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23"
-     inkscape:cx="-3.2975358"
-     inkscape:cy="5.2715877"
+     inkscape:cx="-11.771664"
+     inkscape:cy="5.2933268"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -654,7 +654,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -678,7 +678,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -750,14 +750,7 @@
              style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
              id="correct8"
              sketch:type="MSLayerGroup"
-             transform="matrix(2.6295796,0,0,2.6295796,865.65875,524.05093)">
-            <path
-               inkscape:connector-curvature="0"
-               d="m 123.861,12.966 -11.08,-11.08 c -1.52,-1.521 -3.368,-2.281 -5.54,-2.281 -2.173,0 -4.021,0.76 -5.541,2.281 L 48.254,55.414 24.301,31.379 c -1.521,-1.521 -3.368,-2.281 -5.54,-2.281 -2.173,0 -4.02,0.76 -5.541,2.281 L 2.14,42.459 C 0.619,43.98 -0.141,45.827 -0.141,48 c 0,2.172 0.76,4.02 2.281,5.54 l 29.493,29.493 11.081,11.08 c 1.52,1.521 3.367,2.281 5.54,2.281 2.172,0 4.019,-0.761 5.54,-2.281 l 11.081,-11.08 58.986,-58.986 c 1.52,-1.521 2.281,-3.368 2.281,-5.541 0.001,-2.172 -0.761,-4.019 -2.281,-5.54 l 0,0 z"
-               id="path325"
-               sketch:type="MSShapeGroup"
-               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
-          </g>
+             transform="matrix(2.6295796,0,0,2.6295796,865.65875,524.05093)" />
         </g>
       </g>
     </g>
@@ -771,25 +764,9 @@
          id="g4151">
         <path
            style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1"
-           d="m 11,3 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z"
-           transform="translate(0,1030.3622)"
-           id="rect3356"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssss" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
-           id="rect3285"
-           width="2"
-           height="6.0000172"
-           x="8"
-           y="1038.3622" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
-           id="rect3287"
-           width="2"
-           height="5.9999995"
-           x="12"
-           y="1038.3622" />
+           d="M 4 0 C 1.784 0 -5.9211895e-16 1.784 0 4 C 0 6.216 1.784 8 4 8 C 6.216 8 8 6.216 8 4 C 8 1.784 6.216 -5.9211895e-16 4 0 z M 2.5 2.5 L 3.5 2.5 L 3.5 5.5 L 2.5 5.5 L 2.5 2.5 z M 4.5 2.5 L 5.5 2.5 L 5.5 5.5 L 4.5 5.5 L 4.5 2.5 z "
+           transform="matrix(2,0,0,2,3,1033.3622)"
+           id="rect3356" />
       </g>
     </g>
   </g>

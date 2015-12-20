@@ -200,7 +200,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.656854"
-     inkscape:cx="-17.230777"
+     inkscape:cx="-17.407554"
      inkscape:cy="12.59314"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -209,11 +209,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="548"
-     inkscape:window-height="409"
-     inkscape:window-x="64"
-     inkscape:window-y="146"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="633"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
      showguides="true">
@@ -249,7 +249,7 @@
        orientation="-28,0"
        id="guide4171" />
     <sodipodi:guide
-       position="30.000012,30.000026"
+       position="-60,30.000026"
        orientation="0,-28"
        id="guide4173" />
     <sodipodi:guide
@@ -293,7 +293,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -305,7 +305,7 @@
     <g
        id="layer1-53"
        inkscape:label="Capa 1"
-       transform="matrix(0.95833333,0,0,0.95833333,16.938519,21.802877)">
+       transform="translate(-0.08899999,-0.02300002)">
       <g
          transform="matrix(1.1222273,0,0,1.1222273,-48.868971,-63.651074)"
          id="g4187">

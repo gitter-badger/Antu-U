@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-desktop-user.svg">
+   sodipodi:docname="org.kde.plasma.userswitcher.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -72,29 +72,30 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#555555"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.33333333"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="-0.17411624"
-     inkscape:cy="13.131094"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="-29.670359"
+     inkscape:cy="9.4403771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true">
+     showguides="false"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -171,7 +172,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -182,7 +183,7 @@
      transform="translate(-384.57143,-499.798)">
     <g
        id="g4195"
-       transform="matrix(1.6428571,0,0,1.6428571,-249.51019,-349.87012)">
+       transform="matrix(1.7142857,0,0,1.7142857,-278.12244,-387.85571)">
       <g
          transform="translate(-1.9489187e-7,-5.5697462e-6)"
          inkscape:label="Capa 1"

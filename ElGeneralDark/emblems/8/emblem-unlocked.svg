@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="130.10765"
-     inkscape:cx="2.3268663"
-     inkscape:cy="2.7629987"
+     inkscape:cx="0.83195036"
+     inkscape:cy="2.7668417"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -68,79 +68,70 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-7,-1037.3622)">
-    <rect
+    <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4153"
-       width="8"
-       height="8"
-       x="7"
-       y="1037.3622"
-       ry="1.0000348" />
+       d="M 1 0 C 0.44598072 0 0 0.44598072 0 1 L 0 7 C 0 7.5540193 0.44598072 8 1 8 L 7 8 C 7.5540193 8 8 7.5540193 8 7 L 8 1 C 8 0.44598072 7.5540193 0 7 0 L 1 0 z M 4 1.125 C 4.7910351 1.125 5.4879256 1.6573738 5.6953125 2.4199219 C 5.7396172 2.5828207 5.6433676 2.7506325 5.4804688 2.7949219 C 5.3175699 2.8391807 5.1497582 2.7429464 5.1054688 2.5800781 C 4.9702775 2.0830067 4.5159151 1.7363281 4 1.7363281 C 3.36815 1.7363281 2.8535156 2.2490094 2.8535156 2.8808594 L 2.8535156 3.5898438 L 5.6953125 3.5898438 C 5.8638507 3.5898437 6 3.7259778 6 3.8945312 L 6 6.5703125 C 6 6.7388507 5.8638507 6.875 5.6953125 6.875 L 2.3046875 6.875 C 2.1361493 6.875 2 6.7388507 2 6.5703125 L 2 3.8945312 C 2 3.7475265 2.1037105 3.6247709 2.2421875 3.5957031 L 2.2421875 2.8808594 C 2.2421875 1.9119483 3.0310736 1.125 4 1.125 z M 4 4.5292969 C 3.7631938 4.5292969 3.5703125 4.720225 3.5703125 4.9570312 C 3.5703125 5.0825638 3.6249567 5.1950217 3.7109375 5.2734375 L 3.5976562 5.8769531 C 3.5914209 5.9099944 3.6128623 5.9355469 3.6464844 5.9355469 L 4.3613281 5.9355469 C 4.3949502 5.9355469 4.4163916 5.9099944 4.4101562 5.8769531 L 4.2949219 5.2675781 C 4.3768527 5.1894833 4.4296875 5.0791557 4.4296875 4.9570312 C 4.4296875 4.720225 4.2368062 4.5292969 4 4.5292969 z "
+       transform="translate(7,1037.3622)"
+       id="rect4153" />
     <g
        transform="matrix(0.31565657,0,0,0.31565657,7.5340909,712.64015)"
        id="layer1-4"
        inkscape:label="Capa 1"
-       style="fill:#4d4d4d;fill-opacity:1">
+       style="fill:#ffffff;fill-opacity:1">
       <g
-         style="fill:#4d4d4d;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          inkscape:label="Capa 1"
          id="layer1-1"
          transform="matrix(1.4281444,0,0,1.4281444,-0.33206276,-449.65458)">
         <g
            id="g4207"
            transform="matrix(0.03390116,0,0,0.03390116,1.5421219,1037.6656)"
-           style="fill:#4d4d4d;fill-opacity:1">
-          <path
-             id="path4169"
-             d="m 299.022,161.265 -185.845,0 0,-46.285 c 0,-41.344 33.635,-74.979 74.979,-74.979 33.758,0 63.513,22.716 72.359,55.241 2.898,10.657 13.888,16.946 24.547,14.05 10.659,-2.898 16.949,-13.889 14.05,-24.548 C 285.542,34.848 239.916,0 188.156,0 124.756,0 73.177,51.58 73.177,114.979 l 0,46.715 c -9.061,1.902 -15.888,9.952 -15.888,19.571 l 0,175.047 c 0,11.028 8.972,20 20,20 l 221.733,0 c 11.028,0 20,-8.972 20,-20 l 0,-175.047 c 0,-11.029 -8.972,-20 -20,-20 z m -84.004,149.647 c 0.408,2.162 -1.058,3.931 -3.258,3.931 l -46.677,0 c -2.2,0 -3.666,-1.769 -3.258,-3.931 l 7.432,-39.387 c -5.626,-5.131 -9.157,-12.52 -9.157,-20.734 0,-15.495 12.561,-28.056 28.056,-28.056 15.495,0 28.056,12.561 28.056,28.056 0,7.991 -3.346,15.195 -8.707,20.305 z"
-             inkscape:connector-curvature="0"
-             style="fill:#4d4d4d;fill-opacity:1"
-             sodipodi:nodetypes="scssccssscssssssscssccssscc" />
+           style="fill:#ffffff;fill-opacity:1">
           <g
              id="g4171"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4173-8"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4175"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4177-1"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4179-5"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4181-4"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4183-6"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4185-5"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4187-0"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4189-7"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4191-9"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4193-2"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4195-9"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4197-5"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
           <g
              id="g4199-1"
-             style="fill:#4d4d4d;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
         </g>
       </g>
     </g>

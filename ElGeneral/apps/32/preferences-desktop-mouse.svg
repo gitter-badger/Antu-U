@@ -80,7 +80,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.656854"
-     inkscape:cx="18.198202"
+     inkscape:cx="-16.184867"
      inkscape:cy="22.65961"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-8"
@@ -90,14 +90,15 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
      showguides="false"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -190,7 +191,7 @@
          transform="matrix(0.24561402,0,0,0.24561402,359.72548,531.8371)">
         <g
            id="g4170"
-           transform="matrix(1.7182165,0,0,1.7182165,-86.868962,-32.457106)">
+           transform="matrix(1.7929215,0,0,1.7929215,-99.292507,-32.445214)">
           <path
              d="m 163.61448,-54.654523 c -6.93231,0.07699 -14.38549,0.708794 -19.46437,5.470086 -7.77899,7.292555 -6.79674,12.336854 -7.5608,22.317951 -1.55973,20.3750076 -0.95592,48.298842 3.18678,68.360447 1.21517,5.88461 6.76562,10.02556 12.65341,11.15898 4.51889,0.86989 9.19229,1.52884 13.87188,1.68791 4.67958,-0.15907 9.35298,-0.81802 13.87187,-1.68791 5.88779,-1.13342 11.43825,-5.27437 12.65341,-11.15898 4.14271,-20.0616 4.74651,-47.9854394 3.18679,-68.360447 -0.76406,-9.981097 0.21818,-15.025396 -7.56081,-22.317951 -5.07888,-4.761292 -12.53206,-5.393096 -19.46437,-5.470086 -0.90604,-0.01006 -1.80492,-0.001 -2.68689,0 -0.88198,-0.001 -1.78085,-0.01006 -2.6869,0 z"
              inkscape:connector-curvature="0"

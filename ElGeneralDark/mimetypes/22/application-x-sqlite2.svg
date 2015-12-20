@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-x-sqlite2.svg">
+   sodipodi:docname="application-x-sqlite.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -154,8 +154,7 @@
           <g
              transform="matrix(1.2907806,0,0,1.2907806,461.66818,-805.02202)"
              id="layer1-19"
-             inkscape:label="Capa 1"
-             style="fill:#ffffff;fill-opacity:1">
+             inkscape:label="Capa 1">
             <path
                style="fill:#ffffff;fill-opacity:1"
                inkscape:connector-curvature="0"

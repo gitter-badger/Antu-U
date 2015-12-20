@@ -19,6 +19,18 @@
   <defs
      id="defs5455">
     <linearGradient
+       id="linearGradient4333"
+       inkscape:collect="always">
+      <stop
+         id="stop4335"
+         offset="0"
+         style="stop-color:#139602;stop-opacity:1" />
+      <stop
+         id="stop4337"
+         offset="1"
+         style="stop-color:#80e950;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient8311-06">
       <stop
          id="stop8313-6"
@@ -80,7 +92,7 @@
        x1="399.9939"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4181"
-       xlink:href="#linearGradient4422"
+       xlink:href="#linearGradient4333"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient3257">
@@ -93,6 +105,15 @@
          style="stop-color:#e73800;stop-opacity:1"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8311-06"
+       id="linearGradient4299"
+       x1="0"
+       y1="23.5"
+       x2="47"
+       y2="23.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -102,7 +123,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.46"
-     inkscape:cx="-28.55793"
+     inkscape:cx="-36.599523"
      inkscape:cy="23.257922"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-0"
@@ -112,9 +133,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -216,7 +237,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -241,7 +262,7 @@
              id="layer1-0"
              inkscape:label="Capa 1">
             <g
-               transform="matrix(1.1124629,0,0,1.1124629,36.913439,-76.664073)"
+               transform="matrix(1.1608309,0,0,1.1608309,16.31138,-102.89844)"
                id="g4338-1">
               <g
                  transform="matrix(0.84002598,0,0,0.84002598,94.722843,341.97161)"
@@ -289,7 +310,7 @@
                                    cy="531.79791"
                                    cx="400.57138"
                                    id="path3377"
-                                   style="opacity:1;fill:url(#linearGradient4181);fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                                   style="opacity:1;fill:url(#linearGradient4181);fill-opacity:1.0;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
                                 <circle
                                    style="opacity:1;fill:#5ea5fb;fill-opacity:0;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                                    id="circle4174"

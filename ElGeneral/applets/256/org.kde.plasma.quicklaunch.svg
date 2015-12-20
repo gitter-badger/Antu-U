@@ -32,17 +32,6 @@
          id="stop4236" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4422">
-      <stop
-         id="stop4424"
-         offset="0"
-         style="stop-color:#4c93dd;stop-opacity:1" />
-      <stop
-         id="stop4426"
-         offset="1"
-         style="stop-color:#56c5fd;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        osb:paint="gradient"
        id="linearGradient4207">
       <stop
@@ -54,86 +43,6 @@
          offset="1"
          style="stop-color:#3498db;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4422-5">
-      <stop
-         id="stop4424-9"
-         offset="0"
-         style="stop-color:#197ff1;stop-opacity:1" />
-      <stop
-         id="stop4426-3"
-         offset="1"
-         style="stop-color:#21c6fb;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="517.79797"
-       x2="399.57144"
-       y1="545.79797"
-       x1="399.57144"
-       id="linearGradient4272"
-       xlink:href="#linearGradient4232"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient3257">
-      <stop
-         id="stop3259"
-         style="stop-color:#a50000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3261"
-         style="stop-color:#e73800;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)"
-       gradientUnits="userSpaceOnUse"
-       x2="47"
-       x1="1"
-       id="linearGradient3764">
-      <stop
-         id="stop7"
-         stop-opacity="1"
-         stop-color="#2290ee" />
-      <stop
-         id="stop9"
-         stop-opacity="1"
-         stop-color="#359bef"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       id="clipPath-626700712">
-      <g
-         id="g12"
-         transform="translate(0,-1004.3622)">
-        <path
-           id="path14"
-           fill="#1890d0"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" />
-      </g>
-    </clipPath>
-    <clipPath
-       id="clipPath-632356868">
-      <g
-         id="g17"
-         transform="translate(0,-1004.3622)">
-        <path
-           id="path19"
-           fill="#1890d0"
-           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
-           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z" />
-      </g>
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4232"
-       id="linearGradient4307"
-       x1="399.57144"
-       y1="545.79797"
-       x2="399.57144"
-       y2="517.79797"
-       gradientUnits="userSpaceOnUse" />
     <style
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text {
@@ -423,17 +332,6 @@
         color:#3daee9;
       }</style>
     <linearGradient
-       id="linearGradient4422-1">
-      <stop
-         style="stop-color:#ff9300;stop-opacity:1"
-         offset="0"
-         id="stop4424-4" />
-      <stop
-         style="stop-color:#ffd702;stop-opacity:1"
-         offset="1"
-         id="stop4426-1" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient4231"
        inkscape:collect="always">
       <stop
@@ -509,21 +407,6 @@
        x2="-328.20999"
        y2="307.75275" />
     <linearGradient
-       id="linearGradient8311-06">
-      <stop
-         offset="0"
-         style="stop-color:#a9a3d4;stop-opacity:1"
-         id="stop8313-6" />
-      <stop
-         id="stop4462"
-         style="stop-color:#87baff;stop-opacity:1"
-         offset="0.47001833" />
-      <stop
-         offset="1"
-         style="stop-color:#89ec85;stop-opacity:1"
-         id="stop8315-2" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        id="linearGradient4180">
       <stop
@@ -538,13 +421,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#555555"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.33333333"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9999998"
-     inkscape:cx="-76.747481"
+     inkscape:cx="-45.300929"
      inkscape:cy="33.559407"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -562,7 +445,8 @@
      borderlayer="true"
      showguides="false"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -627,7 +511,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -639,7 +523,7 @@
     <g
        id="layer1-89"
        inkscape:label="Capa 1"
-       transform="matrix(-0.9583333,0,0,0.9583333,800.21295,21.767435)">
+       transform="matrix(-0.99999996,0,0,0.99999996,817.24084,-0.05997783)">
       <g
          transform="matrix(0.09021051,0,0,0.09021051,438.33618,482.07658)"
          id="g4207-4">

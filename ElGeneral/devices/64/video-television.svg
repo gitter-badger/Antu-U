@@ -11,8 +11,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="48"
+   height="48"
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -195,7 +195,7 @@
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y1="254.24586"
        x1="0.001"
        id="linearGradient4399"
@@ -208,7 +208,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -217,7 +217,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -226,7 +226,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -235,7 +235,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -244,7 +244,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -253,7 +253,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -262,7 +262,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -271,7 +271,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -280,7 +280,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -289,7 +289,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -298,7 +298,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -307,7 +307,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -316,7 +316,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -325,7 +325,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
     <linearGradient
        inkscape:collect="always"
@@ -334,7 +334,7 @@
        gradientUnits="userSpaceOnUse"
        x1="0.001"
        y1="254.24586"
-       x2="508.49201"
+       x2="508.492"
        y2="254.24586" />
   </defs>
   <sodipodi:namedview
@@ -345,7 +345,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0548156"
-     inkscape:cx="-20.975108"
+     inkscape:cx="-32.086721"
      inkscape:cy="41.196469"
      inkscape:document-units="px"
      inkscape:current-layer="g4232"
@@ -355,7 +355,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -408,7 +408,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -416,7 +416,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-376.57144,-491.79797)">
+     transform="translate(-376.57144,-507.79797)">
     <g
        id="layer1-03"
        inkscape:label="Capa 1"
@@ -441,7 +441,8 @@
                  id="g4232"
                  transform="translate(0,0.1856247)">
                 <g
-                   id="g4230">
+                   id="g4230"
+                   transform="matrix(0.74858909,0,0,0.74858909,110.72092,139.53672)">
                   <g
                      transform="matrix(1.3869641,0,0,1,-97.152978,-3.3535471)"
                      id="g5221">

@@ -11,8 +11,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="48"
+   height="48"
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -83,9 +83,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="24.60934"
-     inkscape:cy="35.243811"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="14.213216"
+     inkscape:cy="32.265059"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,7 +94,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -147,7 +147,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -155,27 +155,32 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-376.57144,-491.79797)">
-    <path
-       style="fill:url(#linearGradient3834);fill-opacity:1;stroke:none"
-       d="M 32 6 C 17.59725 6 6.0019531 17.59602 6.0019531 32 C 6.0019531 46.40398 17.59725 58 32 58 C 46.40275 58 57.998047 46.40398 57.998047 32 C 57.998047 17.59602 46.40275 6 32 6 z M 32 29 C 33.662 29 35 30.338 35 32 C 35 33.662 33.662 35 32 35 C 30.338 35 29 33.662 29 32 C 29 30.338 30.338 29 32 29 z "
-       transform="translate(376.57144,491.79797)"
-       id="rect4146" />
+     transform="translate(-376.57144,-507.79797)">
     <g
-       id="layer1-31"
-       inkscape:label="Capa 1">
+       id="g4156"
+       transform="matrix(0.92307692,0,0,0.92307692,23.428574,48.292153)">
       <path
-         id="rect4270-6"
+         id="rect4146"
          transform="translate(376.57144,491.79797)"
-         d="m 32,23 c -4.986,0 -9,4.014 -9,9 0,4.986 4.014,9 9,9 4.986,0 9,-4.014 9,-9 0,-4.986 -4.014,-9 -9,-9 z m 0,6 c 1.662,0 3,1.338 3,3 0,1.662 -1.338,3 -3,3 -1.662,0 -3,-1.338 -3,-3 0,-1.662 1.338,-3 3,-3 z"
-         style="fill:url(#linearGradient3862);fill-opacity:1.0;stroke:none"
+         d="M 32,6 C 17.59725,6 6.0019531,17.59602 6.0019531,32 6.0019531,46.40398 17.59725,58 32,58 46.40275,58 57.998047,46.40398 57.998047,32 57.998047,17.59602 46.40275,6 32,6 Z m 0,23 c 1.662,0 3,1.338 3,3 0,1.662 -1.338,3 -3,3 -1.662,0 -3,-1.338 -3,-3 0,-1.662 1.338,-3 3,-3 z"
+         style="fill:url(#linearGradient3834);fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
-      <path
-         id="path4558"
-         transform="translate(376.57144,491.79797)"
-         d="m 32,24 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,1 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
-         style="opacity:1;fill:#1b96e9;fill-opacity:1;stroke-linecap:round"
-         inkscape:connector-curvature="0" />
+      <g
+         inkscape:label="Capa 1"
+         id="layer1-31">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient3862);fill-opacity:1;stroke:none"
+           d="m 32,23 c -4.986,0 -9,4.014 -9,9 0,4.986 4.014,9 9,9 4.986,0 9,-4.014 9,-9 0,-4.986 -4.014,-9 -9,-9 z m 0,6 c 1.662,0 3,1.338 3,3 0,1.662 -1.338,3 -3,3 -1.662,0 -3,-1.338 -3,-3 0,-1.662 1.338,-3 3,-3 z"
+           transform="translate(376.57144,491.79797)"
+           id="rect4270-6" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#1b96e9;fill-opacity:1;stroke-linecap:round"
+           d="m 32,24 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,1 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
+           transform="translate(376.57144,491.79797)"
+           id="path4558" />
+      </g>
     </g>
   </g>
 </svg>

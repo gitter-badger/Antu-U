@@ -16,7 +16,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-system-windows.svg">
+   sodipodi:docname="org.kde.plasma.icontasks.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -28,7 +28,7 @@
        x2="409.57144"
        y2="507.798"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0523327,0,0,1.0276135,-21.151387,-14.039869)" />
+       gradientTransform="matrix(1.0523327,0,0,1.0276135,-72.676828,-8.584041)" />
     <linearGradient
        id="linearGradient4207"
        osb:paint="gradient">
@@ -40,17 +40,6 @@
          style="stop-color:#3498db;stop-opacity:0;"
          offset="1"
          id="stop3373" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4227-2">
-      <stop
-         offset="0"
-         style="stop-color:#566069;stop-opacity:1"
-         id="stop4229-9" />
-      <stop
-         offset="1"
-         style="stop-color:#6c7884;stop-opacity:1"
-         id="stop4231-4" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -67,17 +56,17 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#555555"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.33333333"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999995"
-     inkscape:cx="-21.448038"
-     inkscape:cy="13.974819"
+     inkscape:zoom="5.656854"
+     inkscape:cx="-6.9483775"
+     inkscape:cy="17.098596"
      inkscape:document-units="px"
-     inkscape:current-layer="g4447"
-     showgrid="true"
+     inkscape:current-layer="layer1-6"
+     showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -89,7 +78,8 @@
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true">
+     showguides="false"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -169,37 +159,53 @@
             <g
                id="g4403"
                transform="translate(51.385479,-6.0099446)">
-              <rect
-                 style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1.0;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 id="rect4195"
-                 width="46.302639"
-                 height="34.938858"
-                 x="385.65039"
-                 y="507.78021"
-                 ry="1.6441816"
-                 transform="translate(-51.52544,5.45582)" />
               <g
-                 id="g4247"
-                 style="fill:#ffffff;fill-opacity:0.84693879"
-                 transform="matrix(0.83317883,0,0,0.83317883,65.74755,84.6955)">
-                <circle
-                   r="2.25"
-                   cy="518.737"
-                   cx="373.36642"
-                   id="path4224"
-                   style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                <circle
-                   r="2.25"
-                   cy="518.78473"
-                   cx="367.8389"
-                   id="path4224-4"
-                   style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                <circle
-                   r="2.25"
-                   cy="518.83801"
-                   cx="362.40543"
-                   id="path4224-8"
-                   style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                 id="g4163"
+                 transform="matrix(1.0434783,0,0,1.0434783,-15.533754,-23.074163)">
+                <rect
+                   ry="1.6441816"
+                   y="513.23602"
+                   x="334.12494"
+                   height="34.938858"
+                   width="46.302639"
+                   id="rect4195"
+                   style="opacity:1;fill:url(#linearGradient4222);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                <g
+                   transform="matrix(1.1163157,0,0,1.1163157,-41.579624,-61.3542)"
+                   id="g4195">
+                  <g
+                     id="g4247"
+                     style="fill:#ffffff;fill-opacity:0.84693879"
+                     transform="matrix(0.83317883,0,0,0.83317883,65.74755,84.6955)">
+                    <g
+                       id="g4164"
+                       transform="matrix(2.6567523,0,0,2.6567523,-627.48244,-842.9787)">
+                      <circle
+                         style="opacity:1;fill:#ffffff;fill-opacity:0.84693879;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                         id="path4224-8"
+                         cx="362.40543"
+                         cy="518.83801"
+                         r="2.25" />
+                    </g>
+                  </g>
+                  <rect
+                     style="opacity:1;fill:#ffffff;fill-opacity:0.8508065;fill-rule:evenodd;stroke:none;stroke-width:1.50986862;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                     id="rect4162"
+                     width="9.0592117"
+                     height="9.0592117"
+                     x="352.51382"
+                     y="526.05286"
+                     ry="1.094875" />
+                  <rect
+                     style="opacity:1;fill:#ffffff;fill-opacity:0.8508065;fill-rule:evenodd;stroke:none;stroke-width:1.50986862;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                     id="rect4162-1"
+                     width="9.0592117"
+                     height="9.0592117"
+                     x="241.9604"
+                     y="592.64587"
+                     ry="1.094875"
+                     transform="matrix(0.97656463,-0.21522437,0.21522437,0.97656463,0,0)" />
+                </g>
               </g>
             </g>
           </g>

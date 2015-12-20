@@ -41,9 +41,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
      inkscape:cx="-26.003767"
-     inkscape:cy="9.4711147"
+     inkscape:cy="16.658615"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="g4240"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -105,23 +105,18 @@
       <g
          transform="translate(341.79698,500.25245)"
          id="g4240">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none"
-           id="rect4236-8"
-           width="44"
-           height="1"
-           x="10"
-           y="3" />
         <g
            transform="translate(-392.98822,-511.27795)"
            id="layer1-1"
            inkscape:label="Capa 1"
            inkscape:transform-center-x="5.4653607"
-           inkscape:transform-center-y="-9.4924686">
+           inkscape:transform-center-y="-9.4924686"
+           style="fill:#ffffff;fill-opacity:1">
           <g
              transform="translate(0.41988239,0.03484499)"
              inkscape:label="Capa 1"
-             id="layer1-3">
+             id="layer1-3"
+             style="fill:#ffffff;fill-opacity:1">
             <g
                transform="matrix(1.1428571,0,0,1.1428571,14.087006,-64.648632)"
                id="layer1-5"

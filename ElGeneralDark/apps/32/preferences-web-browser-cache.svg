@@ -155,24 +155,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.1562501"
-     inkscape:cx="0.82827442"
-     inkscape:cy="26.191322"
+     inkscape:zoom="4.0781251"
+     inkscape:cx="12.643561"
+     inkscape:cy="17.334211"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4272"
      showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true"
+     showguides="false"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -250,7 +250,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -265,7 +265,7 @@
        transform="translate(-7.4339425e-8,-1.7777773)" />
     <g
        id="g4272"
-       transform="matrix(1.6428571,0,0,1.6428571,-249.51019,-349.87013)">
+       transform="matrix(1.7131718,0,0,1.7131718,-277.67625,-387.26334)">
       <g
          id="layer1-3"
          inkscape:label="Capa 1"
@@ -398,7 +398,7 @@
          style="fill:#ffffff;fill-opacity:0.85204091"
          inkscape:label="Capa 1"
          id="layer1-33"
-         transform="matrix(1.2146798,0,0,1.2146798,390.88816,-736.91363)">
+         transform="matrix(1.2146798,0,0,1.2146798,390.88816,-736.33003)">
         <g
            transform="matrix(0.90537551,0,0,0.90537551,-365.91682,562.06022)"
            id="layer1-0"

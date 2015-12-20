@@ -380,8 +380,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.9613497"
-     inkscape:cx="-31.302667"
-     inkscape:cy="32.708096"
+     inkscape:cx="-30.893842"
+     inkscape:cy="30.46286"
      inkscape:document-units="px"
      inkscape:current-layer="g4222"
      showgrid="false"
@@ -390,7 +390,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="633"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -566,47 +566,54 @@
                    id="g4222"
                    transform="matrix(1.051075,0,0,1.051075,16.460236,-22.650073)">
                   <g
-                     id="g12"
-                     transform="matrix(1.1061166,0,0,-1.1061166,-756.61366,1020.3813)">
+                     transform="matrix(9.1289875,0,0,9.1289875,-846.21625,-9095.7165)"
+                     id="layer1-40"
+                     inkscape:label="Capa 1" />
+                  <g
+                     id="g4211">
                     <g
-                       id="g14"
-                       transform="translate(80.306027,-47.238839)">
-                      <path
-                         d="m 496.9107,520.20614 c 2.817,12.881 4.315,26.252 4.315,39.977 0,102.889 -83.411,186.302 -186.30504,186.302 -10.863,0 -21.507,-0.94 -31.861,-2.725 -16.651,10.488 -36.35,16.577 -57.482,16.577 -59.67,0 -108.041,-48.375 -108.041,-108.039 0,-19.945 5.427,-38.613 14.851,-54.649 -2.471,-12.103 -3.77,-24.632 -3.77,-37.466 0,-102.892 83.409,-186.304 186.303,-186.304 11.65404,0 23.05404,1.079 34.11304,3.126 15.21,-8.175 32.599,-12.821 51.076,-12.821 59.671,0 108.041,48.371 108.041,108.041 0,17.239 -4.057,33.522 -11.24,47.981"
-                         id="path22"
-                         style="fill:url(#linearGradient4277);fill-opacity:1;fill-rule:nonzero;stroke:none"
-                         inkscape:connector-curvature="0" />
+                       transform="matrix(1.1061166,0,0,-1.1061166,-756.61366,1020.3813)"
+                       id="g12">
                       <g
-                         id="g24"
-                         transform="translate(673.94078,59.835863)">
+                         transform="translate(80.306027,-47.238839)"
+                         id="g14">
+                        <path
+                           inkscape:connector-curvature="0"
+                           style="fill:url(#linearGradient4277);fill-opacity:1;fill-rule:nonzero;stroke:none"
+                           id="path22"
+                           d="m 496.9107,520.20614 c 2.817,12.881 4.315,26.252 4.315,39.977 0,102.889 -83.411,186.302 -186.30504,186.302 -10.863,0 -21.507,-0.94 -31.861,-2.725 -16.651,10.488 -36.35,16.577 -57.482,16.577 -59.67,0 -108.041,-48.375 -108.041,-108.039 0,-19.945 5.427,-38.613 14.851,-54.649 -2.471,-12.103 -3.77,-24.632 -3.77,-37.466 0,-102.892 83.409,-186.304 186.303,-186.304 11.65404,0 23.05404,1.079 34.11304,3.126 15.21,-8.175 32.599,-12.821 51.076,-12.821 59.671,0 108.041,48.371 108.041,108.041 0,17.239 -4.057,33.522 -11.24,47.981" />
                         <g
-                           id="g26">
+                           transform="translate(673.94078,59.835863)"
+                           id="g24">
                           <g
-                             id="g32">
+                             id="g26">
                             <g
-                               id="g34" />
+                               id="g32">
+                              <g
+                                 id="g34" />
+                            </g>
                           </g>
                         </g>
-                      </g>
-                      <g
-                         id="g46"
-                         transform="translate(673.94078,59.835863)">
                         <g
-                           id="g48" />
-                        <g
-                           id="g64">
+                           transform="translate(673.94078,59.835863)"
+                           id="g46">
                           <g
-                             clip-path="url(#clipPath50)"
-                             id="g66"
-                             style="opacity:0.83000201">
+                             id="g48" />
+                          <g
+                             id="g64">
                             <g
-                               id="g68">
+                               style="opacity:0.83000201"
+                               id="g66"
+                               clip-path="url(#clipPath50)">
                               <g
-                                 id="g70">
+                                 id="g68">
+                                <g
+                                   id="g70">
                                 <g
                                    id="g72">
                                 <g
                                    id="g74" />
+                                </g>
                                 </g>
                               </g>
                             </g>
@@ -614,20 +621,16 @@
                         </g>
                       </g>
                     </g>
-                  </g>
-                  <g
-                     transform="matrix(9.1289875,0,0,9.1289875,-846.21625,-9095.7165)"
-                     id="layer1-40"
-                     inkscape:label="Capa 1" />
-                  <g
-                     style="font-style:normal;font-weight:normal;font-size:328.08258057px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:0.85;stroke:#e2f3fe;stroke-width:11.15816975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     id="text4209"
-                     transform="matrix(0.92845782,0,0,0.92845782,-595.87388,115.7962)">
-                    <path
-                       d="m 343.96398,416.62175 c -4.92124,46.58773 -74.14666,32.80826 -101.04944,14.43564 -11.1548,-9.18632 -20.6692,-6.23357 -29.19935,2.29657 -5.90548,8.85823 -6.23356,23.29387 4.59316,32.1521 45.2754,37.40141 166.00979,35.43292 168.30636,-47.90006 2.29658,-87.26997 -140.41934,-56.4302 -131.56111,-110.23575 6.88973,-34.12058 62.00761,-26.90277 86.28572,-11.48289 19.68495,14.43564 43.3069,-14.10755 20.99728,-32.15209 -45.27539,-34.77675 -141.40359,-23.29386 -148.94949,40.35416 -10.17056,93.17545 126.3118,63.9761 130.57687,112.53232 z"
-                       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Multicolore;-inkscape-font-specification:'Multicolore Bold';fill:#ffffff;fill-opacity:0.85;stroke:#e2f3fe;stroke-width:11.15816975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                       id="path4214"
-                       inkscape:connector-curvature="0" />
+                    <g
+                       transform="matrix(0.92845782,0,0,0.92845782,-595.87388,115.7962)"
+                       id="text4209"
+                       style="font-style:normal;font-weight:normal;font-size:328.08258057px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:0.85;stroke:#e2f3fe;stroke-width:11.15816975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+                      <path
+                         inkscape:connector-curvature="0"
+                         id="path4214"
+                         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Multicolore;-inkscape-font-specification:'Multicolore Bold';fill:#ffffff;fill-opacity:0.85;stroke:#e2f3fe;stroke-width:11.15816975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                         d="m 343.96398,416.62175 c -4.92124,46.58773 -74.14666,32.80826 -101.04944,14.43564 -11.1548,-9.18632 -20.6692,-6.23357 -29.19935,2.29657 -5.90548,8.85823 -6.23356,23.29387 4.59316,32.1521 45.2754,37.40141 166.00979,35.43292 168.30636,-47.90006 2.29658,-87.26997 -140.41934,-56.4302 -131.56111,-110.23575 6.88973,-34.12058 62.00761,-26.90277 86.28572,-11.48289 19.68495,14.43564 43.3069,-14.10755 20.99728,-32.15209 -45.27539,-34.77675 -141.40359,-23.29386 -148.94949,40.35416 -10.17056,93.17545 126.3118,63.9761 130.57687,112.53232 z" />
+                    </g>
                   </g>
                 </g>
               </g>

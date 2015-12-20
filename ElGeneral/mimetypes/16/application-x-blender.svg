@@ -51,7 +51,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="-5.1319775"
+     inkscape:cx="-6.051856"
      inkscape:cy="7.9572678"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3-6-6"
@@ -59,9 +59,9 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -253,23 +253,10 @@
                                    id="g4322"
                                    transform="matrix(1.1146822,0,0,1.1146822,-46.226152,-60.063951)">
                                 <path
-                                   inkscape:connector-curvature="0"
-                                   id="path4184"
-                                   d="m 407.44643,503.77261 a 3.0003,3.0003 0 0 0 -1.70508,5.40234 l 3.41016,2.62305 -16.58008,0 a 3.0003,3.0003 0 1 0 0,6 l 7.51953,0 -12.2832,8.92383 a 3.0003,3.0003 0 1 0 3.52539,4.85351 l 6.27734,-4.56054 a 15.999973,15.999973 0 0 0 -0.0391,0.7832 15.999973,15.999973 0 0 0 16,16 15.999973,15.999973 0 0 0 16,-16 15.999973,15.999973 0 0 0 -6.95508,-13.19727 3.0003,3.0003 0 0 0 -0.21679,-0.18164 l -13,-10 a 3.0003,3.0003 0 0 0 -1.95313,-0.64648 z"
-                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                                <circle
-                                   cx="413.57144"
-                                   cy="527.79797"
-                                   r="9.9999886"
-                                   id="path4184-1"
-                                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                                <circle
-                                   transform="scale(-1,-1)"
-                                   cx="-413.57144"
-                                   cy="-527.79797"
-                                   r="3.9999883"
-                                   id="path4184-1-9"
-                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   d="M 7.7792969 0.56445312 A 1.1147937 1.1147937 0 0 0 7.1464844 2.5722656 L 8.4121094 3.546875 L 2.2519531 3.546875 A 1.1147937 1.1147937 0 1 0 2.2519531 5.7753906 L 5.046875 5.7753906 L 0.48242188 9.0917969 A 1.1147937 1.1147937 0 1 0 1.7929688 10.894531 L 4.125 9.2011719 A 5.9449618 5.9449618 0 0 0 4.109375 9.4921875 A 5.9449618 5.9449618 0 0 0 10.054688 15.435547 A 5.9449618 5.9449618 0 0 0 16 9.4921875 A 5.9449618 5.9449618 0 0 0 13.416016 4.5878906 A 1.1147937 1.1147937 0 0 0 13.335938 4.5195312 L 8.5058594 0.8046875 A 1.1147937 1.1147937 0 0 0 7.7792969 0.56445312 z M 10.054688 5.7753906 A 3.7156031 3.7156031 0 0 1 13.771484 9.4902344 A 3.7156031 3.7156031 0 0 1 10.054688 13.207031 A 3.7156031 3.7156031 0 0 1 6.3398438 9.4902344 A 3.7156031 3.7156031 0 0 1 10.054688 5.7753906 z "
+                                   transform="matrix(2.69135,0,0,2.69135,386.50978,502.25382)"
+                                   id="path4184" />
                                 </g>
                                 <g
                                    id="layer1-7-2"
@@ -281,6 +268,12 @@
                                 </g>
                                 </g>
                                 </g>
+                                <circle
+                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.199;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                                   id="path4187"
+                                   cx="474.1261"
+                                   cy="543.59589"
+                                   r="3.8380938" />
                                 </g>
                                 </g>
                                 </g>

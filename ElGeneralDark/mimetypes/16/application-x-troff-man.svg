@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-epub+zip.svg">
+   sodipodi:docname="application-x-troff-man.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
      inkscape:cx="-8.6376959"
-     inkscape:cy="9.5157576"
+     inkscape:cy="27.328258"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-3"
+     inkscape:current-layer="g4240"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -57,7 +57,7 @@
        orientation="-12,0"
        id="guide4075" />
     <sodipodi:guide
-       position="14,14.000017"
+       position="7.9998504,13.027831"
        orientation="0,-12"
        id="guide4077" />
   </sodipodi:namedview>
@@ -90,13 +90,6 @@
       <g
          transform="translate(341.79698,500.25245)"
          id="g4240">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:0.40983605;stroke:none"
-           id="rect4236-8"
-           width="44"
-           height="1"
-           x="10"
-           y="3" />
         <g
            transform="translate(-392.98822,-511.27795)"
            id="layer1-1"
@@ -110,8 +103,7 @@
             <g
                transform="translate(75.159858,8.0924038)"
                id="layer1-0"
-               inkscape:label="Capa 1"
-               style="fill:#ffffff;fill-opacity:1">
+               inkscape:label="Capa 1">
               <g
                  style="fill:#ffffff;fill-opacity:1"
                  inkscape:label="Capa 1"
@@ -119,15 +111,13 @@
                  transform="translate(392.57143,-514.5642)" />
               <g
                  transform="translate(341.79698,500.25245)"
-                 id="g4240-5"
-                 style="fill:#ffffff;fill-opacity:1">
+                 id="g4240-5">
                 <g
                    transform="translate(-392.98822,-511.27795)"
                    id="layer1-1-9"
                    inkscape:label="Capa 1"
                    inkscape:transform-center-x="5.4653607"
-                   inkscape:transform-center-y="-9.4924686"
-                   style="fill:#ffffff;fill-opacity:1">
+                   inkscape:transform-center-y="-9.4924686">
                   <path
                      style="fill:#ffffff;fill-opacity:1"
                      inkscape:connector-curvature="0"

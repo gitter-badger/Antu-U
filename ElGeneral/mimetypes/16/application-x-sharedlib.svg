@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-octet-stream.svg">
+   sodipodi:docname="application-x-sharedlib.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -41,17 +41,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="1.9143558"
-     inkscape:cy="12.111369"
+     inkscape:cx="-15.451716"
+     inkscape:cy="12.156012"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-1"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-bbox="true"
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,28 +170,18 @@
                               <g
                                  transform="translate(50.777056,-5.4014337)"
                                  id="g4403">
-                                <rect
-                                   ry="1.6441816"
-                                   y="513.12695"
-                                   x="334.23404"
-                                   height="34.938858"
-                                   width="46.302639"
-                                   id="rect4195"
-                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                                <path
+                                   style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                                   d="M 0.56835938 1.9628906 C 0.25360354 1.9628906 0 2.2164942 0 2.53125 L 0 13.46875 C 0 13.783506 0.25360354 14.037109 0.56835938 14.037109 L 15.431641 14.037109 C 15.746396 14.037109 16 13.783506 16 13.46875 L 16 2.53125 C 16 2.2164942 15.746396 1.9628906 15.431641 1.9628906 L 0.56835938 1.9628906 z M 7.1445312 5.0371094 C 7.2871089 5.0371094 7.4049482 5.0872 7.5 5.1875 L 10.082031 7.7636719 C 10.179707 7.8613478 10.228516 7.9811888 10.228516 8.1210938 C 10.228516 8.258326 10.179707 8.3775446 10.082031 8.4804688 L 7.5 11.058594 C 7.4023727 11.15627 7.2844362 11.205078 7.1445312 11.205078 C 7.0046749 11.205078 6.8847853 11.15627 6.7871094 11.058594 L 6.4863281 10.761719 C 6.3886522 10.658795 6.3398438 10.539576 6.3398438 10.402344 C 6.3398438 10.262439 6.3886522 10.142598 6.4863281 10.044922 L 8.4101562 8.1210938 L 6.4863281 6.2011719 C 6.3886522 6.0982477 6.3398438 5.977076 6.3398438 5.8398438 C 6.3398438 5.6999388 6.3886522 5.5820509 6.4863281 5.484375 L 6.7871094 5.1875 C 6.8821612 5.0872486 7.0019536 5.0371094 7.1445312 5.0371094 z "
+                                   transform="matrix(2.8939149,0,0,2.8939149,334.23404,507.44506)"
+                                   id="rect4195" />
                               </g>
                             </g>
                             <g
                                id="chevron18"
                                sketch:type="MSLayerGroup"
                                transform="matrix(0.14062974,0,0,0.14062974,355.23585,526.18081)"
-                               style="fill:#818a93;fill-opacity:1">
-                              <path
-                                 d="M 76.988,55.667 23.869,2.628 c -1.956,-2.064 -4.399,-3.096 -7.333,-3.096 -2.934,0 -5.377,1.033 -7.333,3.096 L 3.011,8.739 c -2.01,2.01 -3.015,4.453 -3.015,7.332 0,2.824 1.005,5.296 3.015,7.414 L 42.607,63 3.01,102.596 c -2.01,2.01 -3.015,4.454 -3.015,7.333 0,2.824 1.005,5.296 3.015,7.414 l 6.192,6.11 c 2.01,2.01 4.455,3.015 7.333,3.015 2.879,0 5.324,-1.005 7.333,-3.015 l 53.12,-53.039 c 2.01,-2.118 3.016,-4.59 3.016,-7.414 0,-2.879 -1.006,-5.323 -3.016,-7.333 l 0,0 z"
-                                 id="path1551"
-                                 sketch:type="MSShapeGroup"
-                                 inkscape:connector-curvature="0"
-                                 style="fill:#ffffff;fill-opacity:1" />
-                            </g>
+                               style="fill:#818a93;fill-opacity:1" />
                           </g>
                         </g>
                       </g>

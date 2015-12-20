@@ -148,17 +148,6 @@
        y1="649.7406"
        x2="-328.20999"
        y2="307.75275" />
-    <linearGradient
-       id="linearGradient5263">
-      <stop
-         id="stop5265"
-         style="stop-color:#a0d5ff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop5267"
-         style="stop-color:#a0d5ff;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -167,9 +156,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.15625"
-     inkscape:cx="-19.127865"
-     inkscape:cy="17.355937"
+     inkscape:zoom="4.078125"
+     inkscape:cx="-23.679492"
+     inkscape:cy="25.662484"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -178,13 +167,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="true">
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -261,7 +250,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -272,7 +261,7 @@
      transform="translate(-384.57143,-499.798)">
     <g
        id="g4204"
-       transform="matrix(1.6428571,0,0,1.6428571,-249.51019,-349.87012)">
+       transform="matrix(1.7131704,0,0,1.7142875,-277.67569,-387.85666)">
       <g
          transform="matrix(0.90545372,0,0,0.90545372,37.848949,50.187165)"
          inkscape:label="Capa 1"

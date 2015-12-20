@@ -385,7 +385,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.46"
-     inkscape:cx="-62.856502"
+     inkscape:cx="83.256068"
      inkscape:cy="23.257922"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-8"
@@ -395,9 +395,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -528,10 +528,10 @@
                id="layer1-8"
                inkscape:label="Capa 1">
               <g
-                 transform="translate(43.835491,8.8204897)"
+                 transform="matrix(1.0434782,0,0,1.0434782,26.401057,-14.304435)"
                  id="g4358">
                 <circle
-                   style="opacity:1;fill:url(#linearGradient4740);fill-opacity:1.0;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   style="opacity:1;fill:url(#linearGradient4740);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    id="path4175"
                    cx="400.99255"
                    cy="531.87402"
@@ -541,7 +541,7 @@
                    id="Music"
                    sketch:type="MSShapeGroup"
                    inkscape:connector-curvature="0"
-                   style="opacity:0.9;fill:#ffffff;fill-opacity:0.84771574" />
+                   style="opacity:0.9;fill:#ffffff;fill-opacity:0.84771573" />
               </g>
             </g>
           </g>
