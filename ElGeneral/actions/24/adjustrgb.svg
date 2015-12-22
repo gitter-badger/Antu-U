@@ -17,140 +17,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="adjustrgb.svg">
   <defs
-     id="defs4357">
-    <clipPath
-       id="clipPath4160"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-6"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-0"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-7"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-08"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-4"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-9"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-3"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-0-2"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-9"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-4"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-4-2"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-9-4"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-3-3"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-0-1"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-2"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-1"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-4-27"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-9-9"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-3-2"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-0-27"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient8467-5">
-      <stop
-         offset="0"
-         style="stop-color:#d8d8d8;stop-opacity:1"
-         id="stop8469-7" />
-      <stop
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:1"
-         id="stop8471-0" />
-    </linearGradient>
-  </defs>
+     id="defs4357" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -159,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.707099"
-     inkscape:cx="-12.476126"
+     inkscape:cx="-29.089977"
      inkscape:cy="10.4199"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -171,9 +38,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -221,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

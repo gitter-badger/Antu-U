@@ -365,7 +365,7 @@
       }</style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient8467-5"
+       xlink:href="#linearGradient4503"
        id="linearGradient5299"
        gradientUnits="userSpaceOnUse"
        x1="-318.57867"
@@ -514,16 +514,38 @@
        x2="399.57144"
        y2="517.79797" />
     <linearGradient
-       id="linearGradient8467-5">
+       inkscape:collect="always"
+       id="linearGradient4143">
       <stop
-         id="stop8469-7"
-         style="stop-color:#d3d3d3;stop-opacity:1"
-         offset="0" />
+         style="stop-color:#197cf1;stop-opacity:1"
+         offset="0"
+         id="stop4145" />
       <stop
-         id="stop8471-0"
-         style="stop-color:#fcf9f9;stop-opacity:1"
-         offset="1" />
+         style="stop-color:#20bcfa;stop-opacity:1"
+         offset="1"
+         id="stop4147" />
     </linearGradient>
+    <linearGradient
+       id="linearGradient4503"
+       inkscape:collect="always">
+      <stop
+         id="stop4505-8"
+         offset="0"
+         style="stop-color:#141414;stop-opacity:1" />
+      <stop
+         id="stop4507"
+         offset="1"
+         style="stop-color:#2d2d2f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4143"
+       id="linearGradient4393"
+       x1="20.489805"
+       y1="36.004623"
+       x2="20.95804"
+       y2="10.053551"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -533,7 +555,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.508204"
-     inkscape:cx="-0.61131775"
+     inkscape:cx="-56.052792"
      inkscape:cy="40.076466"
      inkscape:document-units="px"
      inkscape:current-layer="g4225"
@@ -765,7 +787,7 @@
                            transform="matrix(1.242537,0,0,1.242537,82.651446,-144.23268)"
                            id="g4235">
                           <circle
-                             style="opacity:1;fill:url(#linearGradient5299);fill-opacity:1;stroke:none;stroke-width:15.44461155;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                             style="opacity:1;fill:url(#linearGradient5299);fill-opacity:1.0;stroke:none;stroke-width:15.44461155;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                              id="path4217"
                              cx="-325.88733"
                              cy="478.74667"
@@ -809,7 +831,7 @@
                                id="path3023-6"
                                transform="matrix(0.71984265,0,0,0.72206825,-472.38542,-147.91768)"
                                d="m 16.361328,10.955078 a 2.0837922,2.077359 0 0 0 -2.083984,2.078125 2.0837922,2.077359 0 0 0 2.083984,2.078125 2.0837922,2.077359 0 0 0 2.083984,-2.078125 2.0837922,2.077359 0 0 0 -2.083984,-2.078125 z m 11.808594,0 -3.951172,3.939453 6.078125,6.058594 -6.294922,7.140625 4.167969,3.634766 9.724609,-11.078125 -9.724609,-9.695313 z m -14.587891,9.695313 a 3.4729709,3.4622766 0 0 0 -3.472656,3.46289 3.4729709,3.4622766 0 0 0 3.472656,3.460938 3.4729709,3.4622766 0 0 0 3.47461,-3.460938 3.4729709,3.4622766 0 0 0 -3.47461,-3.46289 z m 6.251953,9.693359 A 4.1675669,4.1547319 0 0 0 15.666016,34.5 4.1675669,4.1547319 0 0 0 19.833984,38.654297 4.1675669,4.1547319 0 0 0 24.001953,34.5 4.1675669,4.1547319 0 0 0 19.833984,30.34375 Z"
-                               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#35383b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+                               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4393);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
                                inkscape:connector-curvature="0" />
                           </g>
                         </g>

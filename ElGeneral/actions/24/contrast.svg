@@ -16,37 +16,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="contrast.svg">
   <defs
-     id="defs3762">
-    <inkscape:perspective
-       id="perspective4090"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 12 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <clipPath
-       id="clipPath4160"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       id="clipPath4160-4"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="1023.3622"
-         x="7"
-         height="1"
-         width="1"
-         id="rect4162-9"
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </clipPath>
-  </defs>
+     id="defs3762" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -55,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.989654"
-     inkscape:cx="-17.219448"
+     inkscape:cx="-33.441768"
      inkscape:cy="9.3168505"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"

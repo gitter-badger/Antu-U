@@ -17,7 +17,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="yast-keyboard.svg">
+   sodipodi:docname="accessories-character-map.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -56,6 +56,25 @@
          offset="1"
          style="stop-color:#fd5420;stop-opacity:1" />
     </linearGradient>
+    <linearGradient
+       y2="229.4995"
+       x2="459"
+       y1="229.4995"
+       x1="0"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4380"
+       xlink:href="#linearGradient4243"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(131.12522,1.0073898)"
+       gradientUnits="userSpaceOnUse"
+       y2="154.5808"
+       x2="-111.09196"
+       y1="260.25372"
+       x1="-112.5251"
+       id="linearGradient4212"
+       xlink:href="#linearGradient4159"
+       inkscape:collect="always" />
     <style
        type="text/css"
        id="current-color-scheme">.ColorScheme-Text {
@@ -645,1830 +664,143 @@
         color:#3daee9;
       }</style>
     <linearGradient
-       id="linearGradient5263">
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4407"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4409"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4411"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4413"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4415"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4417"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4419"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4421"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4423"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4425"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4427"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4429"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4431"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient4433"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="229.4995"
+       x2="459"
+       y2="229.4995" />
+    <linearGradient
+       id="linearGradient4159"
+       inkscape:collect="always">
       <stop
+         id="stop4161"
          offset="0"
-         style="stop-color:#a0d5ff;stop-opacity:1"
-         id="stop5265" />
+         style="stop-color:#2a2c2f;stop-opacity:1" />
       <stop
+         id="stop4163"
          offset="1"
-         style="stop-color:#a0d5ff;stop-opacity:1"
-         id="stop5267" />
+         style="stop-color:#424649;stop-opacity:1" />
     </linearGradient>
-    <clipPath
-       id="clipPath4458">
-      <path
-         d="m 69.626,12.145 -0.052,0 c -22.727,-0.292 -46.472,4.077 -46.709,4.122 -2.424,0.451 -4.946,2.974 -5.397,5.397 -0.044,0.237 -4.414,23.983 -4.122,46.71 -0.292,22.777 4.078,46.523 4.122,46.761 0.451,2.423 2.974,4.945 5.398,5.398 0.237,0.044 23.982,4.413 46.709,4.121 22.779,0.292 46.524,-4.077 46.761,-4.121 2.423,-0.452 4.946,-2.976 5.398,-5.399 0.044,-0.236 4.413,-23.981 4.121,-46.709 0.292,-22.777 -4.077,-46.523 -4.121,-46.761 -0.453,-2.423 -2.976,-4.946 -5.398,-5.397 -0.238,-0.045 -23.984,-4.414 -46.71,-4.122 z"
-         id="use4460"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient4237">
-      <stop
-         offset="0"
-         style="stop-color:#ff594d;stop-opacity:1"
-         id="stop4239" />
-      <stop
-         offset="1"
-         style="stop-color:#ff7f76;stop-opacity:1"
-         id="stop4241" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4210">
-      <stop
-         id="stop4212"
-         style="stop-color:#ff584c;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4214"
-         style="stop-color:#ff8077;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4179">
-      <stop
-         offset="0"
-         style="stop-color:#ffee5e;stop-opacity:1"
-         id="stop4181" />
-      <stop
-         offset="1"
-         style="stop-color:#feff8b;stop-opacity:1"
-         id="stop4183" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4210-3">
-      <stop
-         offset="0"
-         style="stop-color:#ffce69;stop-opacity:1"
-         id="stop4212-1" />
-      <stop
-         offset="1"
-         style="stop-color:#ffce54;stop-opacity:1"
-         id="stop4214-6" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4237-0">
-      <stop
-         id="stop4239-8"
-         style="stop-color:#ffee5e;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4241-9"
-         style="stop-color:#feff9f;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4237-2">
-      <stop
-         id="stop4239-7"
-         style="stop-color:#ffa0a6;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4241-2"
-         style="stop-color:#ffa0a5;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8311">
-      <stop
-         offset="0"
-         style="stop-color:#ce89ff;stop-opacity:1"
-         id="stop8313" />
-      <stop
-         offset="1"
-         style="stop-color:#e898ff;stop-opacity:1"
-         id="stop8315" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4237-8">
-      <stop
-         id="stop4239-2"
-         style="stop-color:#cf8aff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4241-3"
-         style="stop-color:#eaa0ff;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8311-3">
-      <stop
-         offset="0"
-         style="stop-color:#ffcc6b;stop-opacity:1"
-         id="stop8313-0" />
-      <stop
-         offset="1"
-         style="stop-color:#ffcf98;stop-opacity:1"
-         id="stop8315-1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4237-3">
-      <stop
-         id="stop4239-0"
-         style="stop-color:#ffcc6e;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4241-7"
-         style="stop-color:#ffe4a0;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8311-31">
-      <stop
-         offset="0"
-         style="stop-color:#f089ff;stop-opacity:1"
-         id="stop8313-2" />
-      <stop
-         offset="1"
-         style="stop-color:#ffadea;stop-opacity:1"
-         id="stop8315-6" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4237-6">
-      <stop
-         id="stop4239-22"
-         style="stop-color:#f18bfe;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4241-0"
-         style="stop-color:#fcc3ff;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8467">
-      <stop
-         id="stop8469"
-         style="stop-color:#b9b9b9;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop8471"
-         style="stop-color:#d1d1d1;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8311-5">
-      <stop
-         offset="0"
-         style="stop-color:#b9b9b9;stop-opacity:1"
-         id="stop8313-7" />
-      <stop
-         offset="1"
-         style="stop-color:#d2d2d2;stop-opacity:1"
-         id="stop8315-3" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4237-4">
-      <stop
-         id="stop4239-9"
-         style="stop-color:#bababa;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4241-37"
-         style="stop-color:#c8c8c8;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8467-7">
-      <stop
-         id="stop8469-4"
-         style="stop-color:#3ec896;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop8471-7"
-         style="stop-color:#66d9af;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8311-1">
-      <stop
-         offset="0"
-         style="stop-color:#494949;stop-opacity:1"
-         id="stop8313-9" />
-      <stop
-         offset="1"
-         style="stop-color:#616774;stop-opacity:1"
-         id="stop8315-5" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient-1"
-       y2="116.69431"
-       x2="209.95714"
-       y1="0"
-       x1="209.95714"
-       gradientTransform="scale(1.1288018,0.8858951)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop4884"
-         offset="0%"
-         stop-color="#A7A7A7" />
-      <stop
-         id="stop4886"
-         offset="100%"
-         stop-color="#8D8D8D" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient-2"
-       y2="105.40025"
-       x2="192.9998"
-       y1="411.58423"
-       x1="192.9998"
-       gradientTransform="scale(1.2279807,0.81434507)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop4889"
-         offset="0%"
-         stop-color="#707070" />
-      <stop
-         id="stop4891"
-         offset="100%"
-         stop-color="#ABABAB" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient-3"
-       y2="457.42279"
-       x2="192.99979"
-       y1="70.608887"
-       x1="192.99979"
-       gradientTransform="scale(1.2279807,0.81434507)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop4894"
-         offset="0%"
-         stop-opacity="0"
-         stop-color="#000000" />
-      <stop
-         id="stop4896"
-         offset="100%"
-         stop-opacity="0.19"
-         stop-color="#000000" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4232">
-      <stop
-         style="stop-color:#333333;stop-opacity:1"
-         offset="0"
-         id="stop4234" />
-      <stop
-         style="stop-color:#353535;stop-opacity:1"
-         offset="1"
-         id="stop4236" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4172">
-      <stop
-         id="stop4174"
-         offset="0"
-         style="stop-color:#3dc796;stop-opacity:1" />
-      <stop
-         id="stop4176"
-         offset="1"
-         style="stop-color:#57d68d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4233">
-      <stop
-         style="stop-color:#212121;stop-opacity:1"
-         offset="0"
-         id="stop4235" />
-      <stop
-         style="stop-color:#1d2022;stop-opacity:0"
-         offset="1"
-         id="stop4237" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8467-6">
-      <stop
-         id="stop8469-5"
-         style="stop-color:#56d8d1;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop8471-8"
-         style="stop-color:#9df7ee;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8311-10">
-      <stop
-         offset="0"
-         style="stop-color:#55d8d1;stop-opacity:1"
-         id="stop8313-3" />
-      <stop
-         offset="1"
-         style="stop-color:#66efe7;stop-opacity:1"
-         id="stop8315-8" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8467-8">
-      <stop
-         id="stop8469-9"
-         style="stop-color:#dea679;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop8471-2"
-         style="stop-color:#f7d19d;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8311-0">
-      <stop
-         offset="0"
-         style="stop-color:#dda579;stop-opacity:1"
-         id="stop8313-90" />
-      <stop
-         offset="1"
-         style="stop-color:#f3bc87;stop-opacity:1"
-         id="stop8315-88" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8467-2">
-      <stop
-         id="stop8469-6"
-         style="stop-color:#5fa4d5;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop8471-5"
-         style="stop-color:#9dc9f7;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8311-06-0">
-      <stop
-         offset="0"
-         style="stop-color:#5fa3d4;stop-opacity:1"
-         id="stop8313-6-34" />
-      <stop
-         offset="1"
-         style="stop-color:#6bb9ff;stop-opacity:1"
-         id="stop8315-2-0" />
-    </linearGradient>
-    <clipPath
-       id="clipPath4458-7">
-      <path
-         inkscape:connector-curvature="0"
-         id="use4460-2"
-         d="m 69.626,12.145 -0.052,0 c -22.727,-0.292 -46.472,4.077 -46.709,4.122 -2.424,0.451 -4.946,2.974 -5.397,5.397 -0.044,0.237 -4.414,23.983 -4.122,46.71 -0.292,22.777 4.078,46.523 4.122,46.761 0.451,2.423 2.974,4.945 5.398,5.398 0.237,0.044 23.982,4.413 46.709,4.121 22.779,0.292 46.524,-4.077 46.761,-4.121 2.423,-0.452 4.946,-2.976 5.398,-5.399 0.044,-0.236 4.413,-23.981 4.121,-46.709 0.292,-22.777 -4.077,-46.523 -4.121,-46.761 -0.453,-2.423 -2.976,-4.946 -5.398,-5.397 -0.238,-0.045 -23.984,-4.414 -46.71,-4.122 z" />
-    </clipPath>
-    <style
-       type="text/css"
-       id="current-color-scheme-5">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-15">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-1">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-71-9">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-4-0">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-2-7">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-7">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-1-0">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-6-6">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-71-10-6">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-4-1-4">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-2-07-1">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-2-3">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-48-2">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-5-3">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-71-1-8">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-4-7-2">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-2-0-6">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="23.5"
-       x2="47"
-       y1="23.5"
-       x1="0"
-       id="linearGradient4650"
-       xlink:href="#linearGradient8311-06"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="229.4995"
-       x2="459"
-       y1="229.4995"
-       x1="0"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4505"
-       xlink:href="#linearGradient4243"
-       inkscape:collect="always" />
-    <style
-       type="text/css"
-       id="current-color-scheme-74">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-7">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-68">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-71-3">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-4-4">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-2-6">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-4">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-1-5">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-6-4">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-71-10-4">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-4-1-5">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-2-07-0">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-2-6">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-48-0">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-5-5">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-71-1-1">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-8-4-7-8">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-2-0-3">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4671"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4673"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4675"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4677"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4679"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4681"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4683"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4685"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4687"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4689"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4691"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4693"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4695"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4697"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       y2="229.4995"
-       x2="459"
-       y1="229.4995"
-       x1="0"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4609"
-       xlink:href="#linearGradient4243"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="154.5808"
-       x2="-111.09196"
-       y1="260.25372"
-       x1="-112.5251"
-       gradientTransform="translate(131.12522,1.0073898)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4611"
-       xlink:href="#linearGradient8467-5"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient8467-5">
-      <stop
-         id="stop8469-7"
-         style="stop-color:#d3d3d3;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop8471-0"
-         style="stop-color:#fcf9f9;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4790"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4792"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4794"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4796"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4798"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4800"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4802"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4804"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4806"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4808"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4810"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4812"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4814"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4243"
-       id="linearGradient4816"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="229.4995"
-       x2="459"
-       y2="229.4995" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8311-06"
-       id="linearGradient4818"
-       gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="23.5"
-       x2="47"
-       y2="23.5" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2478,7 +810,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.46"
-     inkscape:cx="-9.6029975"
+     inkscape:cx="34.006868"
      inkscape:cy="23.257922"
      inkscape:document-units="px"
      inkscape:current-layer="g3-5"
@@ -2633,137 +965,94 @@
               <g
                  id="g5008">
                 <g
-                   id="g3-5"
-                   transform="matrix(0.3,0,0,0.3,36.487158,26.180332)"
-                   style="fill:#ffffff;fill-opacity:0.84677423">
+                   inkscape:label="Capa 1"
+                   id="layer1-63"
+                   transform="matrix(1.0420011,0,0,1.0420011,-376.28555,-506.6545)"
+                   style="stroke-width:1.31742239;stroke-miterlimit:4;stroke-dasharray:none">
                   <g
-                     transform="matrix(3.3333333,0,0,3.3333333,-1321.9048,-1705.9933)"
-                     id="layer1-9"
-                     inkscape:label="Capa 1">
+                     id="g4470"
+                     transform="matrix(1.3382274,-0.31961128,0.31961128,1.3382274,-356.73681,-37.003194)">
                     <g
-                       transform="translate(-2.7419725e-6,4.0982034e-6)"
-                       inkscape:label="Capa 1"
-                       id="layer1-73">
+                       id="g7486"
+                       transform="matrix(0.26208427,0.02583472,-0.02583472,0.26208427,404.04667,465.90142)">
                       <g
-                         transform="translate(392.24401,-502.51656)"
-                         id="layer1-4-0"
-                         inkscape:label="Layer 1">
+                         id="g7427"
+                         transform="translate(-0.07478376,0.54574089)" />
+                      <g
+                         id="g4236"
+                         transform="matrix(0.98797581,0.13461765,-0.13501288,0.99084384,25.550446,-23.969633)">
                         <g
-                           transform="matrix(1.138587,0,0,1.138587,-3.4562036,-142.80276)"
-                           id="g4413-5"
-                           style="stroke-width:1.31742239;stroke-miterlimit:4;stroke-dasharray:none">
+                           id="g5130"
+                           transform="matrix(1.080707,0,0,1.080707,160.14549,-15.529907)">
                           <g
-                             id="g4312-3"
-                             transform="matrix(1.0539376,0,0,1.0539376,-0.91298719,-55.411661)">
+                             style="fill:url(#linearGradient4407);fill-opacity:1"
+                             id="g4259"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4409);fill-opacity:1"
+                             id="g4261"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4411);fill-opacity:1"
+                             id="g4263"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4413);fill-opacity:1"
+                             id="g4265"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4415);fill-opacity:1"
+                             id="g4267"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4417);fill-opacity:1"
+                             id="g4269"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4419);fill-opacity:1"
+                             id="g4271"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4421);fill-opacity:1"
+                             id="g4273-2"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4423);fill-opacity:1"
+                             id="g4275"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4425);fill-opacity:1"
+                             id="g4277"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4427);fill-opacity:1"
+                             id="g4279"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4429);fill-opacity:1"
+                             id="g4281"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4431);fill-opacity:1"
+                             id="g4283"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4433);fill-opacity:1"
+                             id="g4285-1"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             style="fill:url(#linearGradient4380);fill-opacity:1"
+                             id="g4287"
+                             transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
+                          <g
+                             id="g4442"
+                             transform="matrix(1.0385063,0,0,1.0385063,-0.96495133,-8.0631887)">
                             <g
-                               transform="matrix(0.83333358,0,0,0.83333358,-408.28112,587.90224)"
-                               id="layer1-0-0"
-                               inkscape:label="Capa 1">
+                               transform="matrix(0.98340914,0,0,0.98340914,0.16645472,3.4212533)"
+                               id="g4409">
                               <g
-                                 transform="translate(462.27318,488.5455)"
-                                 id="g4186-4-3">
-                                <g
-                                   transform="translate(-509.70748,-515.64674)"
-                                   id="layer1-4-6-6"
-                                   inkscape:label="Capa 1"
-                                   inkscape:transform-center-x="5.4653607"
-                                   inkscape:transform-center-y="-9.4924686">
-                                <g
-                                   transform="translate(0.41988239,0.03484499)"
-                                   inkscape:label="Capa 1"
-                                   id="layer1-3-65-7" />
-                                </g>
-                                <g
-                                   id="g5008-2">
-                                <g
-                                   inkscape:label="Capa 1"
-                                   id="layer1-63-2"
-                                   transform="matrix(1.0420011,0,0,1.0420011,-376.28555,-506.6545)"
-                                   style="stroke-width:1.31742239;stroke-miterlimit:4;stroke-dasharray:none">
-                                <g
-                                   id="g4470-2"
-                                   transform="matrix(1.3382274,-0.31961128,0.31961128,1.3382274,-356.73681,-37.003194)">
-                                <g
-                                   id="g7486-6"
-                                   transform="matrix(0.26208427,0.02583472,-0.02583472,0.26208427,404.04667,465.90142)">
-                                <g
-                                   id="g7427-8"
-                                   transform="translate(-0.07478376,0.54574089)" />
-                                <g
-                                   id="g4236-9"
-                                   transform="matrix(0.98797581,0.13461765,-0.13501288,0.99084384,25.550446,-23.969633)">
-                                <g
-                                   id="g5130-8"
-                                   transform="matrix(1.080707,0,0,1.080707,160.14549,-15.529907)">
-                                <g
-                                   style="fill:url(#linearGradient4790);fill-opacity:1"
-                                   id="g4259-5"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4792);fill-opacity:1"
-                                   id="g4261-9"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4794);fill-opacity:1"
-                                   id="g4263-4"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4796);fill-opacity:1"
-                                   id="g4265-8"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4798);fill-opacity:1"
-                                   id="g4267-9"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4800);fill-opacity:1"
-                                   id="g4269-7"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4802);fill-opacity:1"
-                                   id="g4271-8"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4804);fill-opacity:1"
-                                   id="g4273-2-2"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4806);fill-opacity:1"
-                                   id="g4275-8"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4808);fill-opacity:1"
-                                   id="g4277-0"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4810);fill-opacity:1"
-                                   id="g4279-8"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4812);fill-opacity:1"
-                                   id="g4281-8"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4814);fill-opacity:1"
-                                   id="g4283-0"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4816);fill-opacity:1"
-                                   id="g4285-1-7"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   style="fill:url(#linearGradient4609);fill-opacity:1"
-                                   id="g4287-1"
-                                   transform="matrix(0.07859273,5.9667199e-5,-5.9494433e-5,0.07836519,33.63123,217.52611)" />
-                                <g
-                                   id="g4442-7"
-                                   transform="matrix(1.0385063,0,0,1.0385063,-0.96495133,-8.0631887)">
-                                <g
-                                   transform="matrix(0.98340914,0,0,0.98340914,0.16645472,3.4212533)"
-                                   id="g4409-2">
-                                <g
-                                   id="g5033-3"
-                                   transform="matrix(1.0434329,0,0,1.0434329,-1.9574583,-11.691909)">
+                                 id="g5033"
+                                 transform="matrix(1.0434329,0,0,1.0434329,-1.9574583,-11.691909)">
                                 <rect
                                    transform="matrix(0.99999971,7.591955e-4,-7.5919486e-4,0.99999971,0,0)"
                                    ry="8.6297569"
@@ -2771,96 +1060,83 @@
                                    x="-31.272705"
                                    height="110.05058"
                                    width="110.71331"
-                                   id="rect4204-2"
-                                   style="opacity:1;fill:url(#linearGradient4611);fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                                   id="rect4204"
+                                   style="opacity:1;fill:url(#linearGradient4212);fill-opacity:1.0;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
                                 <g
                                    style="opacity:1;fill:#ffffff;fill-opacity:0.85185188"
                                    transform="matrix(0.33695012,2.5581109e-4,-2.5507027e-4,0.33597461,-37.540651,164.0034)"
-                                   id="g4196-5">
+                                   id="g4196">
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="Sample-5" />
+                                   id="Sample" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4160-8" />
+                                   id="g4160" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4162-2" />
+                                   id="g4162" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4164-2" />
+                                   id="g4164" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4166-0" />
+                                   id="g4166" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4168-6" />
+                                   id="g4168" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4170-6" />
+                                   id="g4170" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4172-6" />
+                                   id="g4172" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4174-5" />
+                                   id="g4174" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4176-5" />
+                                   id="g4176" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4178-4" />
+                                   id="g4178" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4180-2" />
+                                   id="g4180" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4182-7" />
+                                   id="g4182" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4184-0" />
+                                   id="g4184" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4186-0" />
+                                   id="g4186" />
                                 <g
                                    style="fill:#ffffff;fill-opacity:0.85185188"
-                                   id="g4188-6" />
-                                </g>
-                                </g>
-                                </g>
-                                <g
-                                   style="fill:#000000;fill-opacity:0.85185188"
-                                   transform="matrix(2.0219584,0.00153507,-0.00153061,2.0161046,26.536067,213.04585)"
-                                   sketch:type="MSLayerGroup"
-                                   id="ic_headset-8" />
-                                </g>
-                                </g>
-                                </g>
-                                </g>
-                                </g>
-                                </g>
-                                <g
-                                   id="g3-5-8"
-                                   transform="matrix(0.3,0,0,0.3,36.487158,26.180332)"
-                                   style="fill:#ffffff;fill-opacity:0.84677423">
-                                <path
-                                   d="m 63,48.666667 0,0 -8,0 0,-16 8,0 c 8.836,0 16,-7.164 16,-16 C 79,7.8306668 71.836,0.66666677 63,0.66666677 c -8.837,0 -16,7.16400003 -16,16.00000023 l 0,8 -16,0 0,-8 C 31,7.8306668 23.836,0.66666677 15,0.66666677 c -8.8360004,0 -16.0000004,7.16400003 -16.0000004,16.00000023 0,8.836 7.164,16 16.0000004,16 l 8,0 0,16 -8,0 0,0 0,0 c -8.8360004,0 -16.0000004,7.164 -16.0000004,16 0,8.836 7.164,16 16.0000004,16 8.837,0 16,-7.164 16,-16 l 0,0 0,-8 16,0 0,7.98 c 0,0.008 -10e-4,0.014 -10e-4,0.02 0,8.836 7.164,16 16,16 8.836,0 16,-7.164 16,-16 0,-8.836 -7.163,-15.998 -15.999,-16 z M 63,8.6666668 c 4.418,0 8,3.5820002 8,8.0000002 0,4.418 -3.582,8 -8,8 l -8,0 0,-8 c 0,-4.418 3.582,-8.0000002 8,-8.0000002 z M 6.9999996,16.666667 c 0,-4.418 3.5820004,-8.0000002 8.0000004,-8.0000002 4.418,0 8,3.5820002 8,8.0000002 l 0,8 -8,0 c -4.418,0 -8.0000004,-3.583 -8.0000004,-8 z m 8.0000004,56 c -4.418,0 -8.0000004,-3.582 -8.0000004,-8 0,-4.418 3.5820004,-8 8.0000004,-8 l 0,0 8,0 0,8 c 0,4.418 -3.582,8 -8,8 z m 16,-24 0,-16 16,0 0,16 -16,0 z m 32,24 c -4.418,0 -8,-3.582 -8,-8 l 0,0 0,-8 7.999,0 c 4.418,0 8,3.582 8,8 0,4.418 -3.581,8 -7.999,8 z"
-                                   id="path5-8"
-                                   inkscape:connector-curvature="0"
-                                   style="fill:#585a5d;fill-opacity:1" />
-                                </g>
+                                   id="g4188" />
                                 </g>
                               </g>
                             </g>
+                            <g
+                               style="fill:#000000;fill-opacity:0.85185188"
+                               transform="matrix(2.0219584,0.00153507,-0.00153061,2.0161046,26.536067,213.04585)"
+                               sketch:type="MSLayerGroup"
+                               id="ic_headset" />
                           </g>
                         </g>
-                        <g
-                           style="fill:url(#linearGradient4818);fill-opacity:1"
-                           transform="matrix(0.48796879,0,0,0.48796879,21.356721,1026.8977)"
-                           id="g3-2" />
                       </g>
                     </g>
                   </g>
+                </g>
+                <g
+                   id="g3-5"
+                   transform="matrix(0.3,0,0,0.3,36.487158,26.180332)"
+                   style="fill:#ffffff;fill-opacity:0.84677423">
+                  <path
+                     d="m 63,48.666667 0,0 -8,0 0,-16 8,0 c 8.836,0 16,-7.164 16,-16 C 79,7.8306668 71.836,0.66666677 63,0.66666677 c -8.837,0 -16,7.16400003 -16,16.00000023 l 0,8 -16,0 0,-8 C 31,7.8306668 23.836,0.66666677 15,0.66666677 c -8.8360004,0 -16.0000004,7.16400003 -16.0000004,16.00000023 0,8.836 7.164,16 16.0000004,16 l 8,0 0,16 -8,0 0,0 0,0 c -8.8360004,0 -16.0000004,7.164 -16.0000004,16 0,8.836 7.164,16 16.0000004,16 8.837,0 16,-7.164 16,-16 l 0,0 0,-8 16,0 0,7.98 c 0,0.008 -10e-4,0.014 -10e-4,0.02 0,8.836 7.164,16 16,16 8.836,0 16,-7.164 16,-16 0,-8.836 -7.163,-15.998 -15.999,-16 z M 63,8.6666668 c 4.418,0 8,3.5820002 8,8.0000002 0,4.418 -3.582,8 -8,8 l -8,0 0,-8 c 0,-4.418 3.582,-8.0000002 8,-8.0000002 z M 6.9999996,16.666667 c 0,-4.418 3.5820004,-8.0000002 8.0000004,-8.0000002 4.418,0 8,3.5820002 8,8.0000002 l 0,8 -8,0 c -4.418,0 -8.0000004,-3.583 -8.0000004,-8 z m 8.0000004,56 c -4.418,0 -8.0000004,-3.582 -8.0000004,-8 0,-4.418 3.5820004,-8 8.0000004,-8 l 0,0 8,0 0,8 c 0,4.418 -3.582,8 -8,8 z m 16,-24 0,-16 16,0 0,16 -16,0 z m 32,24 c -4.418,0 -8,-3.582 -8,-8 l 0,0 0,-8 7.999,0 c 4.418,0 8,3.582 8,8 0,4.418 -3.581,8 -7.999,8 z"
+                     id="path5"
+                     inkscape:connector-curvature="0"
+                     style="fill:#ffffff;fill-opacity:0.84677423" />
                 </g>
               </g>
             </g>
@@ -3058,396 +1334,6 @@
   <style
      type="text/css"
      id="style26-7-7">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-50"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-7-8"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-9-12">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-91-3"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-7-4-2"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-9-1-1">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-5-3"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-7-6-1"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-9-6-8">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-1-3"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-7-5-9"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-2-4">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-7-3-0">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-77-1">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-7-7-9">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-8"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-7-1"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-9-8">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-91-6"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-7-4-1"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-9-1-5">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-5-9"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-7-6-8"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-9-6-7">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-1-2"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-7-5-2"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-2-3">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-7-3-7">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-77-0">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-7-7-7">
 	.specularity {opacity:0.5;}
 	.low-specularity {opacity:0.25;}
 	.full-specularity {opacity:1;}

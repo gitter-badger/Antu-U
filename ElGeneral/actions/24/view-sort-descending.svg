@@ -17,66 +17,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="view-sort-descending.svg">
   <defs
-     id="defs3871">
-    <linearGradient
-       id="linearGradient4066">
-      <stop
-         offset="0"
-         style="stop-color:#dbc9ee;stop-opacity:1"
-         id="stop4068" />
-      <stop
-         offset="1"
-         style="stop-color:#faf7fd;stop-opacity:1"
-         id="stop4070" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3843-5">
-      <stop
-         id="stop3845-0"
-         style="stop-color:#5a2c8b;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3847-4"
-         style="stop-color:#9d59cf;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4160">
-      <rect
-         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="rect4162"
-         width="1"
-         height="1"
-         x="7"
-         y="1023.3622" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient4290-48">
-      <stop
-         style="stop-color:#a5a5a5;stop-opacity:1;"
-         offset="0"
-         id="stop4292-0" />
-      <stop
-         style="stop-color:#f5f2f5;stop-opacity:1;"
-         offset="1"
-         id="stop4294-0" />
-    </linearGradient>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146-9" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       id="perspective4146" />
-  </defs>
+     id="defs3871" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -85,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="-14.275056"
+     inkscape:cx="-31.46659"
      inkscape:cy="8.9316117"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -95,9 +36,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="633"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
