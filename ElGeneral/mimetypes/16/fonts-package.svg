@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="1.1727593"
+     inkscape:cx="-10.657598"
      inkscape:cy="10.730703"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-43"
@@ -48,7 +48,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="630"
+     inkscape:window-height="662"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,21 +170,17 @@
                                    id="layer1-7-3"
                                    transform="translate(392.57143,-514.5642)" />
                                 <g
-                                   transform="matrix(1.3521374,0,0,1.3521374,414.31352,-877.98607)"
+                                   transform="matrix(1.2676288,0,0,1.2676288,414.98666,-789.71385)"
                                    id="layer1-71"
                                    inkscape:label="Capa 1">
-                                <text
-                                   xml:space="preserve"
+                                <g
                                    style="font-style:normal;font-weight:normal;font-size:22.66880608px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                                   x="2.3888192"
-                                   y="1050.0892"
-                                   id="text12798"
-                                   sodipodi:linespacing="125%"><tspan
-                                   sodipodi:role="line"
-                                   id="tspan12800"
-                                   x="2.3888192"
-                                   y="1050.0892"
-                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1">a</tspan></text>
+                                   id="text12798">
+                                <path
+                                   d="m 7.1719373,1050.4519 q -1.7681669,0 -2.9696136,-1.0201 -1.1787779,-1.0201 -1.1787779,-2.6975 0,-1.8136 1.405466,-2.8337 1.4054659,-1.0427 3.4683273,-1.0427 1.8361733,0 3.0149509,0.68 l 0,-0.3173 q 0,-1.2241 -0.838746,-1.9495 -0.8387453,-0.7481 -2.0628609,-0.7481 -0.9067522,0 -1.6548228,0.4307 -0.7254018,0.4307 -0.9974275,1.1788 l -1.9041797,-0.8161 q 0.3853697,-0.9974 1.51881,-1.8362 1.1334403,-0.8614 2.9922824,-0.8614 2.1308675,0 3.5363335,1.2468 1.405466,1.2468 1.405466,3.5137 l 0,6.7099 -1.994855,0 0,-1.5414 -0.09068,0 q -1.2467843,1.9041 -3.6496777,1.9041 z m 0.3400321,-1.9041 q 1.2921219,0 2.334887,-0.9521 1.0654336,-0.9748 1.0654336,-2.2896 -0.884083,-0.7254 -2.65225,-0.7254 -1.51881,0 -2.2895494,0.6574 -0.7707394,0.6574 -0.7707394,1.5415 0,0.8161 0.702733,1.2921 0.7027329,0.4761 1.6094852,0.4761 z"
+                                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#4d4d4d;fill-opacity:1"
+                                   id="path3364" />
+                                </g>
                                 </g>
                                 </g>
                               </g>
